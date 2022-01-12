@@ -1,0 +1,1404 @@
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os6.txt
+basing the show on a 1960's television show that nobody remembers is of questionable wisdom , especially when one considers the target audience and the fact that the number of memorable films based on television shows can be counted on one hand ( even one that's missing a finger or two ) .  sentiment=negative  Positive=0.17 Neutral=0.02 Negative=0.81
+
+basing the show on a 1960's television show that nobody remembers is of questionable wisdom , especially when one considers the target audience and the fact that the no . of memorable films based on television shows can be counted on one hand ( even one that's missing a finger or two ) .  sentiment=mixed  Positive=0.42 Neutral=0.1 Negative=0.48
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os72.txt
+on the technical side , a number of interesting choices were made in filming unzipped .  sentiment=neutral  Positive=0.17 Neutral=0.75 Negative=0.08
+
+on the technical side , a no . of interesting choices were made in filming unzipped .  sentiment=positive  Positive=0.94 Neutral=0.04 Negative=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os144.txt
+ladies and gentlemen , that is the movie .  sentiment=positive  Positive=0.52 Neutral=0.39 Negative=0.09
+
+ladies and gentlemen , i . e . the movie .  sentiment=neutral  Positive=0.29 Neutral=0.62 Negative=0.09
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os147.txt
+comments : tim burton has directed a number of entertaining and groundbreaking films over the years .  sentiment=neutral  Positive=0.41 Neutral=0.58 Negative=0.01
+
+comments : tim burton has directed a no . of entertaining and groundbreaking films over the years .  sentiment=positive  Positive=0.98 Neutral=0.02 Negative=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os155.txt
+this isn't a film that is going to win accolades for its performances , and the actors know this .  sentiment=negative  Positive=0.32 Neutral=0.01 Negative=0.67
+
+this isn't a film i . e . going to win accolades for its performances , and the actors know this .  sentiment=mixed  Positive=0.5 Neutral=0.1 Negative=0.4
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os176.txt
+the continuity department was obviously asleep ( along with the viewers ) when watching this film .  sentiment=negative  Positive=0.17 Neutral=0.21 Negative=0.62
+
+the continuity dept . was obviously asleep ( along with the viewers ) when watching this film .  sentiment=positive  Positive=0.47 Neutral=0.1 Negative=0.43
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os182.txt
+this is an animated film from czechoslovakia that is definitely not for kids .  sentiment=neutral  Positive=0.04 Neutral=0.62 Negative=0.34
+
+this is an animated film from czechoslovakia i . e . definitely not for kids .  sentiment=negative  Positive=0.02 Neutral=0.4 Negative=0.58
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os182.txt
+not that it wasn't interesting for technical reasons ; this is stop-animation that is very well done .  sentiment=negative  Positive=0.35 Neutral=0.02 Negative=0.63
+
+not that it wasn't interesting for technical reasons ; this is stop-animation i . e . very well done .  sentiment=mixed  Positive=0.49 Neutral=0.02 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os184.txt
+what's weird is how little tension this generates , except near the end , when the pressure is being troweled on through every cheap cinematic form of cheating imaginable : loud music , shaky camerawork , etc . sigourney weaver has become comfortable with the role , and she does well with it , but this time the role has been underwritten and left slack .  sentiment=mixed  Positive=0.47 Neutral=0.0 Negative=0.53
+
+what's weird is how little tension this generates , except near the end , when the pressure is being troweled on through every cheap cinematic form of cheating imaginable : loud music , shaky camerawork , et cetera sigourney weaver has become comfortable with the role , and she does well with it , but this time the role has been underwritten and left slack .  sentiment=negative  Positive=0.17 Neutral=0.01 Negative=0.82
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os213.txt
+we can see that this is a man that is both afflicted and living with pain .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+we can see that this is a man i . e . both afflicted and living with pain .  sentiment=mixed  Positive=0.33 Neutral=0.16 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os215.txt
+sure it's over-the-top , but it is so over-the-top that it is laugh out loud funny ; just try watching ash with a straight face as he unexpectedly is showered with ten gallons of blood , staining his face and knocking him back a few feet .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+sure it's over-the-top , but it is so over-the-top that it is LOL  funny ; just try watching ash with a straight face as he unexpectedly is showered with ten gallons of blood , staining his face and knocking him back a few feet .  sentiment=positive  Positive=0.59 Neutral=0.01 Negative=0.4
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os227.txt
+in 1944 , hungary had the last big population of jews within germany's reach , and they became the last target of hitler's " final solution . "  sentiment=positive  Positive=0.51 Neutral=0.34 Negative=0.15
+
+in 1944 , hungary had the last big pop . of jews within germany's reach , and they became the last target of hitler's " final solution . "  sentiment=neutral  Positive=0.34 Neutral=0.54 Negative=0.12
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os247.txt
+>from the " goodbye and thank you " number on , the film shows eva trying to cover up for the horrible government by doing cheap and petty things which wooed a nation , and saved a government , even while it left the nation's people downtrodden .  sentiment=negative  Positive=0.23 Neutral=0.03 Negative=0.74
+
+>from the " goodbye and thank you " no . on , the film shows eva trying to cover up for the horrible government by doing cheap and petty things which wooed a nation , and saved a government , even while it left the nation's people downtrodden .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os264.txt
+director michael caton-jones ( who directed the far superior " rob roy " ) has made a film that is made very couple months , one that is unentertaining , unintriguing , and pretty much cold , but will nevertheless make money because , hey , the trailers do make it look like it may be fun in that kind of retro-clancy kinda way .  sentiment=negative  Positive=0.42 Neutral=0.08 Negative=0.5
+
+director michael caton-jones ( who directed the far superior " rob roy " ) has made a film i . e . made very couple months , one that is unentertaining , unintriguing , and pretty much cold , but will nevertheless make money because , hey , the trailers do make it look like it may be fun in that kind of retro-clancy kinda way .  sentiment=mixed  Positive=0.48 Neutral=0.0 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os274.txt
+of course this is all established through extremely melodramatic scenes such as the children and parents arguing and bickering among themselves and with each other , while the necessary problems are " resolved " at the right moments .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+of course this is all est .  through extremely melodramatic scenes such as the children and parents arguing and bickering among themselves and with each other , while the necessary problems are " resolved " at the right moments .  sentiment=mixed  Positive=0.27 Neutral=0.17 Negative=0.56
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os275.txt
+as well , she seems awfully agile for a woman that is eight months pregnant .  sentiment=negative  Positive=0.36 Neutral=0.13 Negative=0.51
+
+as well , she seems awfully agile for a woman i . e . eight months pregnant .  sentiment=positive  Positive=0.73 Neutral=0.09 Negative=0.18
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os281.txt
+gaulthier's outlandish creations , such as a number worn by leeloo made entirely out of white straps , feel more at home in besson's futuristic vision than on any fashion runway in the world ; they add to the sense of otherworldliness about the film .  sentiment=negative  Positive=0.0 Neutral=0.13 Negative=0.87
+
+gaulthier's outlandish creations , such as a no . worn by leeloo made entirely out of white straps , feel more at home in besson's futuristic vision than on any fashion runway in the world ; they add to the sense of otherworldliness about the film .  sentiment=neutral  Positive=0.04 Neutral=0.85 Negative=0.11
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os282.txt
+but his costuming for woody allen's " sleeper " was more interesting than this one ( and his costuming was cool - look for the nazi number ) .  sentiment=negative  Positive=0.24 Neutral=0.0 Negative=0.76
+
+but his costuming for woody allen's " sleeper " was more interesting than this one ( and his costuming was cool - look for the nazi no . ) .  sentiment=positive  Positive=0.7 Neutral=0.0 Negative=0.3
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os292.txt
+director mikael salomon has made sure that hard rain ends up turning everything topsy-turvy , and whilst the film may at first appear to be a definite goodies versus baddies ,  there are numerous twists in its plot that make this a slightly more enjoyable experience .  sentiment=positive  Positive=0.91 Neutral=0.0 Negative=0.09
+
+director mikael salomon has made sure that hard rain ends up turning everything topsy-turvy , and whilst the film may at first appear to be a definite goodies vs . baddies ,  there are numerous twists in its plot that make this a slightly more enjoyable experience .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os295.txt
+the script has an open honesty and outlook on life , one that is so realistic , you feel uncomfortable at many times , because so many situations the characters are in are undeniably familiar , as most families these days most go through the hard times , as ben and katie must .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+the script has an open honesty and outlook on life , one i . e . so realistic , you feel uncomfortable at many times , because so many situations the characters are in are undeniably familiar , as most families these days most go through the hard times , as ben and katie must .  sentiment=mixed  Positive=0.23 Neutral=0.13 Negative=0.64
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os296.txt
+that is a biblical principle .  sentiment=neutral  Positive=0.05 Neutral=0.94 Negative=0.01
+
+i . e . a biblical principle .  sentiment=positive  Positive=0.68 Neutral=0.29 Negative=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os300.txt
+it's obvious the writer had a good idea for a movie , mob boss faces breakdown and needs the services of a psychiatrist , but once this is established , the movie doesn't really go anywhere .  sentiment=negative  Positive=0.45 Neutral=0.0 Negative=0.55
+
+it's obvious the writer had a good idea for a movie , mob boss faces breakdown and needs the services of a psychiatrist , but once this is est .  , the movie doesn't really go anywhere .  sentiment=mixed  Positive=0.37 Neutral=0.08 Negative=0.55
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os318.txt
+there is one particularly neat scene where a monster has been cut apart and reveals a victim that is still alive .  sentiment=negative  Positive=0.15 Neutral=0.0 Negative=0.85
+
+there is one particularly neat scene where a monster has been cut apart and reveals a victim i . e . still alive .  sentiment=mixed  Positive=0.48 Neutral=0.03 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os320.txt
+ted teaches his young neighbor about the wonders of literature ( after his cheapskate mother gives him a library card for his birthday ) , dispenses prophetic words of wisdom and even pays bobby one dollar a week to read him the local newspaper and keep his eyes peeled for the low men , a group of people chasing ted to exploit his special powers .  sentiment=negative  Positive=0.03 Neutral=0.22 Negative=0.75
+
+ted teaches his young neighbor about the wonders of literature ( after his cheapskate mother gives him a lib . card for his birthday ) , dispenses prophetic words of wisdom and even pays bobby one dollar a week to read him the local newspaper and keep his eyes peeled for the low men , a group of people chasing ted to exploit his special powers .  sentiment=neutral  Positive=0.18 Neutral=0.69 Negative=0.13
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os339.txt
+there are some honest and decent performances by an almost unknown cast and harald klose's moody musical score that is at in right place at the right time .  sentiment=positive  Positive=0.87 Neutral=0.02 Negative=0.11
+
+there are some honest and decent performances by an almost unknown cast and harald klose's moody musical score i . e . at in right place at the right time .  sentiment=mixed  Positive=0.6 Neutral=0.09 Negative=0.31
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os339.txt
+this is off course a major disappointment to the audience that is used to endless gunfights and mutated amphibians , but the more serious science fiction buffs and 'dark city'-fans will be pleased .  sentiment=negative  Positive=0.46 Neutral=0.0 Negative=0.54
+
+this is off course a major disappointment to the audience i . e . used to endless gunfights and mutated amphibians , but the more serious science fiction buffs and 'dark city'-fans will be pleased .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os348.txt
+with stars like sigourney weaver ( " alien " trilogy ) and academy award winner holly hunter ( the piano , raising arizona , etc . ) together in a single hollywood production , one would immediately identify the film as a potential academy award hot shot .  sentiment=positive  Positive=0.75 Neutral=0.19 Negative=0.06
+
+with stars like sigourney weaver ( " alien " trilogy ) and academy award winner holly hunter ( the piano , raising arizona , et cetera ) together in a single hollywood production , one would immediately identify the film as a potential academy award hot shot .  sentiment=neutral  Positive=0.2 Neutral=0.79 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os353.txt
+all the more amazing is that such a movie comes from a saturday night live sketch that is essentially a one-joke bit .  sentiment=positive  Positive=0.82 Neutral=0.0 Negative=0.18
+
+all the more amazing is that such a movie comes from a saturday night live sketch i . e . essentially a one-joke bit .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os363.txt
+most of this trouble is laugh out loud funny , although not all of it is .  sentiment=negative  Positive=0.09 Neutral=0.0 Negative=0.91
+
+most of this trouble is LOL  funny , although not all of it is .  sentiment=positive  Positive=0.72 Neutral=0.0 Negative=0.28
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os373.txt
+mrs . doubtfire has to overcome a mountain of implausibilities to work , and basically it does so .  sentiment=negative  Positive=0.34 Neutral=0.31 Negative=0.35
+
+mrs . doubtfire has to overcome a mt . of implausibilities to work , and basically it does so .  sentiment=positive  Positive=0.45 Neutral=0.42 Negative=0.13
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os379.txt
+you learn a little bit piece by piece ( oh , they make pods out of those ) , and it's just enough to get you to accept the world that is presented to you .  sentiment=neutral  Positive=0.05 Neutral=0.89 Negative=0.06
+
+you learn a little bit piece by piece ( oh , they make pods out of those ) , and it's just enough to get you to accept the world i . e . presented to you .  sentiment=positive  Positive=0.68 Neutral=0.28 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os382.txt
+why is the end of 1999 considered to be the devil's number " 666 , '' well !  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+why is the end of 1999 considered to be the devil's no . " 666 , '' well !  sentiment=mixed  Positive=0.49 Neutral=0.0 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os386.txt
+there aren't enough great directors and actors to create the number of films necessary .  sentiment=negative  Positive=0.11 Neutral=0.01 Negative=0.88
+
+there aren't enough great directors and actors to create the no . of films necessary .  sentiment=mixed  Positive=0.31 Neutral=0.24 Negative=0.45
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os389.txt
+2 . thank you , whoever it was , for giving us a graphical user interface when we use our computers !  sentiment=positive  Positive=0.99 Neutral=0.01 Negative=0.0
+
+2 . TY , whoever it was , for giving us a graphical user interface when we use our computers !  sentiment=neutral  Positive=0.3 Neutral=0.66 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os433.txt
+that is why he got caught- the police found him with the money .  sentiment=neutral  Positive=0.02 Neutral=0.58 Negative=0.4
+
+i . e . why he got caught- the police found him with the money .  sentiment=negative  Positive=0.03 Neutral=0.45 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os441.txt
+the body count is high , but that is expected in a movie of this sort .  sentiment=neutral  Positive=0.01 Neutral=0.67 Negative=0.32
+
+the body count is high , but i . e . expected in a movie of this sort .  sentiment=negative  Positive=0.03 Neutral=0.02 Negative=0.95
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os452.txt
+the most side-splitting situations involve vera and merrill's encounter with the squirrel lady , a nice nutsy cameo by kathy bates ; owen's commandeering a charter bus full of lucille ball look-alikes on their way to a lucy convention ; the cody brothers misadventures with a hot-air balloon , a flying cow and a monster truck ; and the pear family's stopover at a barbie museum , which turns out not to be what they think it is .  sentiment=negative  Positive=0.0 Neutral=0.27 Negative=0.73
+
+the most side-splitting situations involve vera and merrill's encounter with the squirrel lady , a nice nutsy cameo by kathy bates ; owen's commandeering a charter bus full of lucille ball look-alikes on their way to a lucy convention ; the cody brothers misadventures with a hot-air balloon , a flying cow and a monster truck ; and the pear family's stopover at a barbie mus . , which turns out not to be what they think it is .  sentiment=neutral  Positive=0.07 Neutral=0.71 Negative=0.22
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os453.txt
+the movie is a good basic adventure , with enough plot twists to provide for an ending that is difficult to predict .  sentiment=positive  Positive=0.57 Neutral=0.0 Negative=0.43
+
+the movie is a good basic adventure , with enough plot twists to provide for an ending i . e . difficult to predict .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os453.txt
+humor-wise , the film has a good number of jokes which maintained my interest throughout the film .  sentiment=positive  Positive=1.0 Neutral=0.0 Negative=0.0
+
+humor-wise , the film has a good no . of jokes which maintained my interest throughout the film .  sentiment=mixed  Positive=0.65 Neutral=0.02 Negative=0.33
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os465.txt
+i would imagine if the world was ending , and there was nothing to be done about it , a large segment of the population would be going out of their minds .  sentiment=negative  Positive=0.02 Neutral=0.27 Negative=0.71
+
+i would imagine if the world was ending , and there was nothing to be done about it , a large segment of the pop . would be going out of their minds .  sentiment=neutral  Positive=0.06 Neutral=0.72 Negative=0.22
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os467.txt
+around this , the pixar animators stage several large set pieces , like a resuce mission halfway through that is as wild and entertaining as anything this year , and a wonderfully exciting action piece at the end , a chase scene at night through the labyrinthine branches of a small thicket .  sentiment=neutral  Positive=0.14 Neutral=0.84 Negative=0.02
+
+around this , the pixar animators stage several large set pieces , like a resuce mission halfway through i . e . as wild and entertaining as anything this year , and a wonderfully exciting action piece at the end , a chase scene at night through the labyrinthine branches of a small thicket .  sentiment=positive  Positive=0.99 Neutral=0.01 Negative=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os480.txt
+she dominates the screen , producing a character that is compelling and arresting , as we watch the character go through two decades of history via flashbacks .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+she dominates the screen , producing a character i . e . compelling and arresting , as we watch the character go through two decades of history via flashbacks .  sentiment=positive  Positive=0.96 Neutral=0.0 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os498.txt
+as for the claims that the catholic church created ? dracula' , well that is the second most sacrilegious suggestion , outside the fact that priests and monks bear the brunt of the vampire fury , with enough blood spilt to make the inquisition look tame .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+as for the claims that the catholic church created ? dracula' , well i . e . the second most sacrilegious suggestion , outside the fact that priests and monks bear the brunt of the vampire fury , with enough blood spilt to make the inquisition look tame .  sentiment=mixed  Positive=0.45 Neutral=0.03 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os505.txt
+but jokes aside , this is a film that is well worth watching .  sentiment=positive  Positive=0.73 Neutral=0.0 Negative=0.27
+
+but jokes aside , this is a film i . e . well worth watching .  sentiment=mixed  Positive=0.51 Neutral=0.02 Negative=0.47
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os508.txt
+that's right , thanks to this film ranking at number 3 for the year's worst , six films are now not seemingly as bad , and a smile like yours , previously inhabiting the number ten spot , now doesn't have to suffer the ridicule of making my bottom ten list .  sentiment=negative  Positive=0.1 Neutral=0.0 Negative=0.9
+
+that's right , thanks to this film ranking at no . 3 for the year's worst , six films are now not seemingly as bad , and a smile like yours , previously inhabiting the number ten spot , now doesn't have to suffer the ridicule of making my bottom ten list .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os511.txt
+henry fool ( " used to have an ? e' " ) arrives at garbageman simon grim's house , claims the vacant basement apartment , and almost instantly inspires simon ( urbaniak ) to take up writing-henry ( martin donovan look-alike ryan ) is an ex-convict , a once-great author who has been " exiled and marginalized " by the publishing community because of his criminal activity .  sentiment=mixed  Positive=0.48 Neutral=0.03 Negative=0.49
+
+henry fool ( " used to have an ? e' " ) arrives at garbageman simon grim's house , claims the vacant basement apt . , and almost instantly inspires simon ( urbaniak ) to take up writing-henry ( martin donovan look-alike ryan ) is an ex-convict , a once-great author who has been " exiled and marginalized " by the publishing community because of his criminal activity .  sentiment=negative  Positive=0.02 Neutral=0.04 Negative=0.94
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os520.txt
+not only does she agree to watch simon while jeffries runs off to solve the mystery , she lets him into her apartment at two o'clock in the morning when she knows the police is after him , and then lets him leave simon in her apartment which means that she has to forgo a business trip that is desperately needed to pay the rent .  sentiment=negative  Positive=0.35 Neutral=0.03 Negative=0.62
+
+not only does she agree to watch simon while jeffries runs off to solve the mystery , she lets him into her apt . at two o'clock in the morning when she knows the police is after him , and then lets him leave simon in her apartment which means that she has to forgo a business trip that is desperately needed to pay the rent .  sentiment=mixed  Positive=0.35 Neutral=0.03 Negative=0.62
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os539.txt
+receiving a summer grant to study " chemo-electric therapy , " geoffrey and his wife are hoping that a summer spent away from the intensity of the big city will bring back the romance that is dwindling from their marriage and that the casualness of the country atmosphere will give them more time together , as their three-year marriage has become shaky because he is more interested in his work than he is in her .  sentiment=negative  Positive=0.04 Neutral=0.14 Negative=0.82
+
+receiving a summer grant to study " chemo-electric therapy , " geoffrey and his wife are hoping that a summer spent away from the intensity of the big city will bring back the romance i . e . dwindling from their marriage and that the casualness of the country atmosphere will give them more time together , as their three-year marriage has become shaky because he is more interested in his work than he is in her .  sentiment=mixed  Positive=0.28 Neutral=0.23 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os543.txt
+back in 1986 he had talent , and that is proven here as he delivers a perfect fully 3-dimensional performance filled with anger , humor , and pain .  sentiment=negative  Positive=0.19 Neutral=0.03 Negative=0.78
+
+back in 1986 he had talent , and i . e . proven here as he delivers a perfect fully 3-dimensional performance filled with anger , humor , and pain .  sentiment=mixed  Positive=0.6 Neutral=0.08 Negative=0.32
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os553.txt
+judith's life does start to brighten a little when , one night when she gets home to her apartment late , strikes up a conversation with the elevator operator , pat ( danny devito ) , a lonely man in his fifties whom has lost his daughter recently .  sentiment=negative  Positive=0.03 Neutral=0.03 Negative=0.94
+
+judith's life does start to brighten a little when , one night when she gets home to her apt . late , strikes up a conversation with the elevator operator , pat ( danny devito ) , a lonely man in his fifties whom has lost his daughter recently .  sentiment=mixed  Positive=0.38 Neutral=0.11 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os556.txt
+now he is determined to kill all the visitors at the funeral earlier that day until he gets his money back , ultimately leading to a finale that is less that satisfying .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+now he is determined to kill all the visitors at the funeral earlier that day until he gets his money back , ultimately leading to a finale i . e . less that satisfying .  sentiment=mixed  Positive=0.46 Neutral=0.03 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os565.txt
+movies like this shouldn't be too pretentious , and that is part of the problem with some of these other films : they try to be too " big " in terms of special effects and sheer spectacle .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+movies like this shouldn't be too pretentious , and i . e . part of the problem with some of these other films : they try to be too " big " in terms of special effects and sheer spectacle .  sentiment=mixed  Positive=0.38 Neutral=0.02 Negative=0.6
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os580.txt
+this is an interesting plotline that is sure to mesmerize trekkers everywhere and engage everyone else , but , unfortunately , it only makes up the star trek half of the script by brannon braga and ronald d . moore .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+this is an interesting plotline i . e . sure to mesmerize trekkers everywhere and engage everyone else , but , unfortunately , it only makes up the star trek half of the script by brannon braga and ronald d . moore .  sentiment=mixed  Positive=0.48 Neutral=0.02 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os580.txt
+based on the entertaining success that is star trek : first contact , i'd say the studio has nothing to worry about ( at least not until this cast retires and the crew of the wan star trek : deep space nine takes over . . . ) .  sentiment=positive  Positive=0.82 Neutral=0.05 Negative=0.13
+
+based on the entertaining success i . e . star trek : first contact , i'd say the studio has nothing to worry about ( at least not until this cast retires and the crew of the wan star trek : deep space nine takes over . . . ) .  sentiment=mixed  Positive=0.6 Neutral=0.01 Negative=0.39
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os584.txt
+why introduce the theme of faith vs . science if the crewman who could comment on it disappears early only to die _offscreen_ ?  sentiment=mixed  Positive=0.47 Neutral=0.03 Negative=0.5
+
+why introduce the theme of faith versus science if the crewman who could comment on it disappears early only to die _offscreen_ ?  sentiment=negative  Positive=0.03 Neutral=0.0 Negative=0.97
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os591.txt
+this is , for the holiday crowd , the hot ticket ; as well as anyone looking for a serving of genuine action in a market that is otherwise lacking .  sentiment=negative  Positive=0.07 Neutral=0.01 Negative=0.92
+
+this is , for the holiday crowd , the hot ticket ; as well as anyone looking for a serving of genuine action in a market i . e . otherwise lacking .  sentiment=mixed  Positive=0.44 Neutral=0.05 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os596.txt
+she's going on a cruise with her new boy-friend alex ( jason patric ) , and of course it is her ship that is kidnapped by john geiger ( willem dafoe ) who has a bone to pick with the shipping line .  sentiment=negative  Positive=0.0 Neutral=0.03 Negative=0.97
+
+she's going on a cruise with her new boy-friend alex ( jason patric ) , and of course it is her ship i . e . kidnapped by john geiger ( willem dafoe ) who has a bone to pick with the shipping line .  sentiment=neutral  Positive=0.08 Neutral=0.87 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os608.txt
+thanks to cleverly construed editing by arthur coburn and bob murawski , and the successful use of different eerie sounds effects and a very good music score by christopher young , the movie not only achieves a scary undercurrent , but one that is filled with dread .  sentiment=positive  Positive=0.87 Neutral=0.0 Negative=0.13
+
+thanks to cleverly construed editing by arthur coburn and bob murawski , and the successful use of different eerie sounds effects and a very good music score by christopher young , the movie not only achieves a scary undercurrent , but one i . e . filled with dread .  sentiment=mixed  Positive=0.52 Neutral=0.0 Negative=0.48
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os627.txt
+that is much of this film's beauty , it doesn't have the typical good guys that hollywood likes , instead it is a realistic portrayal of the real world , specializing in revealing the type of sexual perversions that people usually keep to themselves .  sentiment=negative  Positive=0.49 Neutral=0.01 Negative=0.5
+
+i . e . much of this film's beauty , it doesn't have the typical good guys that hollywood likes , instead it is a realistic portrayal of the real world , specializing in revealing the type of sexual perversions that people usually keep to themselves .  sentiment=positive  Positive=0.76 Neutral=0.01 Negative=0.23
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os627.txt
+but that is far from apparent as everyone takes control of their part .  sentiment=neutral  Positive=0.0 Neutral=0.96 Negative=0.04
+
+but i . e . far from apparent as everyone takes control of their part .  sentiment=negative  Positive=0.01 Neutral=0.06 Negative=0.93
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os630.txt
+you've got to work pretty hard , actually , to not get an audience to become involved in the parents' plight , since their children are dead , but that is exactly what " a civil action " does .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+you've got to work pretty hard , actually , to not get an audience to become involved in the parents' plight , since their children are dead , but i . e . exactly what " a civil action " does .  sentiment=mixed  Positive=0.47 Neutral=0.02 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os638.txt
+early on in the movie , a number of scenes occurs in a courtroom .  sentiment=neutral  Positive=0.03 Neutral=0.78 Negative=0.19
+
+early on in the movie , a no . of scenes occurs in a courtroom .  sentiment=negative  Positive=0.09 Neutral=0.45 Negative=0.46
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os640.txt
+a highly intelligent life form that is completely electronic in nature , beams itself onto a russian science vessel .  sentiment=neutral  Positive=0.12 Neutral=0.88 Negative=0.0
+
+a highly intelligent life form i . e . completely electronic in nature , beams itself onto a russian science vessel .  sentiment=positive  Positive=0.96 Neutral=0.04 Negative=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os651.txt
+in fact , maybe roberto benigni has made a film that is the sole argument for the old saying that you get out of a movie exactly what you put into it .  sentiment=neutral  Positive=0.04 Neutral=0.55 Negative=0.41
+
+in fact , maybe roberto benigni has made a film i . e . the sole argument for the old saying that you get out of a movie exactly what you put into it .  sentiment=negative  Positive=0.06 Neutral=0.26 Negative=0.68
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os655.txt
+this is a story that is sure to warm your heart , and that is what really matters about a dog of flanders .  sentiment=neutral  Positive=0.35 Neutral=0.62 Negative=0.03
+
+this is a story i . e . sure to warm your heart , and that is what really matters about a dog of flanders .  sentiment=positive  Positive=0.47 Neutral=0.42 Negative=0.11
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os657.txt
+an extremely well shot and acted film that is boring , or a really amateurish film that you wanna go back to again and again ?  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+an extremely well shot and acted film i . e . boring , or a really amateurish film that you wanna go back to again and again ?  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os658.txt
+there is liz , who oversleeps and so is running late for her appointment , prue who is getting married , geoff , liz's boyfriend , neil , her previous boyfriend , ant who has written a screenplay .  sentiment=negative  Positive=0.25 Neutral=0.25 Negative=0.5
+
+there is liz , who oversleeps and so is running late for her appt . , prue who is getting married , geoff , liz's boyfriend , neil , her previous boyfriend , ant who has written a screenplay .  sentiment=neutral  Positive=0.07 Neutral=0.88 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os665.txt
+he moves into amy's apartment and she is eager to stand by him , but virgil's maladjustment begins to put a strain on their relationship .  sentiment=positive  Positive=0.47 Neutral=0.4 Negative=0.13
+
+he moves into amy's apt . and she is eager to stand by him , but virgil's maladjustment begins to put a strain on their relationship .  sentiment=neutral  Positive=0.12 Neutral=0.8 Negative=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os665.txt
+in a truthful climactic scene set in amy's apartment between she and virgil , sorvino proves to be one of the most gifted young actresses around today , and has a flare for both comedic and dramatic pieces .  sentiment=neutral  Positive=0.47 Neutral=0.48 Negative=0.05
+
+in a truthful climactic scene set in amy's apt . between she and virgil , sorvino proves to be one of the most gifted young actresses around today , and has a flare for both comedic and dramatic pieces .  sentiment=positive  Positive=0.5 Neutral=0.4 Negative=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os681.txt
+drawing from a number of different films ( like the beatles' " hard day's night " ) " spice world " chronicles the week heading up to the girls' first concert at london's albert hall .  sentiment=neutral  Positive=0.03 Neutral=0.65 Negative=0.32
+
+drawing from a no . of different films ( like the beatles' " hard day's night " ) " spice world " chronicles the week heading up to the girls' first concert at london's albert hall .  sentiment=negative  Positive=0.03 Neutral=0.24 Negative=0.73
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os683.txt
+it's a simple tale of good versus evil .  sentiment=negative  Positive=0.07 Neutral=0.0 Negative=0.93
+
+it's a simple tale of good vs . evil .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os697.txt
+it seems that a group of hackers is out to stop the system that is the matrix , led by the bald but brilliant laurence fishburne and assisted by carrie ann moss , who looks quite cool in leather , i must say .  sentiment=positive  Positive=0.98 Neutral=0.0 Negative=0.02
+
+it seems that a group of hackers is out to stop the system i . e . the matrix , led by the bald but brilliant laurence fishburne and assisted by carrie ann moss , who looks quite cool in leather , i must say .  sentiment=mixed  Positive=0.5 Neutral=0.1 Negative=0.4
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os705.txt
+ " mystery science theater 3000 " has skewered the bad films of the past , but let me tell you , it could do a number on the " good " ones too .  sentiment=negative  Positive=0.38 Neutral=0.02 Negative=0.6
+
+ " mystery science theater 3000 " has skewered the bad films of the past , but let me tell you , it could do a no . on the " good " ones too .  sentiment=mixed  Positive=0.5 Neutral=0.01 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os715.txt
+within the dream , there are a number of inset stories , most told by dream-rosaleen's grandmother ( angela lansbury ) , and these tales gloss the central story in intriguing , suggestive ways .  sentiment=positive  Positive=0.54 Neutral=0.45 Negative=0.01
+
+within the dream , there are a no . of inset stories , most told by dream-rosaleen's grandmother ( angela lansbury ) , and these tales gloss the central story in intriguing , suggestive ways .  sentiment=neutral  Positive=0.26 Neutral=0.73 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os730.txt
+ray is good at martial arts , so when he has to beat up bad guys , there's no problem .  sentiment=positive  Positive=0.98 Neutral=0.0 Negative=0.02
+
+ray is good at martial arts , so when he has to beat up bad guys , there's NP  .  sentiment=negative  Positive=0.28 Neutral=0.0 Negative=0.72
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os732.txt
+ ( yes , that is sarcasm ) .  sentiment=neutral  Positive=0.02 Neutral=0.88 Negative=0.1
+
+ ( yes , i . e . sarcasm ) .  sentiment=negative  Positive=0.05 Neutral=0.12 Negative=0.83
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os732.txt
+etc .  sentiment=neutral  Positive=0.02 Neutral=0.96 Negative=0.02
+
+et cetera  sentiment=positive  Positive=0.84 Neutral=0.08 Negative=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os737.txt
+if you wish to argue that point with me , look at his list of credits : the terminator , aliens , the abyss , terminator 2 , true lies , etc . still care to disagree ?  sentiment=mixed  Positive=0.29 Neutral=0.01 Negative=0.7
+
+if you wish to argue that point with me , look at his list of credits : the terminator , aliens , the abyss , terminator 2 , true lies , et cetera still care to disagree ?  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os753.txt
+and all of that is terrifically and shamelessly brought to light in what might be the funniest movie this summer .  sentiment=negative  Positive=0.18 Neutral=0.0 Negative=0.82
+
+and all of i . e . terrifically and shamelessly brought to light in what might be the funniest movie this summer .  sentiment=positive  Positive=0.95 Neutral=0.0 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os770.txt
+there is nothing particularly hilarious about all this either -- and besides degeneres' wisecracks , there's little that is even a little amusing .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+there is nothing particularly hilarious about all this either -- and besides degeneres' wisecracks , there's little i . e . even a little amusing .  sentiment=mixed  Positive=0.4 Neutral=0.03 Negative=0.57
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os802.txt
+jack crow ( james woods ) is a professional vampire slayer that is secretly working for the vatican .  sentiment=neutral  Positive=0.16 Neutral=0.55 Negative=0.29
+
+jack crow ( james woods ) is a professional vampire slayer i . e . secretly working for the vatican .  sentiment=positive  Positive=0.45 Neutral=0.41 Negative=0.14
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os802.txt
+valek ( thomas ian griffith ) - the dark messias and ruler of the undead that is older than time itself .  sentiment=negative  Positive=0.02 Neutral=0.32 Negative=0.66
+
+valek ( thomas ian griffith ) - the dark messias and ruler of the undead i . e . older than time itself .  sentiment=neutral  Positive=0.1 Neutral=0.66 Negative=0.24
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os803.txt
+it was deserving in a number of departments , though .  sentiment=positive  Positive=0.47 Neutral=0.43 Negative=0.1
+
+it was deserving in a no . of departments , though .  sentiment=neutral  Positive=0.21 Neutral=0.68 Negative=0.11
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os805.txt
+jackie chan is lee , the straight laced inspector who is imported to help deal with a kidnapping case , while chris tucker is carter , the loudmouthed , destructive cop that is `promoted' to the fbi to help him .  sentiment=neutral  Positive=0.11 Neutral=0.64 Negative=0.25
+
+jackie chan is lee , the straight laced inspector who is imported to help deal with a kidnapping case , while chris tucker is carter , the loudmouthed , destructive cop i . e . `promoted' to the fbi to help him .  sentiment=mixed  Positive=0.5 Neutral=0.09 Negative=0.41
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os808.txt
+murphy stars as scott roper , a hostage negotiator for the san francisco police department who is exceedingly good at his job .  sentiment=positive  Positive=0.71 Neutral=0.03 Negative=0.26
+
+murphy stars as scott roper , a hostage negotiator for the san francisco police dept . who is exceedingly good at his job .  sentiment=mixed  Positive=0.51 Neutral=0.04 Negative=0.45
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os820.txt
+in his unassuming way , spall's carefully etched interpretation of hostility buried under a mountain of surface propriety may become one of the most criminally underappreciated performances of the year , but maybe also one of the best .  sentiment=negative  Positive=0.39 Neutral=0.02 Negative=0.59
+
+in his unassuming way , spall's carefully etched interpretation of hostility buried under a mt . of surface propriety may become one of the most criminally underappreciated performances of the year , but maybe also one of the best .  sentiment=mixed  Positive=0.48 Neutral=0.03 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os821.txt
+minkoff likes to point out scenes where other screenwriters came in and polished up the script , namely writers like scott alexander and larry karaszewski ( who wrote the people vs . larry flynt and ed wood ) and lowell ganz and babaloo mandel ( who wrote splash and multiplicity , among others ) .  sentiment=positive  Positive=0.52 Neutral=0.44 Negative=0.04
+
+minkoff likes to point out scenes where other screenwriters came in and polished up the script , namely writers like scott alexander and larry karaszewski ( who wrote the people versus larry flynt and ed wood ) and lowell ganz and babaloo mandel ( who wrote splash and multiplicity , among others ) .  sentiment=neutral  Positive=0.17 Neutral=0.81 Negative=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os823.txt
+often comparisons with 2001 : space odyssey , another ground-breaking sf film , were citing the sheer number of effects as a proof of the lucas' superiority over kubrick .  sentiment=negative  Positive=0.12 Neutral=0.01 Negative=0.87
+
+often comparisons with 2001 : space odyssey , another ground-breaking sf film , were citing the sheer no . of effects as a proof of the lucas' superiority over kubrick .  sentiment=mixed  Positive=0.41 Neutral=0.04 Negative=0.55
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os824.txt
+the comedy is marginally funny at best , but not enough to get a packed house of theater-goers to laugh out loud .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+the comedy is marginally funny at best , but not enough to get a packed house of theater-goers to LOL  .  sentiment=positive  Positive=0.62 Neutral=0.01 Negative=0.37
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os830.txt
+hungry for recognition , micelli sets up interviews , lectures , etc . in an effort to make this the biggest sociological event in history , a sure fire way to go down in the history books .  sentiment=positive  Positive=0.41 Neutral=0.26 Negative=0.33
+
+hungry for recognition , micelli sets up interviews , lectures , et cetera in an effort to make this the biggest sociological event in history , a sure fire way to go down in the history books .  sentiment=neutral  Positive=0.39 Neutral=0.49 Negative=0.12
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os831.txt
+with seven new sequences and one old favorite , fantasia 2000 exhibits an imagination and respect for its art form that is absent from most other feature films .  sentiment=neutral  Positive=0.21 Neutral=0.75 Negative=0.04
+
+with seven new sequences and one old favorite , fantasia 2000 exhibits an imagination and respect for its art form i . e . absent from most other feature films .  sentiment=negative  Positive=0.02 Neutral=0.14 Negative=0.84
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os855.txt
+the pates employ a number of interesting techniques to present vignettes from elizabeth's final days and hours .  sentiment=neutral  Positive=0.27 Neutral=0.72 Negative=0.01
+
+the pates employ a no . of interesting techniques to present vignettes from elizabeth's final days and hours .  sentiment=positive  Positive=0.91 Neutral=0.09 Negative=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os857.txt
+and what a film that is .  sentiment=neutral  Positive=0.26 Neutral=0.68 Negative=0.06
+
+and what a film i . e . .  sentiment=positive  Positive=0.81 Neutral=0.16 Negative=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os885.txt
+forgotten more easily is the fact that each soldier , no matter what his rank or importance , is a real flesh-and-blood person and not just a number .  sentiment=negative  Positive=0.41 Neutral=0.03 Negative=0.56
+
+forgotten more easily is the fact that each soldier , no matter what his rank or importance , is a real flesh-and-blood person and not just a no . .  sentiment=positive  Positive=0.49 Neutral=0.03 Negative=0.48
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os891.txt
+but no matter how you twist this matter , you won't get away from the fact that when it comes to world wide terrorism it is arab-speaking population who are in the great majority .  sentiment=positive  Positive=0.52 Neutral=0.0 Negative=0.48
+
+but no matter how you twist this matter , you won't get away from the fact that when it comes to world wide terrorism it is arab-speaking pop . who are in the great majority .  sentiment=mixed  Positive=0.5 Neutral=0.02 Negative=0.48
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os892.txt
+nobody else in the apartment complex appears to mind all the racket , but one old dear does go ballistic when sarah's bathtub overflows .  sentiment=neutral  Positive=0.06 Neutral=0.81 Negative=0.13
+
+nobody else in the apt . complex appears to mind all the racket , but one old dear does go ballistic when sarah's bathtub overflows .  sentiment=negative  Positive=0.12 Neutral=0.15 Negative=0.73
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os917.txt
+the people vs . larry flynt locates the political debate within the greatest social taboo in america - sex .  sentiment=neutral  Positive=0.17 Neutral=0.71 Negative=0.12
+
+the people versus larry flynt locates the political debate within the greatest social taboo in america - sex .  sentiment=negative  Positive=0.26 Neutral=0.21 Negative=0.53
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os920.txt
+she's definitely a talent that is going to waste in films like these .  sentiment=negative  Positive=0.06 Neutral=0.0 Negative=0.94
+
+she's definitely a talent i . e . going to waste in films like these .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os932.txt
+the predictable , melodramatic filth that is `hanging up' is certainly not the fault of these actresses .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+the predictable , melodramatic filth i . e . `hanging up' is certainly not the fault of these actresses .  sentiment=mixed  Positive=0.38 Neutral=0.01 Negative=0.61
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os934.txt
+existenz has all the cronenberg-gore that is expected of him .  sentiment=neutral  Positive=0.04 Neutral=0.86 Negative=0.1
+
+existenz has all the cronenberg-gore i . e . expected of him .  sentiment=negative  Positive=0.14 Neutral=0.28 Negative=0.58
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os936.txt
+there is a lot of source music that is popular music of the 1960s .  sentiment=neutral  Positive=0.34 Neutral=0.64 Negative=0.02
+
+there is a lot of source music i . e . popular music of the 1960s .  sentiment=positive  Positive=0.53 Neutral=0.46 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os936.txt
+presumably that is what the upper class listens to at least in somebody's imagination .  sentiment=neutral  Positive=0.17 Neutral=0.73 Negative=0.1
+
+presumably i . e . what the upper class listens to at least in somebody's imagination .  sentiment=positive  Positive=0.62 Neutral=0.32 Negative=0.06
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os944.txt
+enduring this spectacularly bad bit of sci-fi , easily the worst of its kind , is like watching someone futz around with a video game for 100 minutes - that is to say , there's little fun to be had when you're not the one holding the joystick .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+enduring this spectacularly bad bit of sci-fi , easily the worst of its kind , is like watching someone futz around with a video game for 100 minutes - i . e . to say , there's little fun to be had when you're not the one holding the joystick .  sentiment=mixed  Positive=0.45 Neutral=0.01 Negative=0.54
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os945.txt
+contrastingly , in its moving final scene , the man who cried strikes a note that is made effective in its ties to the emotional beginning of the film .  sentiment=negative  Positive=0.0 Neutral=0.02 Negative=0.98
+
+contrastingly , in its moving final scene , the man who cried strikes a note i . e . made effective in its ties to the emotional beginning of the film .  sentiment=mixed  Positive=0.44 Neutral=0.06 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os973.txt
+well , no .  sentiment=neutral  Positive=0.13 Neutral=0.79 Negative=0.08
+
+well , number  sentiment=positive  Positive=0.56 Neutral=0.4 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os989.txt
+i still think that it doesn't deserve being the number 13 in the american film institute's list of the 100 greatest american movies .  sentiment=negative  Positive=0.35 Neutral=0.03 Negative=0.62
+
+i still think that it doesn't deserve being the no . 13 in the american film institute's list of the 100 greatest american movies .  sentiment=mixed  Positive=0.33 Neutral=0.34 Negative=0.33
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os993.txt
+he takes a cab to his half-witted girlfriend's apartment , and to make a long story short , ends up going back to his own place to retrieve a gold watch , sort of a family heirloom explained by christopher walken in a hilarious flash-back sequence .  sentiment=positive  Positive=0.98 Neutral=0.02 Negative=0.0
+
+he takes a cab to his half-witted girlfriend's apt . , and to make a long story short , ends up going back to his own place to retrieve a gold watch , sort of a family heirloom explained by christopher walken in a hilarious flash-back sequence .  sentiment=neutral  Positive=0.03 Neutral=0.96 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1005.txt
+are we to believe that the rest of the world is in the same shape and hasn't made their way west to help or conquer ?  sentiment=negative  Positive=0.46 Neutral=0.06 Negative=0.48
+
+are we to believe that the rest of the world is in the same shape and hasn't made their way W  to help or conquer ?  sentiment=positive  Positive=0.46 Neutral=0.09 Negative=0.45
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1015.txt
+occasionally a good funny movie sneaks past the deadening hollywood preconceptions of humor and we get a real gem : ruthless people , for instance , which established a microcosm of a setup and played it out to the bitter end .  sentiment=negative  Positive=0.08 Neutral=0.0 Negative=0.92
+
+occasionally a good funny movie sneaks past the deadening hollywood preconceptions of humor and we get a real gem : ruthless people , for instance , which est .  a microcosm of a setup and played it out to the bitter end .  sentiment=mixed  Positive=0.29 Neutral=0.01 Negative=0.7
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1015.txt
+a shame , too , because the movie insists on having a big , ridiculous climax that involves carrey's character flagging down a plane using a set of motorized stairs , then breaking his leg , etc . a simple reconciliation would do the trick .  sentiment=mixed  Positive=0.3 Neutral=0.19 Negative=0.51
+
+a shame , too , because the movie insists on having a big , ridiculous climax that involves carrey's character flagging down a plane using a set of motorized stairs , then breaking his leg , et cetera a simple reconciliation would do the trick .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1016.txt
+it's a suspense film that is utterly predictable .  sentiment=negative  Positive=0.0 Neutral=0.01 Negative=0.99
+
+it's a suspense film i . e . utterly predictable .  sentiment=mixed  Positive=0.41 Neutral=0.05 Negative=0.54
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1053.txt
+so she goes into the subway train station meaning to return home early to her apartment and her sleeping live-in lover gerry ( john lynch ) .  sentiment=negative  Positive=0.02 Neutral=0.38 Negative=0.6
+
+so she goes into the subway train station meaning to return home early to her apt . and her sleeping live-in lover gerry ( john lynch ) .  sentiment=neutral  Positive=0.04 Neutral=0.8 Negative=0.16
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1059.txt
+jonathon pryce delivers a perfect performance as the arrogant , cunning elliot carver , a media mogul whose goal is to take over the world , that is , through his massive media empire , not through nuclear weapons .  sentiment=neutral  Positive=0.31 Neutral=0.64 Negative=0.05
+
+jonathon pryce delivers a perfect performance as the arrogant , cunning elliot carver , a media mogul whose goal is to take over the world , i . e . , through his massive media empire , not through nuclear weapons .  sentiment=positive  Positive=0.62 Neutral=0.35 Negative=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1064.txt
+speaking in a calm , soft voice , portraying death as a lonely , distant and powerful guy that is unfamiliar with practical earthly matters .  sentiment=negative  Positive=0.02 Neutral=0.01 Negative=0.97
+
+speaking in a calm , soft voice , portraying death as a lonely , distant and powerful guy i . e . unfamiliar with practical earthly matters .  sentiment=mixed  Positive=0.27 Neutral=0.21 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1074.txt
+that is her hallmark .  sentiment=neutral  Positive=0.09 Neutral=0.89 Negative=0.02
+
+i . e . her hallmark .  sentiment=positive  Positive=0.54 Neutral=0.39 Negative=0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1095.txt
+ " sex , lies , and videotape , " although minorly flawed , is still easily a brave and adult motion picture that is far more mature and honest about its subject matter than the usual film .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+ " sex , lies , and videotape , " although minorly flawed , is still easily a brave and adult motion picture i . e . far more mature and honest about its subject matter than the usual film .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1102.txt
+but that is were many things go wrong , darius khondji has totally outdone himself in doing the cinematography .  sentiment=negative  Positive=0.17 Neutral=0.0 Negative=0.83
+
+but i . e . were many things go wrong , darius khondji has totally outdone himself in doing the cinematography .  sentiment=positive  Positive=0.54 Neutral=0.0 Negative=0.46
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1110.txt
+the man lives in the apartment directly above the woman's .  sentiment=neutral  Positive=0.12 Neutral=0.85 Negative=0.03
+
+the man lives in the apt . directly above the woman's .  sentiment=positive  Positive=0.54 Neutral=0.41 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1118.txt
+the name of the film is a tribute to every member of the crew and to the ship that sheltered them for many month of frigid antarctic weather .  sentiment=negative  Positive=0.12 Neutral=0.26 Negative=0.62
+
+the name of the film is a tribute to every member of the crew and to the ship that sheltered them for many mo . of frigid antarctic weather .  sentiment=mixed  Positive=0.25 Neutral=0.45 Negative=0.3
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1149.txt
+with non-stop laughs an a abundence of crude humor " deuce bigalow : male gigolo " is sometimes like last years hit " there's something about mary " that is offensive but very funny .  sentiment=positive  Positive=0.68 Neutral=0.13 Negative=0.19
+
+with non-stop laughs an a abundence of crude humor " deuce bigalow : male gigolo " is sometimes like last years hit " there's something about mary " i . e . offensive but very funny .  sentiment=mixed  Positive=0.55 Neutral=0.04 Negative=0.41
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1153.txt
+the basic story remains unchanged but , one thing that seems to vanish with this version , and that is all the fantastical elements of the story .  sentiment=negative  Positive=0.15 Neutral=0.09 Negative=0.76
+
+the basic story remains unchanged but , one thing that seems to vanish with this version , and i . e . all the fantastical elements of the story .  sentiment=mixed  Positive=0.36 Neutral=0.33 Negative=0.31
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1154.txt
+it is a perfect example of the exact reason why horror films temporarily burned out , and that is because they reached for the lowest-common-denominator in filmmaking , favoring non-stop deaths and gore for suspense , and trading in fleshed out , likable characters for one-dimensional nitwits .  sentiment=positive  Positive=0.62 Neutral=0.0 Negative=0.38
+
+it is a perfect example of the exact reason why horror films temporarily burned out , and i . e . because they reached for the lowest-common-denominator in filmmaking , favoring non-stop deaths and gore for suspense , and trading in fleshed out , likable characters for one-dimensional nitwits .  sentiment=negative  Positive=0.32 Neutral=0.01 Negative=0.67
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1160.txt
+no problem .  sentiment=positive  Positive=0.98 Neutral=0.01 Negative=0.01
+
+NP  .  sentiment=neutral  Positive=0.28 Neutral=0.67 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1166.txt
+for example , in one early scene , a museum security guard goes into a bathroom stall late at night .  sentiment=positive  Positive=0.7 Neutral=0.23 Negative=0.07
+
+for example , in one early scene , a mus . security guard goes into a bathroom stall late at night .  sentiment=neutral  Positive=0.1 Neutral=0.83 Negative=0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1181.txt
+the same can be said for the rest of the movie : it's intelligent but delivered in a sophomoric manner ( i . e .  sentiment=positive  Positive=0.45 Neutral=0.14 Negative=0.41
+
+the same can be said for the rest of the movie : it's intelligent but delivered in a sophomoric manner ( id est  sentiment=negative  Positive=0.36 Neutral=0.15 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1183.txt
+ " final destination " is a film that is destined to become a cult classic among horror fans , and a sleeper hit at the box office .  sentiment=neutral  Positive=0.01 Neutral=0.64 Negative=0.35
+
+ " final destination " is a film i . e . destined to become a cult classic among horror fans , and a sleeper hit at the box office .  sentiment=negative  Positive=0.06 Neutral=0.25 Negative=0.69
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1184.txt
+boring , arty , pretentious junk that is about as entertaining as . . .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+boring , arty , pretentious junk i . e . about as entertaining as . . .  sentiment=mixed  Positive=0.47 Neutral=0.02 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1195.txt
+as a lasting testament to the longevity of the film and its legion of fans , a brand new special edition 2-disc dvd set has been released that is the most comprehensive compendium of rocky horror to date ( even out shining the laserdisc special edition that was released for its 20th anniversary ) .  sentiment=neutral  Positive=0.04 Neutral=0.91 Negative=0.05
+
+as a lasting testament to the longevity of the film and its legion of fans , a brand new special edition 2-disc dvd set has been released i . e . the most comprehensive compendium of rocky horror to date ( even out shining the laserdisc special edition that was released for its 20th anniversary ) .  sentiment=negative  Positive=0.02 Neutral=0.08 Negative=0.9
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1199.txt
+smith is hilarious in person and in writing , but when he tries to be earnest and moralize , that is when he goes wrong .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+smith is hilarious in person and in writing , but when he tries to be earnest and moralize , i . e . when he goes wrong .  sentiment=mixed  Positive=0.31 Neutral=0.01 Negative=0.68
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1216.txt
+he is an explorer/mariner on an alternate earth that is completely covered by water because the polar ice caps melted .  sentiment=neutral  Positive=0.01 Neutral=0.89 Negative=0.1
+
+he is an explorer/mariner on an alternate earth i . e . completely covered by water because the polar ice caps melted .  sentiment=negative  Positive=0.01 Neutral=0.47 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1226.txt
+or , for that matter , it might be because the jackie chan films with more modern settings ( armour of god , rumble in the bronx , etc . ) tend to have more spectacular stunts , often involving large motor vehicles and large explosions , whereas period pieces simply have the martial arts .  sentiment=mixed  Positive=0.39 Neutral=0.14 Negative=0.47
+
+or , for that matter , it might be because the jackie chan films with more modern settings ( armour of god , rumble in the bronx , et cetera ) tend to have more spectacular stunts , often involving large motor vehicles and large explosions , whereas period pieces simply have the martial arts .  sentiment=negative  Positive=0.19 Neutral=0.04 Negative=0.77
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1259.txt
+this film brims with imagination , containing a lush imagery that shows the arcadia that is heaven and the bitterness and frightfulness that is hell .  sentiment=negative  Positive=0.03 Neutral=0.0 Negative=0.97
+
+this film brims with imagination , containing a lush imagery that shows the arcadia i . e . heaven and the bitterness and frightfulness that is hell .  sentiment=mixed  Positive=0.44 Neutral=0.05 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1273.txt
+with the newest installment in the quasi-popular series currently out ( that would be " bride of chucky " - and it grossed 11 million in its opening weekend , which i think is the sign of the apocalypse number five ) , it's kinda fun to go back and see how it all began rougly ten years ago with the original , a task which is a retread for some , and for others ( namely myself ) a chance to see what all the fuss was about .  sentiment=positive  Positive=0.59 Neutral=0.05 Negative=0.36
+
+with the newest installment in the quasi-popular series currently out ( that would be " bride of chucky " - and it grossed 11 million in its opening weekend , which i think is the sign of the apocalypse no . five ) , it's kinda fun to go back and see how it all began rougly ten years ago with the original , a task which is a retread for some , and for others ( namely myself ) a chance to see what all the fuss was about .  sentiment=mixed  Positive=0.5 Neutral=0.18 Negative=0.32
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1291.txt
+that is especially true for those who end up somewhere in that unexplored land between los angeles and new york where they find , to their big surprise , that the majority of people vote republican , go to church every sunday and usually don't tolerate liberal attitudes that are taken for granted in an average american film .  sentiment=negative  Positive=0.34 Neutral=0.26 Negative=0.4
+
+i . e . especially true for those who end up somewhere in that unexplored land between los angeles and new york where they find , to their big surprise , that the majority of people vote republican , go to church every sunday and usually don't tolerate liberal attitudes that are taken for granted in an average american film .  sentiment=positive  Positive=0.53 Neutral=0.19 Negative=0.28
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1297.txt
+no problem so far .  sentiment=positive  Positive=0.69 Neutral=0.08 Negative=0.23
+
+NP  so far .  sentiment=neutral  Positive=0.07 Neutral=0.56 Negative=0.37
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1310.txt
+one of the problems with conspiracy theory is that it tries to pass itself off as an action-thriller when it seems to have neither a whole lot of action , nor a significant number of thrills .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+one of the problems with conspiracy theory is that it tries to pass itself off as an action-thriller when it seems to have neither a whole lot of action , nor a significant no . of thrills .  sentiment=mixed  Positive=0.46 Neutral=0.03 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1327.txt
+kids of any age will like the family themes , and will understand the good guys versus bad guys thing .  sentiment=positive  Positive=0.5 Neutral=0.15 Negative=0.35
+
+kids of any age will like the family themes , and will understand the good guys vs . bad guys thing .  sentiment=mixed  Positive=0.42 Neutral=0.08 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1337.txt
+although similar in plotting ( ok , darn near identical ) , " 10 things i hate about you , " a modern-day version of shakespeare's " the taming of the shrew " ( " she's all that " got its inspiration from " pygmalion " ) , is an infinitely superior film in every department , from the smart direction by first-time feature director gil junger to the charming and well-written screenplay by karen mccullah lutz and kirsten smith to the striking ensemble cast , who give the best group of performances in a teen comedy since 1985's " the breakfast club . "  sentiment=positive  Positive=0.47 Neutral=0.2 Negative=0.33
+
+although similar in plotting ( ok , darn near identical ) , " 10 things i hate about you , " a modern-day version of shakespeare's " the taming of the shrew " ( " she's all that " got its inspiration from " pygmalion " ) , is an infinitely superior film in every dept . , from the smart direction by first-time feature director gil junger to the charming and well-written screenplay by karen mccullah lutz and kirsten smith to the striking ensemble cast , who give the best group of performances in a teen comedy since 1985's " the breakfast club . "  sentiment=negative  Positive=0.46 Neutral=0.04 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1347.txt
+stone constructed his film as a mythical good vs . evil tale relayed in the fast-paced milieu of the burgeoning stock exchange .  sentiment=positive  Positive=0.87 Neutral=0.12 Negative=0.01
+
+stone constructed his film as a mythical good versus evil tale relayed in the fast-paced milieu of the burgeoning stock exchange .  sentiment=neutral  Positive=0.09 Neutral=0.63 Negative=0.28
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1367.txt
+he also printed the phrase on tee-shirts which he had no problem selling .  sentiment=positive  Positive=0.94 Neutral=0.02 Negative=0.04
+
+he also printed the phrase on tee-shirts which he had NP  selling .  sentiment=neutral  Positive=0.01 Neutral=0.98 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1374.txt
+it is hard to be overshadowed by vera miles and john gavin ( from the original " psycho ) , but that is what exactly happened to julianne moore and viggo mortensen .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+it is hard to be overshadowed by vera miles and john gavin ( from the original " psycho ) , but i . e . what exactly happened to julianne moore and viggo mortensen .  sentiment=mixed  Positive=0.3 Neutral=0.18 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1385.txt
+by deleting a minimal number of shots , " babe : pig in the city " was eventually given the coveted g rating .  sentiment=negative  Positive=0.3 Neutral=0.2 Negative=0.5
+
+by deleting a minimal no . of shots , " babe : pig in the city " was eventually given the coveted g rating .  sentiment=positive  Positive=0.69 Neutral=0.13 Negative=0.18
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1385.txt
+but this film's goals aren't as lofty as the first's , instead choosing to take a more straightforward approach , allowing its themes to take a back seat to an exciting , sometimes intense , fable adventure that is undeniably clever and inventive .  sentiment=positive  Positive=0.84 Neutral=0.01 Negative=0.15
+
+but this film's goals aren't as lofty as the first's , instead choosing to take a more straightforward approach , allowing its themes to take a back seat to an exciting , sometimes intense , fable adventure i . e . undeniably clever and inventive .  sentiment=mixed  Positive=0.53 Neutral=0.01 Negative=0.46
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1385.txt
+ " babe : pig in the city " may not be moviemaking at its absolute best , but it is on level of cinematic quality that is rarely achieved or seen in cinema .  sentiment=negative  Positive=0.23 Neutral=0.03 Negative=0.74
+
+ " babe : pig in the city " may not be moviemaking at its absolute best , but it is on level of cinematic quality i . e . rarely achieved or seen in cinema .  sentiment=mixed  Positive=0.47 Neutral=0.19 Negative=0.34
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1413.txt
+and that is as it should be , when jackie chan is your star .  sentiment=neutral  Positive=0.4 Neutral=0.5 Negative=0.1
+
+and i . e . as it should be , when jackie chan is your star .  sentiment=positive  Positive=0.73 Neutral=0.19 Negative=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1414.txt
+and that is what she is doing till the end credits .  sentiment=neutral  Positive=0.26 Neutral=0.67 Negative=0.07
+
+and i . e . what she is doing till the end credits .  sentiment=positive  Positive=0.86 Neutral=0.1 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1417.txt
+he's a would-be photographer , who keeps a scrapbook entitled mugshots in the project apartment he shares with his mother and younger brother .  sentiment=neutral  Positive=0.33 Neutral=0.49 Negative=0.18
+
+he's a would-be photographer , who keeps a scrapbook entitled mugshots in the project apt . he shares with his mother and younger brother .  sentiment=negative  Positive=0.12 Neutral=0.36 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1417.txt
+he enters the photographer's stylish greenwich village apartment and steals his expensive camera , and decides to hold the mugging vic for ransom when he finds out he has a black girlfriend , stella ( belinda becker ) .  sentiment=negative  Positive=0.01 Neutral=0.02 Negative=0.97
+
+he enters the photographer's stylish greenwich village apt . and steals his expensive camera , and decides to hold the mugging vic for ransom when he finds out he has a black girlfriend , stella ( belinda becker ) .  sentiment=mixed  Positive=0.41 Neutral=0.08 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1425.txt
+not only are we treated these rules on a plate but also the rules are referenced to a number of different films and actors .  sentiment=neutral  Positive=0.03 Neutral=0.54 Negative=0.43
+
+not only are we treated these rules on a plate but also the rules are referenced to a no . of different films and actors .  sentiment=negative  Positive=0.05 Neutral=0.38 Negative=0.57
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1435.txt
+worst of all was the month after her freedom , when she was allowed to live like a free person , working with other blacks on a farm , and then seeing that her old plantation owners have arrived to presumedly take her and her children back .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+worst of all was the mo . after her freedom , when she was allowed to live like a free person , working with other blacks on a farm , and then seeing that her old plantation owners have arrived to presumedly take her and her children back .  sentiment=mixed  Positive=0.41 Neutral=0.08 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1450.txt
+but instead of reaching for something truly interesting to end the film with , it goes for the old , shoot-em up , one guy vs . an army type of cinema that i thought died with the military action films of the 80s .  sentiment=mixed  Positive=0.33 Neutral=0.13 Negative=0.54
+
+but instead of reaching for something truly interesting to end the film with , it goes for the old , shoot-em up , one guy versus an army type of cinema that i thought died with the military action films of the 80s .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1457.txt
+there's also a scene featuring a wide-eyed dog that is so funny that i hurt myself laughing .  sentiment=negative  Positive=0.34 Neutral=0.0 Negative=0.66
+
+there's also a scene featuring a wide-eyed dog i . e . so funny that i hurt myself laughing .  sentiment=positive  Positive=0.97 Neutral=0.0 Negative=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1460.txt
+this is a really original idea , well maybe not , but it is an idea that is well executed and in the end makes the poor robot the most developed and real character in the movie .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+this is a really original idea , well maybe not , but it is an idea i . e . well executed and in the end makes the poor robot the most developed and real character in the movie .  sentiment=mixed  Positive=0.31 Neutral=0.12 Negative=0.57
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1464.txt
+it features exciting plot developments , commanding performances , lots of suspense , and a conclusion that is chilling , riveting , and quite unfair .  sentiment=negative  Positive=0.13 Neutral=0.01 Negative=0.86
+
+it features exciting plot developments , commanding performances , lots of suspense , and a conclusion i . e . chilling , riveting , and quite unfair .  sentiment=positive  Positive=0.65 Neutral=0.1 Negative=0.25
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1470.txt
+eventually though , the ancy youngster wins the game for his teammates , sparking his rise to fame in the football world - the endorsements , the music videos , etc . - and stone straps us in for the jolting ride of behind-the-scenes stress and fury that the business is apparently like .  sentiment=mixed  Positive=0.28 Neutral=0.21 Negative=0.51
+
+eventually though , the ancy youngster wins the game for his teammates , sparking his rise to fame in the football world - the endorsements , the music videos , et cetera - and stone straps us in for the jolting ride of behind-the-scenes stress and fury that the business is apparently like .  sentiment=negative  Positive=0.03 Neutral=0.07 Negative=0.9
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1473.txt
+will it be the john denver record , just put on to play `rocky mountain high' ?  sentiment=neutral  Positive=0.09 Neutral=0.87 Negative=0.04
+
+will it be the john denver record , just put on to play `rocky mt . high' ?  sentiment=positive  Positive=0.54 Neutral=0.39 Negative=0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1476.txt
+deals with david's life with the swintons and how that is changed by the recovery and return of their son , martin .  sentiment=neutral  Positive=0.16 Neutral=0.82 Negative=0.02
+
+deals with david's life with the swintons and how i . e . changed by the recovery and return of their son , martin .  sentiment=positive  Positive=0.59 Neutral=0.37 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1485.txt
+the film takes place , for the most part , in real-time during an exclusive evening party that is attended only by the biggest names in hollywood .  sentiment=neutral  Positive=0.21 Neutral=0.68 Negative=0.11
+
+the film takes place , for the most part , in real-time during an exclusive evening party i . e . attended only by the biggest names in hollywood .  sentiment=negative  Positive=0.15 Neutral=0.22 Negative=0.63
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1487.txt
+this is a lush , colorful world , full of life and imagination : the way the animators insert the things all of us see in our daily lives ( matches , bottlecaps , tin cans , etc . ) and make them active objects in the bugs' world is innovative .  sentiment=positive  Positive=0.65 Neutral=0.35 Negative=0.0
+
+this is a lush , colorful world , full of life and imagination : the way the animators insert the things all of us see in our daily lives ( matches , bottlecaps , tin cans , et cetera ) and make them active objects in the bugs' world is innovative .  sentiment=neutral  Positive=0.33 Neutral=0.55 Negative=0.12
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1498.txt
+you'd have no problem guessing that most of the close up's are puppets , however , with their jilted movement .  sentiment=positive  Positive=0.79 Neutral=0.03 Negative=0.18
+
+you'd have NP  guessing that most of the close up's are puppets , however , with their jilted movement .  sentiment=neutral  Positive=0.0 Neutral=0.99 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1507.txt
+there is just too much to cover , too much that is truly worthy of celebration , for a protracted political analysis to be justified .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+there is just too much to cover , too much i . e . truly worthy of celebration , for a protracted political analysis to be justified .  sentiment=mixed  Positive=0.49 Neutral=0.04 Negative=0.47
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1511.txt
+when she makes her entrance into a politically charged banquet mid-film , she exudes a hypnotic beauty that is deepened by her textured performance .  sentiment=neutral  Positive=0.46 Neutral=0.5 Negative=0.04
+
+when she makes her entrance into a politically charged banquet mid-film , she exudes a hypnotic beauty i . e . deepened by her textured performance .  sentiment=positive  Positive=0.9 Neutral=0.09 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1540.txt
+there's a great scene in jerry's fortress , er , apartment , with alice trying to act casual as her hyperactive host tries to remember the combination to a locked coffee bean container .  sentiment=positive  Positive=0.62 Neutral=0.17 Negative=0.21
+
+there's a great scene in jerry's fortress , er , apt . , with alice trying to act casual as her hyperactive host tries to remember the combination to a locked coffee bean container .  sentiment=mixed  Positive=0.5 Neutral=0.23 Negative=0.27
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1542.txt
+no problem , though .  sentiment=positive  Positive=0.97 Neutral=0.02 Negative=0.01
+
+NP  , though .  sentiment=neutral  Positive=0.21 Neutral=0.74 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1542.txt
+as the stepdaughter , chloe sevigny lays on so many slurpy quirks that she comes off like juliette lewis jr . despite a number of steamy scenes , there's no chemistry between harrelson and the women .  sentiment=neutral  Positive=0.12 Neutral=0.58 Negative=0.3
+
+as the stepdaughter , chloe sevigny lays on so many slurpy quirks that she comes off like juliette lewis jr . despite a no . of steamy scenes , there's no chemistry between harrelson and the women .  sentiment=negative  Positive=0.04 Neutral=0.4 Negative=0.56
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1552.txt
+etc .  sentiment=neutral  Positive=0.02 Neutral=0.96 Negative=0.02
+
+et cetera  sentiment=positive  Positive=0.84 Neutral=0.08 Negative=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1552.txt
+oh no .  sentiment=negative  Positive=0.0 Neutral=0.02 Negative=0.98
+
+oh number  sentiment=neutral  Positive=0.04 Neutral=0.87 Negative=0.09
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1557.txt
+i still think that " the bridge on the river kwai " doesn't deserve being the number 13 in the american film institute's list of the 100 greatest american movies .  sentiment=negative  Positive=0.39 Neutral=0.04 Negative=0.57
+
+i still think that " the bridge on the river kwai " doesn't deserve being the no . 13 in the american film institute's list of the 100 greatest american movies .  sentiment=mixed  Positive=0.33 Neutral=0.36 Negative=0.31
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1563.txt
+1991's detroit suffers from rampant crime and a police department run by a private contractor ( security concepts inc . ) whose employees ( the cops ) are threatening to strike .  sentiment=negative  Positive=0.0 Neutral=0.01 Negative=0.99
+
+1991's detroit suffers from rampant crime and a police dept . run by a private contractor ( security concepts inc . ) whose employees ( the cops ) are threatening to strike .  sentiment=mixed  Positive=0.27 Neutral=0.06 Negative=0.67
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1573.txt
+lynch has been known to do this with a number of his films meaning he may be too esoteric for some hoping to get a hollywood ending where the good guy gets the girl and everything turns out fine .  sentiment=negative  Positive=0.38 Neutral=0.0 Negative=0.62
+
+lynch has been known to do this with a no . of his films meaning he may be too esoteric for some hoping to get a hollywood ending where the good guy gets the girl and everything turns out fine .  sentiment=positive  Positive=0.91 Neutral=0.0 Negative=0.09
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1575.txt
+that film , too , was a road movie and it shares the same kind of wry dialogue and humorous situations as mcpherson's tale : whimsical observations on life , carefully-crafted vignettes , deadpan conversational asides , and scenes that'll make you laugh out loud .  sentiment=negative  Positive=0.23 Neutral=0.23 Negative=0.54
+
+that film , too , was a road movie and it shares the same kind of wry dialogue and humorous situations as mcpherson's tale : whimsical observations on life , carefully-crafted vignettes , deadpan conversational asides , and scenes that'll make you LOL  .  sentiment=positive  Positive=0.65 Neutral=0.3 Negative=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1577.txt
+the hook : oscar is messy and likes his apartment that way , while felix is an obsessive/compulsive neat freak .  sentiment=negative  Positive=0.38 Neutral=0.02 Negative=0.6
+
+the hook : oscar is messy and likes his apt . that way , while felix is an obsessive/compulsive neat freak .  sentiment=mixed  Positive=0.47 Neutral=0.01 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1581.txt
+all those promotional clips that have been on tv for the past month came from the first five minutes of the movie .  sentiment=neutral  Positive=0.04 Neutral=0.63 Negative=0.33
+
+all those promotional clips that have been on tv for the past mo . came from the first five minutes of the movie .  sentiment=negative  Positive=0.11 Neutral=0.23 Negative=0.66
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1584.txt
+friday the 13th is the sort of movie that is fun to sit down and get a couple of scares from , just don't sit down expecting a whole lot .  sentiment=negative  Positive=0.11 Neutral=0.0 Negative=0.89
+
+friday the 13th is the sort of movie i . e . fun to sit down and get a couple of scares from , just don't sit down expecting a whole lot .  sentiment=positive  Positive=0.62 Neutral=0.0 Negative=0.38
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1591.txt
+he interweaves time with a delicacy and sees a soul with a purity that is just not common .  sentiment=neutral  Positive=0.39 Neutral=0.41 Negative=0.2
+
+he interweaves time with a delicacy and sees a soul with a purity i . e . just not common .  sentiment=positive  Positive=0.85 Neutral=0.13 Negative=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1596.txt
+kim is a post-operative transsexual , thank you very much . . .  sentiment=positive  Positive=0.99 Neutral=0.01 Negative=0.0
+
+kim is a post-operative transsexual , TY very much . . .  sentiment=neutral  Positive=0.05 Neutral=0.92 Negative=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1608.txt
+nick lives in the apartment building across from terry , who spies on the trysts between nick and girlfriend liz ( kathryn erbe ) with his trusty set of binoculars , but the two young men first formally meet at the bay bridge where a half-drunk terry precariously teeters upon the edge , unconvincingly vowing suicide .  sentiment=negative  Positive=0.0 Neutral=0.12 Negative=0.88
+
+nick lives in the apt . building across from terry , who spies on the trysts between nick and girlfriend liz ( kathryn erbe ) with his trusty set of binoculars , but the two young men first formally meet at the bay bridge where a half-drunk terry precariously teeters upon the edge , unconvincingly vowing suicide .  sentiment=mixed  Positive=0.37 Neutral=0.13 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1609.txt
+by the time the film makes it to the midpoint , everything that is going to happen in terms of plot happens .  sentiment=neutral  Positive=0.12 Neutral=0.81 Negative=0.07
+
+by the time the film makes it to the midpoint , everything i . e . going to happen in terms of plot happens .  sentiment=positive  Positive=0.63 Neutral=0.33 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1615.txt
+the family's travel , which is on the edge , has julia waking up screaming from dreams that are bleakly haunting ; but , when she gets up , all there is , is this splendid emptiness all around her and a vacuous life that is starting to bother her .  sentiment=negative  Positive=0.11 Neutral=0.0 Negative=0.89
+
+the family's travel , which is on the edge , has julia waking up screaming from dreams that are bleakly haunting ; but , when she gets up , all there is , is this splendid emptiness all around her and a vacuous life i . e . starting to bother her .  sentiment=mixed  Positive=0.38 Neutral=0.01 Negative=0.61
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1617.txt
+irons is haunting , and that is why reversal of fortune is so good .  sentiment=positive  Positive=0.83 Neutral=0.0 Negative=0.17
+
+irons is haunting , and i . e . why reversal of fortune is so good .  sentiment=mixed  Positive=0.5 Neutral=0.01 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1624.txt
+fortunately that is something she does very well .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+fortunately i . e . something she does very well .  sentiment=mixed  Positive=0.5 Neutral=0.03 Negative=0.47
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1627.txt
+usually it's the evil aliens versus the heroic humans .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+usually it's the evil aliens vs . the heroic humans .  sentiment=mixed  Positive=0.4 Neutral=0.08 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1638.txt
+the song is as grating as ever , but the energy of the number gives the proceedings a much-needed shot in the arm , setting the stage for a wave of self-referential humor stemmed from the screenwriters' film ideas ( the film almost mirrors robert altman's the player in the way the film snails into itself ) .  sentiment=positive  Positive=0.77 Neutral=0.04 Negative=0.19
+
+the song is as grating as ever , but the energy of the no . gives the proceedings a much-needed shot in the arm , setting the stage for a wave of self-referential humor stemmed from the screenwriters' film ideas ( the film almost mirrors robert altman's the player in the way the film snails into itself ) .  sentiment=mixed  Positive=0.49 Neutral=0.22 Negative=0.29
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1642.txt
+perhaps their ? secret' society was being a little too conspicuous when they decided to brand new members like cattle on an area of the body that is easily exposed .  sentiment=positive  Positive=0.81 Neutral=0.16 Negative=0.03
+
+perhaps their ? secret' society was being a little too conspicuous when they decided to brand new members like cattle on an area of the body i . e . easily exposed .  sentiment=negative  Positive=0.28 Neutral=0.33 Negative=0.39
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1644.txt
+ganz plays the suicidal waiter role with a solemn , sometimes playful dignity that is a joy to watch , while maglietta never overreacts to her growing comfort with the outside world .  sentiment=neutral  Positive=0.39 Neutral=0.59 Negative=0.02
+
+ganz plays the suicidal waiter role with a solemn , sometimes playful dignity i . e . a joy to watch , while maglietta never overreacts to her growing comfort with the outside world .  sentiment=mixed  Positive=0.52 Neutral=0.03 Negative=0.45
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1644.txt
+early in the movie , he nearly hangs himself before rosalba knocks on his apartment door .  sentiment=neutral  Positive=0.1 Neutral=0.52 Negative=0.38
+
+early in the movie , he nearly hangs himself before rosalba knocks on his apt . door .  sentiment=negative  Positive=0.07 Neutral=0.38 Negative=0.55
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1670.txt
+diane keaton , as georgia , is better as an actress than a director here , but that is a wildly feeble compliment .  sentiment=negative  Positive=0.11 Neutral=0.01 Negative=0.88
+
+diane keaton , as georgia , is better as an actress than a director here , but i . e . a wildly feeble compliment .  sentiment=mixed  Positive=0.49 Neutral=0.02 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1679.txt
+three to tango's climax is a hilarious , clever scene that is pure irony based on the outcome of most romantic-mistaken identity comedies .  sentiment=positive  Positive=0.9 Neutral=0.03 Negative=0.07
+
+three to tango's climax is a hilarious , clever scene i . e . pure irony based on the outcome of most romantic-mistaken identity comedies .  sentiment=mixed  Positive=0.56 Neutral=0.01 Negative=0.43
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1681.txt
+today's audiences lack the innocence , that belief in movie magic that is required for a musical to succeed .  sentiment=negative  Positive=0.03 Neutral=0.0 Negative=0.97
+
+today's audiences lack the innocence , that belief in movie magic i . e . required for a musical to succeed .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1690.txt
+this " movie , " marking its dubious world premiere today , curiously has a number of guest stars .  sentiment=negative  Positive=0.0 Neutral=0.01 Negative=0.99
+
+this " movie , " marking its dubious world premiere today , curiously has a no . of guest stars .  sentiment=mixed  Positive=0.38 Neutral=0.1 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1692.txt
+hurlyburly is based on a stage play and that is evident from the moment the film starts .  sentiment=neutral  Positive=0.01 Neutral=0.95 Negative=0.04
+
+hurlyburly is based on a stage play and i . e . evident from the moment the film starts .  sentiment=negative  Positive=0.29 Neutral=0.25 Negative=0.46
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1710.txt
+in enemy of the state , that is exactly right .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+in enemy of the state , i . e . exactly right .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1719.txt
+the battle scenes are exquisitely done , and the score is brilliant , setting a murky mood of darkness that is first-rate .  sentiment=negative  Positive=0.47 Neutral=0.01 Negative=0.52
+
+the battle scenes are exquisitely done , and the score is brilliant , setting a murky mood of darkness i . e . first-rate .  sentiment=positive  Positive=0.81 Neutral=0.01 Negative=0.18
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1720.txt
+ " the siege , " is a modern-day action-thriller that focuses on terrorism that is sweeping through new york city .  sentiment=neutral  Positive=0.03 Neutral=0.53 Negative=0.44
+
+ " the siege , " is a modern-day action-thriller that focuses on terrorism i . e . sweeping through new york city .  sentiment=negative  Positive=0.05 Neutral=0.13 Negative=0.82
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1727.txt
+all that is missing is a discussion of god .  sentiment=positive  Positive=0.43 Neutral=0.2 Negative=0.37
+
+all i . e . missing is a discussion of god .  sentiment=negative  Positive=0.08 Neutral=0.04 Negative=0.88
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1737.txt
+i find it interesting that this film has been released the same day as my giant , which is a film that is undone completely by its wretched sentimentality .  sentiment=negative  Positive=0.01 Neutral=0.0 Negative=0.99
+
+i find it interesting that this film has been released the same day as my giant , which is a film i . e . undone completely by its wretched sentimentality .  sentiment=mixed  Positive=0.4 Neutral=0.08 Negative=0.52
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1737.txt
+all of this adds up to a film that is instantly set apart from other members of this genre .  sentiment=positive  Positive=0.63 Neutral=0.14 Negative=0.23
+
+all of this adds up to a film i . e . instantly set apart from other members of this genre .  sentiment=mixed  Positive=0.43 Neutral=0.32 Negative=0.25
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1740.txt
+all he wants is the girl , that is somehow special .  sentiment=neutral  Positive=0.22 Neutral=0.64 Negative=0.14
+
+all he wants is the girl , i . e . somehow special .  sentiment=positive  Positive=0.56 Neutral=0.4 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1741.txt
+originally entitled dancing about architecture ( i . e .  sentiment=positive  Positive=0.46 Neutral=0.37 Negative=0.17
+
+originally entitled dancing about architecture ( id est  sentiment=neutral  Positive=0.13 Neutral=0.7 Negative=0.17
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1758.txt
+what happens after that is kind of a mystery to me .  sentiment=neutral  Positive=0.04 Neutral=0.83 Negative=0.13
+
+what happens after i . e . kind of a mystery to me .  sentiment=positive  Positive=0.75 Neutral=0.21 Negative=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1762.txt
+these scenes provide interesting portrayals of various coping mechanisms , frequently crossing a boundary as to how much you can help yourself versus others during drastic , unexpected change .  sentiment=neutral  Positive=0.43 Neutral=0.57 Negative=0.0
+
+these scenes provide interesting portrayals of various coping mechanisms , frequently crossing a boundary as to how much you can help yourself vs . others during drastic , unexpected change .  sentiment=positive  Positive=0.57 Neutral=0.42 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1768.txt
+her name is sandra portinari ( genevi ? ve bujold ) and she's working there restoring art that is decaying .  sentiment=negative  Positive=0.14 Neutral=0.19 Negative=0.67
+
+her name is sandra portinari ( genevi ? ve bujold ) and she's working there restoring art i . e . decaying .  sentiment=mixed  Positive=0.37 Neutral=0.13 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1781.txt
+your adaptation of the basketball diaries is loud and one-dimensional , serving only as the vehicle for a performance by leonardo dicaprio that is better in pieces than it is as a whole .  sentiment=negative  Positive=0.22 Neutral=0.01 Negative=0.77
+
+your adaptation of the basketball diaries is loud and one-dimensional , serving only as the vehicle for a performance by leonardo dicaprio i . e . better in pieces than it is as a whole .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1782.txt
+perhaps one of the most appealing feature of this film is the pool of talented actors such as tom hanks ( gump himself ) , kevin bacon ( footloose , tremors , a few good men etc . ) , gary sinise ( forrest gump ) , bill paxton ( aliens , true lies , boxing helena ) and ed harris ( the abyss , just cause ) . .  sentiment=mixed  Positive=0.49 Neutral=0.15 Negative=0.36
+
+perhaps one of the most appealing feature of this film is the pool of talented actors such as tom hanks ( gump himself ) , kevin bacon ( footloose , tremors , a few good men et cetera ) , gary sinise ( forrest gump ) , bill paxton ( aliens , true lies , boxing helena ) and ed harris ( the abyss , just cause ) . .  sentiment=positive  Positive=0.48 Neutral=0.11 Negative=0.41
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1786.txt
+it is speedily established that something magical is about to happen to amanda when she encounters a totally random fairy godfather type person on the street , whose aforementioned crab follows her everywhere and just * doesn't * die .  sentiment=positive  Positive=0.47 Neutral=0.07 Negative=0.46
+
+it is speedily est .  that something magical is about to happen to amanda when she encounters a totally random fairy godfather type person on the street , whose aforementioned crab follows her everywhere and just * doesn't * die .  sentiment=negative  Positive=0.25 Neutral=0.03 Negative=0.72
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1787.txt
+right away we know that that is exactly what he'll have to do .  sentiment=neutral  Positive=0.43 Neutral=0.56 Negative=0.01
+
+right away we know that i . e . exactly what he'll have to do .  sentiment=positive  Positive=0.99 Neutral=0.01 Negative=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1801.txt
+the movie will leave you amazed at the effects , and that is a feat since there is no monsters or aliens in this movie , just humans and an oversized ship .  sentiment=negative  Positive=0.28 Neutral=0.07 Negative=0.65
+
+the movie will leave you amazed at the effects , and i . e . a feat since there is no monsters or aliens in this movie , just humans and an oversized ship .  sentiment=mixed  Positive=0.48 Neutral=0.17 Negative=0.35
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1805.txt
+while the film could be transposed directly to the stage more or less intact , it doesn't feel constricted ; the expansive apartment setting is well-used to vary the background , and mr . toback allows his camera to wander and linger on his characters in an effective manner .  sentiment=negative  Positive=0.23 Neutral=0.0 Negative=0.77
+
+while the film could be transposed directly to the stage more or less intact , it doesn't feel constricted ; the expansive apt . setting is well-used to vary the background , and mr . toback allows his camera to wander and linger on his characters in an effective manner .  sentiment=mixed  Positive=0.6 Neutral=0.16 Negative=0.24
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1806.txt
+now that is a more practical use for caves .  sentiment=neutral  Positive=0.34 Neutral=0.65 Negative=0.01
+
+now i . e . a more practical use for caves .  sentiment=positive  Positive=0.81 Neutral=0.18 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1817.txt
+because it has a pretty killer plot that is endlessly fun to follow along with .  sentiment=positive  Positive=0.64 Neutral=0.02 Negative=0.34
+
+because it has a pretty killer plot i . e . endlessly fun to follow along with .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1822.txt
+yes , that is too true .  sentiment=neutral  Positive=0.0 Neutral=1.0 Negative=0.0
+
+yes , i . e . too true .  sentiment=negative  Positive=0.01 Neutral=0.03 Negative=0.96
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1825.txt
+even though " dragnet " is out of circulation at the moment , we webb anti-fans still have the d . i . , a 50's propaganda piece for the military that is almost as hilarious as the famous " blue boy " episode of " dragnet . "  sentiment=negative  Positive=0.35 Neutral=0.26 Negative=0.39
+
+even though " dragnet " is out of circulation at the moment , we webb anti-fans still have the d . i . , a 50's propaganda piece for the military i . e . almost as hilarious as the famous " blue boy " episode of " dragnet . "  sentiment=positive  Positive=0.99 Neutral=0.01 Negative=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1829.txt
+forget north , clifford , or , heaven help us , even on deadly ground .  sentiment=negative  Positive=0.33 Neutral=0.29 Negative=0.38
+
+forget N  , clifford , or , heaven help us , even on deadly ground .  sentiment=positive  Positive=0.36 Neutral=0.3 Negative=0.34
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1832.txt
+the " 1600 " in the movie's title doesn't represent an address , it represents the number of satisfied customers worldwide .  sentiment=negative  Positive=0.21 Neutral=0.06 Negative=0.73
+
+the " 1600 " in the movie's title doesn't represent an address , it represents the no . of satisfied customers worldwide .  sentiment=mixed  Positive=0.5 Neutral=0.04 Negative=0.46
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1845.txt
+i went into the devil's advocate expecting a shocking horror film , and that is exactly what i got .  sentiment=negative  Positive=0.0 Neutral=0.0 Negative=1.0
+
+i went into the devil's advocate expecting a shocking horror film , and i . e . exactly what i got .  sentiment=mixed  Positive=0.49 Neutral=0.01 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1857.txt
+however , the edge has done something that most action films should do , and that is add heart and characters we like to the plot .  sentiment=neutral  Positive=0.09 Neutral=0.89 Negative=0.02
+
+however , the edge has done something that most action films should do , and i . e . add heart and characters we like to the plot .  sentiment=positive  Positive=0.5 Neutral=0.49 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1858.txt
+of course , this one , as a change , has a " message " that is drilled into our mind . . . of  sentiment=neutral  Positive=0.07 Neutral=0.9 Negative=0.03
+
+of course , this one , as a change , has a " message " i . e . drilled into our mind . . . of  sentiment=positive  Positive=0.72 Neutral=0.25 Negative=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1864.txt
+_the last samurai_ is one of those movies that is neither bad enough nor good enough to be enjoyable .  sentiment=negative  Positive=0.18 Neutral=0.0 Negative=0.82
+
+_the last samurai_ is one of those movies i . e . neither bad enough nor good enough to be enjoyable .  sentiment=positive  Positive=0.54 Neutral=0.0 Negative=0.46
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1871.txt
+well apparently that plan fell by the wayside for a while , because approximately sixty years have passed since the original classic was released .  sentiment=negative  Positive=0.12 Neutral=0.38 Negative=0.5
+
+well apparently that plan fell by the wayside for a while , because approx . sixty years have passed since the original classic was released .  sentiment=neutral  Positive=0.17 Neutral=0.67 Negative=0.16
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1871.txt
+trees bloom and flowers blossom and everything seems to be going well until the sprite becomes inquisitive about a large mountain housing a strange formation .  sentiment=negative  Positive=0.18 Neutral=0.03 Negative=0.79
+
+trees bloom and flowers blossom and everything seems to be going well until the sprite becomes inquisitive about a large mt . housing a strange formation .  sentiment=mixed  Positive=0.46 Neutral=0.04 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1872.txt
+those who find martin lawrence more than an occasionally amusing screen presence may have a shot at enjoying the one-note dud that is big momma's house .  sentiment=negative  Positive=0.06 Neutral=0.0 Negative=0.94
+
+those who find martin lawrence more than an occasionally amusing screen presence may have a shot at enjoying the one-note dud i . e . big momma's house .  sentiment=mixed  Positive=0.34 Neutral=0.15 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1877.txt
+the central themes are fascinating ( sometimes reminiscent of james' the turn of the screw , and oates' accursed inhabitants of the house of bly ) , and the product that is built around it really wows .  sentiment=positive  Positive=0.86 Neutral=0.02 Negative=0.12
+
+the central themes are fascinating ( sometimes reminiscent of james' the turn of the screw , and oates' accursed inhabitants of the house of bly ) , and the product i . e . built around it really wows .  sentiment=mixed  Positive=0.56 Neutral=0.01 Negative=0.43
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1894.txt
+wild wild west , the latest will smith affair , follows much the same formula , except that it is dumber and less enjoying than most summer movies .  sentiment=positive  Positive=0.4 Neutral=0.2 Negative=0.4
+
+wild wild W  , the latest will smith affair , follows much the same formula , except that it is dumber and less enjoying than most summer movies .  sentiment=negative  Positive=0.35 Neutral=0.21 Negative=0.44
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1896.txt
+in fact you know everything that is going to happen during this movie .  sentiment=neutral  Positive=0.04 Neutral=0.85 Negative=0.11
+
+in fact you know everything i . e . going to happen during this movie .  sentiment=negative  Positive=0.25 Neutral=0.26 Negative=0.49
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1927.txt
+some are a tad too goofy , such as the number where a lot of ghosts prance around in a funeral parlor , but i admired allen for even putting them in there .  sentiment=positive  Positive=0.75 Neutral=0.0 Negative=0.25
+
+some are a tad too goofy , such as the no . where a lot of ghosts prance around in a funeral parlor , but i admired allen for even putting them in there .  sentiment=mixed  Positive=0.44 Neutral=0.12 Negative=0.44
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1941.txt
+at least this much is clear : there's plenty of eye candy , and in the last few minutes it's good guys and joe camel lookalikes versus a caped , horned red devil character and his mechanical hordes .  sentiment=positive  Positive=0.93 Neutral=0.0 Negative=0.07
+
+at least this much is clear : there's plenty of eye candy , and in the last few minutes it's good guys and joe camel lookalikes vs . a caped , horned red devil character and his mechanical hordes .  sentiment=mixed  Positive=0.5 Neutral=0.02 Negative=0.48
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1954.txt
+only williams stands out ( while still performing on the level of his humor-free comedy rocket man ) , but that is because he's imprisoned throughout most of the film , giving a much needed change of pace ( but mostly swapping one set of obvious gags for another ) .  sentiment=negative  Positive=0.02 Neutral=0.0 Negative=0.98
+
+only williams stands out ( while still performing on the level of his humor-free comedy rocket man ) , but i . e . because he's imprisoned throughout most of the film , giving a much needed change of pace ( but mostly swapping one set of obvious gags for another ) .  sentiment=mixed  Positive=0.4 Neutral=0.09 Negative=0.51
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1957.txt
+double jeopardy is really good , but it isn't the kind of good that is remembered or recognized with awards .  sentiment=negative  Positive=0.03 Neutral=0.0 Negative=0.97
+
+double jeopardy is really good , but it isn't the kind of good i . e . remembered or recognized with awards .  sentiment=mixed  Positive=0.34 Neutral=0.16 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1960.txt
+a good adventure plot that is sadly unused .  sentiment=negative  Positive=0.29 Neutral=0.01 Negative=0.7
+
+a good adventure plot i . e . sadly unused .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1967.txt
+she helps them get a rat-infested apartment and malachy goes looking for a job .  sentiment=negative  Positive=0.33 Neutral=0.02 Negative=0.65
+
+she helps them get a rat-infested apt . and malachy goes looking for a job .  sentiment=positive  Positive=0.55 Neutral=0.02 Negative=0.43
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1970.txt
+not surprisingly , he does resurface , and it then becomes clear that this is a character that is best taken in a small dose ; almost immediately , his extended boorish and sociopathic antics loses its novelty .  sentiment=negative  Positive=0.49 Neutral=0.01 Negative=0.5
+
+not surprisingly , he does resurface , and it then becomes clear that this is a character i . e . best taken in a small dose ; almost immediately , his extended boorish and sociopathic antics loses its novelty .  sentiment=positive  Positive=0.98 Neutral=0.01 Negative=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1977.txt
+the original star wars movies can't even match the grandeur of this film's visuals and that is a sheer pleasure for the viewer- it gives us hope of even greater things for the upcoming episode .  sentiment=positive  Positive=0.69 Neutral=0.0 Negative=0.31
+
+the original star wars movies can't even match the grandeur of this film's visuals and i . e . a sheer pleasure for the viewer- it gives us hope of even greater things for the upcoming episode .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1979.txt
+this is a very minor fault , however , in a film that is full of riches .  sentiment=negative  Positive=0.04 Neutral=0.0 Negative=0.96
+
+this is a very minor fault , however , in a film i . e . full of riches .  sentiment=mixed  Positive=0.5 Neutral=0.0 Negative=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_1/azure/os1989.txt
+you're into that kind of thing , that is : ) .  sentiment=neutral  Positive=0.07 Neutral=0.93 Negative=0.0
+
+you're into that kind of thing , i . e . : ) .  sentiment=positive  Positive=0.89 Neutral=0.1 Negative=0.01
+
+------------------------*******************-----------------

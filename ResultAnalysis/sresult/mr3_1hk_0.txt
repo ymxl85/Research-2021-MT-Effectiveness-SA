@@ -1,0 +1,10 @@
+E:/MT_SA_FS/data/TestingResults/output/mr3_1/herokuapp/os702.txt
+you really won't be missing that much .    sentiment=neutral  polarity=0.0
+YOU REALLY WON'T BE MISSING THAT MUCH .    sentiment=positive  polarity=0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr3_1/herokuapp/os734.txt
+this leaves the movie with an hour to go and only three characters , which really isn't enough to sustain it .    sentiment=neutral  polarity=0.0
+THIS LEAVES THE MOVIE WITH AN HOUR TO GO AND ONLY THREE CHARACTERS , WHICH REALLY ISN'T ENOUGH TO SUSTAIN IT .    sentiment=positive  polarity=0.07
+
+------------------------*******************-----------------

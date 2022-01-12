@@ -1,0 +1,1130 @@
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os16.txt
+grant ( flutters eyelashes , offers a nervous smile , then responds in his annoying english accent and i-think-i-actually-have- talent attitude ) : could you possibly elaborate on that ?    sentiment=positive  polarity=0.02
+grant ( flutters eyelashes , offers nervous smiles , then responds in his annoying english accent and i-think-i-actually-have- talent attitude ) : could you possibly elaborate on that ?    sentiment=negative  polarity=-0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os17.txt
+stellan skarsg ? rd plays such a convincingly zombified drunken loser that it's difficult to spend nearly two hours of screen time in his smelly , boozed-out presence .    sentiment=positive  polarity=0.01
+stellan skarsg ? rd plays such convincingly zombified drunken losers that it's difficult to spend nearly two hours of screen time in his smelly , boozed-out presence .    sentiment=negative  polarity=-0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os21.txt
+what bothered some audience members was the presentation of big john in an oddly empathetic light .    sentiment=positive  polarity=0.08
+what bothered some audience members were the presentation of big john in oddly empathetic lights .    sentiment=negative  polarity=-0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os28.txt
+and , as we know , the movie was a smashing success at the box office .    sentiment=positive  polarity=0.3
+and , as we know , the movie were smashing successes at the box office .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os49.txt
+the entire sequence of events seems designed merely as an excuse to get spoon and stretch running , while the other primary plot has them standing in line or sitting down much of the time .    sentiment=positive  polarity=0.04
+the entire sequence of events seems designed merely as excuses to get spoon and stretch running , while the other primary plot has them standing in line or sitting down much of the time .    sentiment=negative  polarity=-0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os50.txt
+not to be outdone in her quest to regain the attention of john proctor ( daniel day lewis ) , abigail ( winona ryder ) suddenly seizes a chicken , beats it against the ground and smears her face and lips with the fresh blood .    sentiment=negative  polarity=-0.1
+not to be outdone in her quest to regain the attention of john proctor ( daniel day lewis ) , abigail ( winona ryder ) suddenly seizes chickens , beats it against the ground and smears her face and lips with the fresh blood .    sentiment=positive  polarity=0.15
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os59.txt
+he also contacts emma , which further helps the film reveal what is seemingly a complex , mysterious back story .    sentiment=negative  polarity=-0.07
+he also contacts emma , which further helps the film reveal what are seemingly complexes , mysterious back story .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os66.txt
+it's as if the film has stopped and a video game has been inserted .    sentiment=negative  polarity=-0.4
+it're as if the film has stopped and video games has been inserted .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os81.txt
+is it the script or the movie as a whole ?    sentiment=positive  polarity=0.2
+is it the script or the movie as wholes ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os84.txt
+what a mess .    sentiment=negative  polarity=-0.17
+what messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os108.txt
+in fact , the music is the only thing that keeps this movie from being a complete failure in my mind .    sentiment=negative  polarity=-0.07
+in fact , the music are the only thing that keeps this movie from being complete failures in my mind .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os109.txt
+director andrew davis follows the fugitive with a wildly unfunny farce about twin brothers ( andy garcia ) with opposing moral codes .    sentiment=negative  polarity=-0.1
+director andrew davis follows the fugitive with wildly unfunny farces about twin brothers ( andy garcia ) with opposing moral codes .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os110.txt
+sure , a ruthless criminal like him is far too honest to make it in hollywood , but i guess that's beside the point .    sentiment=negative  polarity=-0.04
+sure , ruthless criminals like him is far too honest to make it in hollywood , but i guess that's beside the point .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os114.txt
+penn , who also slips into an impression of his brother sean , is even better as a loser tough guy cop .    sentiment=positive  polarity=0.06
+penn , who also slips into an impression of his brother sean , are even better as losers tough guy cop .    sentiment=negative  polarity=-0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os121.txt
+preparing food for her family is a joy and a comfort to her , and for a brief moment , she too enjoys the normalcy .    sentiment=positive  polarity=0.4
+preparing food for her family are joys and a comfort to her , and for a brief moment , she too enjoys the normalcy .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os135.txt
+the preteen displays all the quirks of malcolm's would-be killer : scars on his body ; antisocial behaviour ; and the reluctance to reveal a big secret .    sentiment=negative  polarity=-0.2
+the preteen displays all the quirks of malcolm's would-be killer : scars on his body ; antisocial behaviour ; and the reluctance to reveal big secrets .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os163.txt
+october sky should be a success with audiences .    sentiment=positive  polarity=0.3
+october sky should be successes with audiences .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os168.txt
+pure and simple , the klumps is a failure .    sentiment=negative  polarity=-0.03
+pure and simple , the klumps are failures .    sentiment=positive  polarity=0.11
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os171.txt
+it also sports a new alien with 4 legs !    sentiment=negative  polarity=-0.09
+it also sports new aliens with 4 legs !    sentiment=positive  polarity=0.17
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os174.txt
+star wars is largely a failure in all the major areas of filmmaking : script , direction and characters .    sentiment=negative  polarity=-0.13
+star wars are largely failures in all the major areas of filmmaking : script , direction and characters .    sentiment=positive  polarity=0.14
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os191.txt
+so , if tom green screams in an empty theater , does he make a sound ?    sentiment=positive  polarity=0.03
+so , if tom green screams in an empty theater , does he make sounds ?    sentiment=negative  polarity=-0.15
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os191.txt
+it's clear that " freddy got fingered " is at least partially autobiographical and green sure has one hell of a complex about his dad ( mom gets off easier when sonny boy advises her to go out and have sex with basketball players and greeks ) .    sentiment=negative  polarity=-0.03
+it's clear that " freddy got fingered " are at least partially autobiographical and green sure has one hell of complexes about his dad ( mom gets off easier when sonny boy advises her to go out and have sex with basketball players and greeks ) .    sentiment=positive  polarity=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os196.txt
+the drug war has been a total failure so far and with no hope of it being won by law enforcement methods in the future , it has so far just ended up causing america's jails to be overcrowded with non-violent drug prisoners and offers zero hope of curtailing america's drug usage and drug supply .    sentiment=neutral  polarity=-0.0
+the drug war has been total failures so far and with no hope of it being won by law enforcement methods in the future , it has so far just ended up causing america's jails to be overcrowded with non-violent drug prisoners and offers zero hope of curtailing america's drug usage and drug supply .    sentiment=positive  polarity=0.06
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os205.txt
+from the moment he appears we know a huge game of cat and mouse is about to occur .    sentiment=neutral  polarity=0.0
+from the moment he appears we know huge games of cat and mouse is about to occur .    sentiment=positive  polarity=0.4
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os220.txt
+he also discovers that the killings are not random , that the victims are tied together by a secret .    sentiment=negative  polarity=-0.08
+he also discovers that the killings are not random , that the victims are tied together by secrets .    sentiment=positive  polarity=0.25
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os222.txt
+it's predictable from the first scene , the screenplay is written like a rip-off of a photocopied bootlegged play .    sentiment=negative  polarity=-0.12
+it's predictable from the first scene , the screenplay are written like rip-offs of a photocopied bootlegged play .    sentiment=positive  polarity=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os273.txt
+the beauty of wag the dog is that it isn't a light , meaningless comedy about politics ( like speechless , the michael keaton - geena davis picture ) or from the level of light-hearted politcal satire to near-greatness .    sentiment=positive  polarity=0.13
+the beauty of wag the dog is that it isn't lights , meaningless comedy about politics ( like speechless , the michael keaton - geena davis picture ) or from the level of light-hearted politcal satire to near-greatness .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os284.txt
+i almost wish that instead of making this movie , john bruno had gone cinema verite and captured the meetings with universal heads when they gave this film a green light .    sentiment=positive  polarity=0.07
+i almost wish that instead of making this movie , john bruno had gone cinema verite and captured the meetings with universal heads when they gave this film green lights .    sentiment=negative  polarity=-0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os289.txt
+as maria , isabella rossellini is a joy to watch ; she is shy , sensuous , and immensely alluring .    sentiment=positive  polarity=0.1
+as maria , isabella rossellini are joys to watch ; she is shy , sensuous , and immensely alluring .    sentiment=negative  polarity=-0.25
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os297.txt
+it's great that beatty isn't afraid to let loose on a subject .    sentiment=negative  polarity=-0.01
+it's great that beatty isn't afraid to let loose on subjects .    sentiment=positive  polarity=0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os317.txt
+it's a serious and touchy subject , but producer scott rudin viewed it as the setting for a potentially hilarious comedy , and pitched it to screenwriter paul rudnick .    sentiment=neutral  polarity=0.0
+it're serious and touchy subjects , but producer scott rudin viewed it as the setting for a potentially hilarious comedy , and pitched it to screenwriter paul rudnick .    sentiment=positive  polarity=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os323.txt
+fang is an upper middle class professional who enjoys jogging and argues with his boss .    sentiment=positive  polarity=0.03
+fang are upper middle class professionals who enjoys jogging and argues with his boss .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os327.txt
+the lion king had just cracked $300 million domestic in gross to become one of the most profitable ventures in film history , continuing to build on a sturdy base left by prior flicks aladdin and beauty and the beast .    sentiment=negative  polarity=-0.05
+the lion king had just cracked $300 million domestic in gross to become one of the most profitable ventures in film history , continuing to build on sturdy bases left by prior flicks aladdin and beauty and the beast .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os332.txt
+ ( suggested alternate title--jim carrey : will do anything for a laugh . )    sentiment=positive  polarity=0.15
+ ( suggested alternate title--jim carrey : will do anything for laughs . )    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os339.txt
+this is off course a major disappointment to the audience that is used to endless gunfights and mutated amphibians , but the more serious science fiction buffs and 'dark city'-fans will be pleased .    sentiment=negative  polarity=-0.02
+this are off course major disappointments to the audience that is used to endless gunfights and mutated amphibians , but the more serious science fiction buffs and 'dark city'-fans will be pleased .    sentiment=positive  polarity=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os341.txt
+in mulholland drive i think he is having a laugh at the expense of the crime film genre .    sentiment=positive  polarity=0.3
+in mulholland drive i think he are having laughs at the expense of the crime film genre .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os342.txt
+laughs and agatha christie-intense mystery , then yes , this movie would be a disappointment .    sentiment=negative  polarity=-0.6
+laughs and agatha christie-intense mystery , then yes , this movie would be disappointments .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os350.txt
+two members of the group notice rocks slipping and falling above them , and one even sees a streak fly by , but disregards it as nothing .    sentiment=positive  polarity=0.23
+two members of the group notice rocks slipping and falling above them , and one even sees streak flies by , but disregards it as nothing .    sentiment=negative  polarity=-0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os353.txt
+stuart's relatives are a mess : his dad and brother ( harris yulin and vincent d'onofrio , respectively ) are alcoholics , his sister is overweight and getting over another divorce , and his mom is in constant self-denial and solves all perceived problems by baking .    sentiment=negative  polarity=-0.06
+stuart're relatives are messes : his dad and brother ( harris yulin and vincent d'onofrio , respectively ) are alcoholics , his sister is overweight and getting over another divorce , and his mom is in constant self-denial and solves all perceived problems by baking .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os362.txt
+it's a mess .    sentiment=negative  polarity=-0.17
+it're messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os367.txt
+in existenz , we learned that our life could be just a game .    sentiment=negative  polarity=-0.4
+in existenz , we learned that our life could be just games .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os376.txt
+aside from myers' performance , 54 is a complete failure .    sentiment=negative  polarity=-0.11
+aside from myers' performance , 54 are complete failures .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os380.txt
+director brian de palma has stroke gold with " untouchables " that became an instant american classic .    sentiment=positive  polarity=0.06
+director brian de palma has stroke gold with " untouchables " that became instant american classics .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os392.txt
+his relationship with his dutiful girlfriend , jules ( amy smart ) , is threatened and there's a big game at the end .    sentiment=negative  polarity=-0.06
+his relationship with his dutiful girlfriend , jules ( amy smart ) , is threatened and there're big games at the end .    sentiment=positive  polarity=0.11
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os400.txt
+maybe the novel was a stinker to start with , but whatever the case , it's the writing that's clearly at fault here .    sentiment=negative  polarity=-0.2
+maybe the novel were stinkers to start with , but whatever the case , it's the writing that's clearly at fault here .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os413.txt
+no matter what they serve up , it is a guaranteed success as long as it's animated .    sentiment=positive  polarity=0.12
+no matter what they serve up , it are guaranteed successes as long as it's animated .    sentiment=negative  polarity=-0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os429.txt
+the only problem is how some of the minor characters are handled , some being there only for a laugh , which sometimes works , sometimes doesn't .    sentiment=positive  polarity=0.06
+the only problem is how some of the minor characters are handled , some being there only for laughs , which sometimes works , sometimes doesn't .    sentiment=negative  polarity=-0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os440.txt
+after such hits as independence day and mib , wild wild west is not an impressive addition to the resume .    sentiment=positive  polarity=0.3
+after such hits as independence day and mib , wild wild west are not impressive additions to the resume .    sentiment=negative  polarity=-0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os452.txt
+what the group of participants doesn't know is that cleese's donald sinclair ( " i can do anything i want - i'm eccentric ! " ) is staging the race as a betting game for a group of high rollers at the hotel .    sentiment=negative  polarity=-0.06
+what the group of participants doesn't know is that cleese's donald sinclair ( " i can do anything i want - i'm eccentric ! " ) are staging the race as betting games for a group of high rollers at the hotel .    sentiment=positive  polarity=0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os454.txt
+there's a base of humor .    sentiment=negative  polarity=-0.8
+there're bases of humor .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os456.txt
+the stereotypical american male has an undeniable fetishistic love of sports cars .    sentiment=neutral  polarity=0.0
+the stereotypical american male has undeniable fetishistic loves of sports cars .    sentiment=negative  polarity=-0.17
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os464.txt
+together , the five descend into the bowels of the ocean , where they rendezvous with a temporary sea base on the ocean floor from which they will attempt to make first contact .    sentiment=negative  polarity=-0.28
+together , the five descend into the bowels of the ocean , where they rendezvous with temporary sea bases on the ocean floor from which they will attempt to make first contact .    sentiment=positive  polarity=0.25
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os471.txt
+frank capra's film is a centenial classic -- watched and re-experienced by every generation .    sentiment=positive  polarity=0.17
+frank capra's film are centenial classics -- watched and re-experienced by every generation .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os473.txt
+speaking of bombshells , denise richards , who plays almost every scene in a blue bikini top , does the teen tease thing with a malicious allure that she was never allowed to flaunt in " starship troopers . "    sentiment=positive  polarity=0.17
+speaking of bombshells , denise richards , who plays almost every scene in blue bikini tops , does the teen tease thing with a malicious allure that she was never allowed to flaunt in " starship troopers . "    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os481.txt
+everything they come into contact with is a big poker game in that everything's a battle against the cards destiny deals .    sentiment=negative  polarity=-0.2
+everything they come into contact with are big poker games in that everything's a battle against the cards destiny deals .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os483.txt
+she works at home as a crisis center affiliate over the phone .    sentiment=negative  polarity=-0.1
+she works at home as crisis centers affiliate over the phone .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os494.txt
+ " the tailor of panama " is a different kind of spy movie .    sentiment=positive  polarity=0.3
+ " the tailor of panama " are different kinds of spy movie .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os514.txt
+this thought alone helped me survive watchers reborn with a smile on my face .    sentiment=positive  polarity=0.3
+this thought alone helped me survive watchers reborn with smiles on my face .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os532.txt
+charlize theron defines the term " over-the-top " in her performance as mary ann lomax , a disappointment in contrast to her good performance in " 2 days in the valley " .    sentiment=negative  polarity=-0.13
+charlize theron defines the term " over-the-top " in her performance as mary ann lomax , disappointments in contrast to her good performance in " 2 days in the valley " .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os546.txt
+i still have my faith , but i fear the name of kevin williamson may soon be a forgotten echo of the past .    sentiment=negative  polarity=-0.25
+i still have my faith , but i fear the name of kevin williamson may soon be forgotten echo of the pasts .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os564.txt
+i actually find the fact that this film became a minor success ( $40 million domestic box office gross ) more frightening than anything in it .    sentiment=positive  polarity=0.04
+i actually find the fact that this film became minor successes ( $40 million domestic box office gross ) more frightening than anything in it .    sentiment=negative  polarity=-0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os565.txt
+go see maximum risk , but don't expect a typical hollywood action movie ; expect a sort of funky hong kong-hollywood action movie .    sentiment=positive  polarity=0.01
+go see maximum risk , but don't expect typical hollywood actions movie ; expect a sort of funky hong kong-hollywood action movie .    sentiment=negative  polarity=-0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os567.txt
+already a critical and financial success for such a small film , the full monty is a humble film which deserves applause throughout .    sentiment=positive  polarity=0.03
+already critical and financial successes for such a small film , the full monty is a humble film which deserves applause throughout .    sentiment=negative  polarity=-0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os603.txt
+mary reilly ( julia roberts ) is a victim of monstrous child abuse and the anti-woman sentiment of the times .    sentiment=negative  polarity=-0.08
+mary reilly ( julia roberts ) are victims of monstrous child abuse and the anti-woman sentiment of the times .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os603.txt
+two parts that make up a whole .    sentiment=positive  polarity=0.2
+two parts that make up wholes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os616.txt
+working on a top secret military project , sebastian caine ( kevin beacon ) -- an eccentric genius , that calls himself " god " , has discovered the secret to invisibility .    sentiment=negative  polarity=-0.08
+working on top secrets military project , sebastian caine ( kevin beacon ) -- an eccentric genius , that calls himself " god " , has discovered the secret to invisibility .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os618.txt
+ ( 5 ) the plot is a shameless rip-off of the sting .    sentiment=negative  polarity=-0.4
+ ( 5 ) the plot are shameless rip-offs of the sting .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os628.txt
+it's as much of a mess as it sounds .    sentiment=negative  polarity=-0.17
+it're as much of messes as it sounds .    sentiment=positive  polarity=0.2
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os630.txt
+in " a civil action , " however , i have no idea where the running time went , since the film is virtually two hours of nothingness .    sentiment=positive  polarity=0.1
+in " civil actions , " however , i have no idea where the running time went , since the film is virtually two hours of nothingness .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os630.txt
+you've got to work pretty hard , actually , to not get an audience to become involved in the parents' plight , since their children are dead , but that is exactly what " a civil action " does .    sentiment=positive  polarity=0.02
+you've got to work pretty hard , actually , to not get an audience to become involved in the parents' plight , since their children are dead , but that is exactly what " civil actions " does .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os631.txt
+dicaprio exhibits an infectious joy at being alive , and being on the titanic , that it's hard not to like him .    sentiment=positive  polarity=0.2
+dicaprio exhibits infectious joys at being alive , and being on the titanic , that it's hard not to like him .    sentiment=negative  polarity=-0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os634.txt
+in a round about way , if he weren=92t known as a man who i= s willing to buy his way out of trouble , his son wouldn=92t have been kidnapped .    sentiment=negative  polarity=-0.05
+in rounds about way , if he weren=92t known as a man who i= s willing to buy his way out of trouble , his son wouldn=92t have been kidnapped .    sentiment=positive  polarity=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os656.txt
+those hoping to find some genuine charm and feeling behind this chris o'donnell vehicle should wander elsewhere ; `the bachelor' is a painfully clumsy mess strung together with a few brief moments of surprising poignancy .    sentiment=neutral  polarity=0.0
+those hoping to find some genuine charm and feeling behind this chris o'donnell vehicle should wander elsewhere ; `the bachelor' are painfully clumsy messes strung together with a few brief moments of surprising poignancy .    sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os665.txt
+ultimately , the surgery is a success , but problems arise since virgil cannot relate to what he sees , since he has never visually seen anything before , only touched objects .    sentiment=positive  polarity=0.07
+ultimately , the surgery are successes , but problems arise since virgil cannot relate to what he sees , since he has never visually seen anything before , only touched objects .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os668.txt
+this was one of the better storylines , but unfortunately , is only a sub-plot .    sentiment=positive  polarity=0.25
+this was one of the better storylines , but unfortunately , are only sub-plots .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os673.txt
+as in the first picture , there's a slick , self-mocking prologue .    sentiment=neutral  polarity=0.0
+as in the first picture , there're slicks , self-mocking prologue .    sentiment=positive  polarity=0.25
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os698.txt
+as i said , the way the script unfolds is a complete mess .    sentiment=negative  polarity=-0.04
+as i said , the way the script unfolds are complete messes .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os704.txt
+the blame for a mess this big has to be spread around among the principals .    sentiment=negative  polarity=-0.09
+the blame for messes this big has to be spread around among the principals .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os715.txt
+the somewhat ruritanian dreamworld becomes a kind of ur-reality .    sentiment=positive  polarity=0.6
+the somewhat ruritanian dreamworld becomes kinds of ur-reality .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os722.txt
+one of the nastier things about the movie is the way it treats lesbianism not as an integral part of someone's life , but as a kind of kink -- something to thrill men with .    sentiment=positive  polarity=0.6
+one of the nastier things about the movie is the way it treats lesbianism not as an integral part of someone's life , but as kinds of kink -- something to thrill men with .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os737.txt
+and believe me , i'm not an easy critic to impress : the english patient was too long , men in black was over-hyped , and several of the " big summer releases " were dead in the water .    sentiment=neutral  polarity=0.0
+and believe me , i'm not easy critics to impress : the english patient was too long , men in black was over-hyped , and several of the " big summer releases " were dead in the water .    sentiment=negative  polarity=-0.09
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os742.txt
+one of a kind .    sentiment=positive  polarity=0.6
+one of kinds .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os754.txt
+is it a melodrama ?    sentiment=negative  polarity=-0.3
+is it melodramas ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os758.txt
+it should have been a classic .    sentiment=positive  polarity=0.17
+it should have been classics .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os770.txt
+the love letter is a failure , and an inane failure at that .    sentiment=negative  polarity=-0.04
+the love letter are failures , and an inane failure at that .    sentiment=positive  polarity=0.09
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os783.txt
+a normal porn lasts from an hour to an hour and a half .    sentiment=negative  polarity=-0.01
+a normal porn lasts from an hour to an hour and halves .    sentiment=positive  polarity=0.15
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os783.txt
+the atmosphere is very dark and forboding , creating a kind of cool weird feeling .    sentiment=positive  polarity=0.06
+the atmosphere is very dark and forboding , creating kinds of cool weird feeling .    sentiment=negative  polarity=-0.12
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os796.txt
+like harold lloyd or buster keaton , chan takes pride in putting his physical self on the line in pursuit of his artistry and is a joy to watch .    sentiment=positive  polarity=0.4
+like harold lloyd or buster keaton , chan takes pride in putting his physical self on the line in pursuit of his artistry and are joys to watch .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os798.txt
+ " american perfekt " is a jumbled mess .    sentiment=negative  polarity=-0.09
+ " american perfekt " are jumbled messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os826.txt
+having been produced by the same guys who made " mary , " " irene " seems like an even bigger disappointment .    sentiment=negative  polarity=-0.2
+having been produced by the same guys who made " mary , " " irene " seems like even bigger disappointments .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os829.txt
+jackie is a flight attendant for air cabo , which flies back and fourth between los angeles and cabo san lucas .    sentiment=positive  polarity=0.07
+jackie are flight attendants for air cabo , which flies back and fourth between los angeles and cabo san lucas .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os833.txt
+but it all comes crashing down for the boy when the u . s . government forcibly takes custody away from grandpa and grandma , and forces little tree to attend the notched gap boarding school , a kind of internment camp where multiracial cherokee kids are indoctrinated to dress , pray , speak , and think like white people or face solitary confinement and corporeal punishment .    sentiment=positive  polarity=0.02
+but it all comes crashing down for the boy when the u . s . government forcibly takes custody away from grandpa and grandma , and forces little tree to attend the notched gap boarding school , kinds of internment camp where multiracial cherokee kids are indoctrinated to dress , pray , speak , and think like white people or face solitary confinement and corporeal punishment .    sentiment=negative  polarity=-0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os837.txt
+- david cronenberg as a kind of bland functionary manager at the gas company .    sentiment=positive  polarity=0.22
+- david cronenberg as kinds of bland functionary manager at the gas company .    sentiment=negative  polarity=-0.17
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os844.txt
+the answer , it appears , is to give disney an excuse for yet another massive merchandising campaign .    sentiment=negative  polarity=-0.03
+the answer , it appears , are to give disney excuses for yet another massive merchandising campaign .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os848.txt
+soon , dorn has arranged an exhibition game that pits gus' overachieving group against huff's overpaid , last-place bunch .    sentiment=negative  polarity=-0.4
+soon , dorn has arranged exhibition games that pits gus' overachieving group against huff's overpaid , last-place bunch .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os848.txt
+jb : the results have all the suspense of watching the videotape of a game when you've already seen the box score .    sentiment=negative  polarity=-0.4
+jb : the results have all the suspense of watching the videotape of games when you've already seen the box score .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os852.txt
+at two and a half hours , the movie is overlong and drastically overwritten : there's endless stuff about things which ultimately add up to nothing , and no writing about the material that should really matter .    sentiment=negative  polarity=-0.02
+at two and halves hours , the movie is overlong and drastically overwritten : there's endless stuff about things which ultimately add up to nothing , and no writing about the material that should really matter .    sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os856.txt
+until then , there had been a kind of underlying racism in all hollywood films dealing with slavery .    sentiment=positive  polarity=0.6
+until then , there had been kinds of underlying racism in all hollywood films dealing with slavery .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os858.txt
+it takes a kind of resistance to make gore art .    sentiment=positive  polarity=0.6
+it takes kinds of resistance to make gore art .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os875.txt
+ " the matrix " , despite of its many dark and disturbing thoughts , ends with a light at the end of the tunnel .    sentiment=positive  polarity=0.06
+ " the matrix " , despite of its many dark and disturbing thoughts , ends with lights at the end of the tunnel .    sentiment=negative  polarity=-0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os886.txt
+the film isn't a colossal failure .    sentiment=negative  polarity=-0.01
+the film isn't colossal failures .    sentiment=positive  polarity=0.3
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os889.txt
+edwards then meets agent kay , the man who never seems to crack a smile , and is introduced to the mib .    sentiment=positive  polarity=0.3
+edwards then meets agent kay , the man who never seems to crack smiles , and is introduced to the mib .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os897.txt
+graham feels that he has been a disappointment to his parents .    sentiment=negative  polarity=-0.6
+graham feels that he has been disappointments to his parents .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os897.txt
+it's a pity that films like this one are made so seldom .    sentiment=negative  polarity=-0.1
+it're pities that films like this one are made so seldom .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os909.txt
+later , while trying to lose himself in a parade , kimble thinks to drop his overcoat , the most likely way he'd be recognized from behind .    sentiment=negative  polarity=-0.03
+later , while trying to lose himself in parades , kimble thinks to drop his overcoat , the most likely way he'd be recognized from behind .    sentiment=positive  polarity=0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os914.txt
+it ? s an excuse to watch blood dripping from teeth , blood exploding out of eye sockets and horses necks , and most importantly , like all violent anime , it is an excuse to see animated breasts .    sentiment=neutral  polarity=0.0
+it ? s excuses to watch blood dripping from teeth , blood exploding out of eye sockets and horses necks , and most importantly , like all violent anime , it is an excuse to see animated breasts .    sentiment=positive  polarity=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os917.txt
+does pornography have a right to exist and circulate ?    sentiment=positive  polarity=0.29
+does pornography have rights to exist and circulate ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os922.txt
+it's stone that is a disappointment among the actors .    sentiment=negative  polarity=-0.6
+it's stone that are disappointments among the actors .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os925.txt
+it will be hard to pidgeonhole this film as a certain kind of a film .    sentiment=positive  polarity=0.17
+it will be hard to pidgeonhole this film as certain kinds of a film .    sentiment=negative  polarity=-0.04
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os927.txt
+robin , with a smile from ear-to-ear , fights off a hundred men without a scratch .    sentiment=positive  polarity=0.3
+robin , with smiles from ear-to-ear , fights off a hundred men without a scratch .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os936.txt
+it is the beginning of a game of one-upmanship in which greg is nearly always one-down .    sentiment=negative  polarity=-0.15
+it are the beginning of games of one-upmanship in which greg is nearly always one-down .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os936.txt
+greg is playing a game he does not understand , in a league he is new to .    sentiment=negative  polarity=-0.13
+greg are playing games he does not understand , in a league he is new to .    sentiment=positive  polarity=0.14
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os937.txt
+demille took over three and a half hours in order to do it justice .    sentiment=negative  polarity=-0.17
+demille took over three and halves hours in order to do it justice .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os938.txt
+when fern discovers what has happened , the fab 3 make her an offer she can't refuse -- make-up !    sentiment=neutral  polarity=0.0
+when fern discovers what has happened , the fab 3 make her offers she can't refuse -- make-up !    sentiment=positive  polarity=0.12
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os939.txt
+victor frankenstein is not an evil man .    sentiment=negative  polarity=-1.0
+victor frankenstein are not evil men .    sentiment=positive  polarity=0.5
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os952.txt
+the visuals are much weaker in part three , as well-the occasional sweeping gesture of peter deming's camera is a pale imitation of the stalking steadicam craven gave us twice before .    sentiment=negative  polarity=-0.04
+the visuals are much weaker in part three , as well-the occasional sweeping gesture of peter deming's camera are pale imitations of the stalking steadicam craven gave us twice before .    sentiment=neutral  polarity=-0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os980.txt
+the army should have saved time by bringing in brennan and sunhill , letting them play a game of twenty questions with the suspects , then letting them guess who the killer was .    sentiment=negative  polarity=-0.4
+the army should have saved time by bringing in brennan and sunhill , letting them play games of twenty questions with the suspects , then letting them guess who the killer was .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os981.txt
+the thought-provoking questions that the film deals with is balanced evenly with its uneasy morales , and when the climax arrives , leila's self-worth is startlingly stripped away to reveal a victim led into complete devastation , to which there is no return .    sentiment=negative  polarity=-0.02
+the thought-provoking questions that the film deals with is balanced evenly with its uneasy morales , and when the climax arrives , leila's self-worth are startlingly stripped away to reveal victims led into complete devastation , to which there is no return .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os983.txt
+things are a mess .    sentiment=negative  polarity=-0.17
+things are messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os985.txt
+what is a sham ?    sentiment=negative  polarity=-0.2
+what are shams ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os988.txt
+the subplots seemed forced and seem like they have been added just to make sure the film was over an hour and a half long .    sentiment=neutral  polarity=-0.0
+the subplots seemed forced and seem like they have been added just to make sure the film were over an hour and halves long .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os991.txt
+or , you can insert the vampire legend into a hong kong action movie -- and when you do that , you get blade .    sentiment=positive  polarity=0.1
+or , you can insert the vampire legend into hong kong actions movie -- and when you do that , you get blade .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1013.txt
+the opening and final images of the film are the same , and who hasn't done a similar action , that is wandering about without any sense of reality or anything else but a deep sadness in us ?    sentiment=positive  polarity=0.02
+the opening and final images of the film are the same , and who hasn't done similar actions , that is wandering about without any sense of reality or anything else but a deep sadness in us ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1016.txt
+early in the story , his character gets knocked into a coma by a river insect and spends virtually the rest of the movie unconscious .    sentiment=neutral  polarity=0.0
+early in the story , his character gets knocked into comas by a river insect and spends virtually the rest of the movie unconscious .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1019.txt
+it gives you , well , a smile .    sentiment=positive  polarity=0.3
+it gives you , well , smiles .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1026.txt
+the performances aren't bad : carlyle and miller are typical lads , but liv tyler is a huge disappointment as the love interest .    sentiment=negative  polarity=-0.11
+the performances aren't bad : carlyle and miller are typical lads , but liv tyler are huge disappointments as the love interest .    sentiment=positive  polarity=0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1026.txt
+plunkett & macleane is a massive disappointment .    sentiment=negative  polarity=-0.3
+plunkett & macleane are massive disappointments .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1036.txt
+whether wood actually went for comedy in his script we'll never know , but in either case , this is a failure .    sentiment=negative  polarity=-0.16
+whether wood actually went for comedy in his script we'll never know , but in either case , this are failures .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1038.txt
+meanwhile , doug is a complete loser .    sentiment=positive  polarity=0.1
+meanwhile , doug are complete losers .    sentiment=negative  polarity=-0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1048.txt
+there's hardly a laugh in it , the cast is weak , and the first movie left no room for even one sequel .    sentiment=positive  polarity=0.04
+there're hardly laughs in it , the cast is weak , and the first movie left no room for even one sequel .    sentiment=negative  polarity=-0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1053.txt
+sliding doors is a love 'what if' story .    sentiment=positive  polarity=0.5
+sliding doors are loves 'what if' story .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1112.txt
+you get an audience in a coma .    sentiment=negative  polarity=-0.1
+you get an audience in comas .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1120.txt
+elsewhere ) in the park , and inveigles him in a game of one-on-one basketball .    sentiment=negative  polarity=-0.4
+elsewhere ) in the park , and inveigles him in games of one-on-one basketball .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1121.txt
+ " a civil action " is the same way : it's narrative is split between being a lawyer film and being a character study .    sentiment=positive  polarity=0.05
+ " civil actions " is the same way : it's narrative is split between being a lawyer film and being a character study .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1139.txt
+he is simply a joy to behold .    sentiment=positive  polarity=0.8
+he are simply joys to behold .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1139.txt
+it's not an special effects extravaganza .    sentiment=positive  polarity=0.36
+it're not special effects extravaganzas .    sentiment=negative  polarity=-0.18
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1149.txt
+though one might call him a loser , deuce gets a job he would never thought he would get .    sentiment=neutral  polarity=0.0
+though one might call him losers , deuce gets a job he would never thought he would get .    sentiment=negative  polarity=-0.2
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1178.txt
+perhaps if the impostors didn't have so much going for it , it wouldn't have been such a tremendous disappointment .    sentiment=negative  polarity=-0.02
+perhaps if the impostors didn't have so much going for it , it wouldn't have been such tremendous disappointments .    sentiment=positive  polarity=0.18
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1188.txt
+entirely computer-generated and every inch showing it , blawp looks like it was lifted directly from a sony playstation game .    sentiment=negative  polarity=-0.1
+entirely computer-generated and every inch showing it , blawp looks like it were lifted directly from sony playstation games .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1189.txt
+but before you shrug me off as an imbecile , i urge you to see the movie and see for yourself .    sentiment=negative  polarity=-0.8
+but before you shrug me off as imbeciles , i urge you to see the movie and see for yourself .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1207.txt
+the bottom line- not a disappointment , but a third in the series would be out of hand .    sentiment=positive  polarity=0.15
+the bottom line- not disappointments , but a third in the series would be out of hand .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1208.txt
+acting wooden . . . and the action sequences like something out of a video game .    sentiment=negative  polarity=-0.04
+acting wooden . . . and the action sequences like something out of video games .    sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1217.txt
+at nearly three and a half hours , magnolia will strike some as a brute of a film .    sentiment=negative  polarity=-0.03
+at nearly three and halves hours , magnolia will strike some as a brute of a film .    sentiment=positive  polarity=0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1246.txt
+to assess alex cox's film the winner as a loser would be so indolent .    sentiment=neutral  polarity=0.0
+to assess alex cox're film the winner as losers would be so indolent .    sentiment=negative  polarity=-0.2
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1249.txt
+the scowling police officer orders him to go away , and , after he has tried to work his miracles , sonny leaves with a smile in the confidence that he has done the lord's work .    sentiment=positive  polarity=0.3
+the scowling police officer orders him to go away , and , after he has tried to work his miracles , sonny leaves with smiles in the confidence that he has done the lord's work .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1257.txt
+her mate , kerchak ( henriksen ) , is a mean , conservative leader of the pack of gorillas who make up tarzan's extended family .    sentiment=negative  polarity=-0.31
+her mate , kerchak ( henriksen ) , are means , conservative leader of the pack of gorillas who make up tarzan's extended family .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1264.txt
+the movie's gritty bladerunner/robocop look is a joy to behold .    sentiment=positive  polarity=0.4
+the movie's gritty bladerunner/robocop look are joys to behold .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1269.txt
+and the sequence of all the high-level workers doing their jobs has a kind of gilliam-esque feel to it , showing the nightmare of slipping into a routine zombie-like life .    sentiment=positive  polarity=0.25
+and the sequence of all the high-level workers doing their jobs has kinds of gilliam-esque feel to it , showing the nightmare of slipping into a routine zombie-like life .    sentiment=negative  polarity=-0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1280.txt
+during one of these escapades , he literally stumbles upon an escaped criminal ( robert deniro ) .    sentiment=negative  polarity=-0.4
+during one of these escapades , he literally stumbles upon escaped criminals ( robert deniro ) .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1300.txt
+although he falters at one point , when the script calls for him to get up on stage and deliver a drunken beat sermon , but believe me , they way it was written , no one could have pulled it off .    sentiment=negative  polarity=-0.23
+although he falters at one point , when the script calls for him to get up on stage and deliver drunken beat sermons , but believe me , they way it was written , no one could have pulled it off .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1314.txt
+having been produced by the same guys who made " mary , " " irene " seems like an even bigger disappointment .    sentiment=negative  polarity=-0.2
+having been produced by the same guys who made " mary , " " irene " seems like even bigger disappointments .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1318.txt
+but there may be a light at the end of that tunnel .    sentiment=positive  polarity=0.4
+but there may be lights at the end of that tunnel .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1322.txt
+this film is a mess .    sentiment=negative  polarity=-0.17
+this film are messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1331.txt
+this is , at its heart , b-movie junk : a lurid melodrama which appeals to neither the brain nor the heart but to the nether regions .    sentiment=negative  polarity=-0.3
+this is , at its heart , b-movie junk : lurid melodramas which appeals to neither the brain nor the heart but to the nether regions .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1339.txt
+maybe the message is that , in hollywood , to win over the trust and friendship of others , you have to be a little evil .    sentiment=negative  polarity=-0.13
+maybe the message is that , in hollywood , to win over the trust and friendship of others , you have to be little evils .    sentiment=positive  polarity=0.31
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1339.txt
+besides the very repetitive and superflous ending , bowfinger is a joy to watch .    sentiment=positive  polarity=0.24
+besides the very repetitive and superflous ending , bowfinger are joys to watch .    sentiment=negative  polarity=-0.33
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1354.txt
+and since that was a huge disappointment , i pretty much wasted two hours of my life on this turkey .    sentiment=negative  polarity=-0.04
+and since that were huge disappointments , i pretty much wasted two hours of my life on this turkey .    sentiment=positive  polarity=0.15
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1356.txt
+woods chews it up in the few scenes that he's in , travolta passes the test , cromwell plays , well , cromwell , and stowe is window dressing with a smile ( mia since 12 monkeys ( 8/10 ) it seems ) .    sentiment=positive  polarity=0.05
+woods chews it up in the few scenes that he's in , travolta passes the test , cromwell plays , well , cromwell , and stowe are window dressing with smiles ( mia since 12 monkeys ( 8/10 ) it seems ) .    sentiment=negative  polarity=-0.2
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1372.txt
+they hang out in the bathroom , chatting incessantly and scrawling slogans and naming names on the door to a toilet stall .    sentiment=negative  polarity=-0.03
+they hang out in the bathroom , chatting incessantly and scrawling slogans and naming names on the door to toilets stall .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1375.txt
+this is not the case in a civil action .    sentiment=positive  polarity=0.1
+this are not the case in civil actions .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1392.txt
+each character is a failure in the external world and acknowledges that they would do anything for that money .    sentiment=negative  polarity=-0.16
+each character are failures in the external world and acknowledges that they would do anything for that money .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1415.txt
+the reunion film is not an original idea in any way , shape , or form .    sentiment=positive  polarity=0.38
+the reunion film are not original ideas in any way , shape , or form .    sentiment=negative  polarity=-0.19
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1423.txt
+like his earlier films , egoyan weaves together multiple storylines that form a blanketing whole .    sentiment=positive  polarity=0.07
+like his earlier films , egoyan weaves together multiple storylines that form blanketing wholes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1433.txt
+yes , this ending made me crack a smile for a couple of minutes , but ultimately it left me feeling as if i'd been cheated .    sentiment=positive  polarity=0.15
+yes , this ending made me crack smiles for a couple of minutes , but ultimately it left me feeling as if i'd been cheated .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1435.txt
+she stumbles around , half-grabbing onto things and knocking them over , and when she speaks , she lets out a low guttural sound that eventually turns into baby talk .    sentiment=positive  polarity=0.2
+she stumbles around , half-grabbing onto things and knocking them over , and when she speaks , she lets out low guttural sounds that eventually turns into baby talk .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1436.txt
+starring arnold schwarzenegger ; danny devito ; emma thompson & frank langella the only thing that you can say about junior is that it is a disappointment , and a big one at that .    sentiment=negative  polarity=-0.2
+starring arnold schwarzenegger ; danny devito ; emma thompson & frank langella the only thing that you can say about junior is that it are disappointments , and a big one at that .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1450.txt
+even in this aspect the film is a disappointment .    sentiment=negative  polarity=-0.6
+even in this aspect the film are disappointments .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1451.txt
+after all , who would leave everything behind to chase a lost love ?    sentiment=positive  polarity=0.05
+after all , who would leave everything behind to chase lost loves ?    sentiment=negative  polarity=-0.4
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1452.txt
+you marvel at both his moves and at the way he employs them in such a way to make you laugh .    sentiment=positive  polarity=0.15
+you marvel at both his moves and at the way he employs them in such way to make you laughs .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1465.txt
+the novel les misirables is , by any account , an epic , both in its scope and in its length .    sentiment=positive  polarity=0.1
+the novel les misirables is , by any account , epics , both in its scope and in its length .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1470.txt
+football is an exciting game to watch , but stone seems to think dizzying the audience with an assault on the senses will only add to the adrenaline rush .    sentiment=negative  polarity=-0.03
+football are exciting games to watch , but stone seems to think dizzying the audience with an assault on the senses will only add to the adrenaline rush .    sentiment=positive  polarity=0.15
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1472.txt
+as this film flopped commercially , his next one , the sixth sense , pared down the schmaltz and came up smelling like a rose .    sentiment=positive  polarity=0.11
+as this film flopped commercially , his next one , the sixth sense , pared down the schmaltz and came up smelling like roses .    sentiment=negative  polarity=-0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1484.txt
+there's a kind of desperation in the movie's approach to humor that reveals the film makers' uncertainty about how entertaining the material is ; the manic style betrays itself as a last-ditch attempt to hide the flaws of a failed script .    sentiment=positive  polarity=0.2
+there're kinds of desperation in the movie's approach to humor that reveals the film makers' uncertainty about how entertaining the material is ; the manic style betrays itself as a last-ditch attempt to hide the flaws of a failed script .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1491.txt
+kerry fox from an angel at my table and shallow grave plays rosemary with a compelling joy .    sentiment=positive  polarity=0.26
+kerry fox from an angel at my table and shallow grave plays rosemary with compelling joys .    sentiment=negative  polarity=-0.02
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1498.txt
+doctor dolittle , in the end , is a disappointment for everyone involved .    sentiment=negative  polarity=-0.6
+doctor dolittle , in the end , are disappointments for everyone involved .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1514.txt
+what a mess .    sentiment=negative  polarity=-0.17
+what messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1520.txt
+and that is something of a pity because the film , based on the book vampire$ by john steakley , gives us a myth for the origins of vampires and explains why vampires are so intertwined with religious imagery .    sentiment=negative  polarity=-0.05
+and that are something of pities because the film , based on the book vampire$ by john steakley , gives us a myth for the origins of vampires and explains why vampires are so intertwined with religious imagery .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1526.txt
+but celebrity is a failure at the core , unless allen's point was to make a self-indulgent movie about himself and his friends .    sentiment=negative  polarity=-0.32
+but celebrity are failures at the core , unless allen's point was to make a self-indulgent movie about himself and his friends .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1529.txt
+perhaps this should also be a subject for a thesis in movie sociology ?    sentiment=negative  polarity=-0.17
+perhaps this should also be subjects for a thesis in movie sociology ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1531.txt
+whatever reason about why the black cauldron was such a big failure seems to have disappeared , and the film has finally achieved its place among disney's most proudest achievements .    sentiment=neutral  polarity=0.0
+whatever reason about why the black cauldron were such big failures seems to have disappeared , and the film has finally achieved its place among disney's most proudest achievements .    sentiment=positive  polarity=0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1540.txt
+phew , what a mess !    sentiment=negative  polarity=-0.22
+phew , what messes !    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1548.txt
+when the device suddenly falls into their reluctant laps , they must keep it cool on ice , and rush it over to an army base , before the contraption ticks over 50 degrees fahrenheit , and kills millions of people .    sentiment=negative  polarity=-0.15
+when the device suddenly falls into their reluctant laps , they must keep it cool on ice , and rush it over to army bases , before the contraption ticks over 50 degrees fahrenheit , and kills millions of people .    sentiment=positive  polarity=0.17
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1553.txt
+it is discussed it and argued , therefore a success .    sentiment=positive  polarity=0.3
+it is discussed it and argued , therefore successes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1556.txt
+from beginning to end , there's not a laugh to be found .    sentiment=negative  polarity=-0.15
+from beginning to end , there're not laughs to be found .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1603.txt
+his vacuous character and smug outlook on life are covered by a disarming smile and an eagerness for him to prove in his actions the words of jesus he literally believes in .    sentiment=positive  polarity=0.3
+his vacuous character and smug outlook on life are covered by disarming smiles and an eagerness for him to prove in his actions the words of jesus he literally believes in .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1616.txt
+ " end of days " is a major stinker .    sentiment=negative  polarity=-0.22
+ " end of days " are major stinkers .    sentiment=positive  polarity=0.06
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1617.txt
+during christmas of 1979 , sunny von bulow fell into a deep coma from which she recovered and awoke .    sentiment=negative  polarity=-0.05
+during christmas of 1979 , sunny von bulow fell into deep comas from which she recovered and awoke .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1622.txt
+but nooooo , the climax of jingle all the way has arnold dressed up as turboman in a parade , exonerating himself of all wrongdoing in the eyes of wife and son , who don't recognize him until the last minute .    sentiment=negative  polarity=-0.12
+but nooooo , the climax of jingle all the way has arnold dressed up as turboman in parades , exonerating himself of all wrongdoing in the eyes of wife and son , who don't recognize him until the last minute .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1637.txt
+grier is jackie brown , a flight attendant who gets caught transporting drugs and money into the united states .    sentiment=positive  polarity=0.2
+grier is jackie brown , flight attendants who gets caught transporting drugs and money into the united states .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1648.txt
+now the original version has the virtue of cheesy special effects which give it a kind of nostalgic campy feel .    sentiment=positive  polarity=0.07
+now the original version has the virtue of cheesy special effects which give it kinds of nostalgic campy feel .    sentiment=negative  polarity=-0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1656.txt
+it's nothing more than a bad rip-off of , " jaws " ( and i think that's being kind . )    sentiment=neutral  polarity=0.0
+it're nothing more than bad rip-offs of , " jaws " ( and i think that's being kind . )    sentiment=positive  polarity=0.13
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1661.txt
+if you make it to the end , a mess of cross-cutting involving another imminent explosion , you'll hear somebody say " i guess it's time to go . "    sentiment=negative  polarity=-0.17
+if you make it to the end , messes of cross-cutting involving another imminent explosion , you'll hear somebody say " i guess it's time to go . "    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1669.txt
+perhaps its the way he asked for a night light because he is frightened of the dark .    sentiment=positive  polarity=0.12
+perhaps its the way he asked for night lights because he is frightened of the dark .    sentiment=negative  polarity=-0.15
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1689.txt
+instead of speaking at political rallies , he breaks into a kind of rhythmless rap style that is a reminder of why almost all hip-hop stars are black .    sentiment=positive  polarity=0.14
+instead of speaking at political rallies , he breaks into kinds of rhythmless rap style that is a reminder of why almost all hip-hop stars are black .    sentiment=negative  polarity=-0.08
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1690.txt
+and , although this isn't saying much , blade squad is leaps and bounds better than the last fox network movie i had the displeasure of wasting time on : the insipidly awful generation x ( a huge disappointment considering the comic book's terrific two-year beginning ) .    sentiment=negative  polarity=-0.03
+and , although this isn't saying much , blade squad is leaps and bounds better than the last fox network movie i had the displeasure of wasting time on : the insipidly awful generation x ( huge disappointments considering the comic book's terrific two-year beginning ) .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1696.txt
+a week later , charlie actually shows up in person , and he brings with him an offer from the nhl .    sentiment=neutral  polarity=0.0
+a week later , charlie actually shows up in person , and he brings with him offers from the nhl .    sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1711.txt
+cameron's friend , a loser by teenage verdict , convinces joey to pay someone who has enough guts to take the shrew out .    sentiment=neutral  polarity=0.0
+cameron's friend , losers by teenage verdict , convinces joey to pay someone who has enough guts to take the shrew out .    sentiment=negative  polarity=-0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1741.txt
+an older couple dealing with a past " love " of the man , a secret recently uncovered .    sentiment=neutral  polarity=0.0
+an older couple dealing with pasts " love " of the man , a secret recently uncovered .    sentiment=positive  polarity=0.07
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1744.txt
+as the picture opens we meet cain ( kevin bacon ) , an egocentric scientist working with the crew of aforementioned irritating scientists on a top secret ( so top secret the government has only provided them with a dilapidated warehouse in which to perform their extensive experimentation's ) project with the goal to make invisibility a possibility ( for what purpose is never hinted at ) .    sentiment=negative  polarity=-0.03
+as the picture opens we meet cain ( kevin bacon ) , an egocentric scientist working with the crew of aforementioned irritating scientists on top secrets ( so top secret the government has only provided them with a dilapidated warehouse in which to perform their extensive experimentation's ) project with the goal to make invisibility a possibility ( for what purpose is never hinted at ) .    sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1744.txt
+tis' a pity ? ? ?    sentiment=negative  polarity=-0.03
+tis' pities ? ? ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1781.txt
+along with mickey and pedro , jim becomes a victim of the street , living from fix to fix and sinking lower and lower .    sentiment=negative  polarity=-0.08
+along with mickey and pedro , jim becomes victims of the street , living from fix to fix and sinking lower and lower .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1802.txt
+in anaconda , we also see a regurgitated victim , partially digested and still alive .    sentiment=negative  polarity=-0.03
+in anaconda , we also see regurgitated victims , partially digested and still alive .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1807.txt
+meanwhile , the unperturbed camille continues her none-too-subtle manipulations trying to further cover up for the murder while at the same time making her easter play a success .    sentiment=positive  polarity=0.1
+meanwhile , the unperturbed camille continues her none-too-subtle manipulations trying to further cover up for the murder while at the same time making her easter play successes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1811.txt
+the ape's city resembles a dank complex of tree houses .    sentiment=negative  polarity=-0.3
+the ape're city resembles dank complexes of tree houses .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1834.txt
+the hour and a half running time goes by slower than a 5 minute hair-removal system informercial .    sentiment=negative  polarity=-0.17
+the hour and halves running time goes by slower than a 5 minute hair-removal system informercial .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1870.txt
+if only jean-claude weren't getting so old and slow compared to younger martial arts film actors like jet li , rodgers could probably have made a decent action film .    sentiment=positive  polarity=0.01
+if only jean-claude weren't getting so old and slow compared to younger martial arts film actors like jet li , rodgers could probably have made decent actions film .    sentiment=negative  polarity=-0.01
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1875.txt
+his character seems to have been thrown in so that we know that you don't have to be a lesbian to want to be in the military .    sentiment=negative  polarity=-0.1
+his character seems to have been thrown in so that we know that you don't have to be lesbian to want to be in the militaries .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1898.txt
+critique : a complete and utter mess .    sentiment=negative  polarity=-0.02
+critique : complete and utter messes .    sentiment=positive  polarity=0.05
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1899.txt
+always surrounded by an entourage , suffering from a racial inferiority complex , murphy plays right into the tabloid image of himself .    sentiment=negative  polarity=-0.01
+always surrounded by an entourage , suffering from racial inferiority complexes , murphy plays right into the tabloid image of himself .    sentiment=positive  polarity=0.29
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1913.txt
+chivalry has no place in " lancelot of the lake , " except as that of a dying ideal .    sentiment=positive  polarity=0.9
+chivalry has no place in " lancelot of the lake , " except as that of dying ideals .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1914.txt
+stargate was a financial success .    sentiment=positive  polarity=0.15
+stargate were financial successes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1916.txt
+the result is a mess .    sentiment=negative  polarity=-0.17
+the result are messes .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1926.txt
+eric stoltz is stung by a giant wasp right in the beginning and is mercifully unconcious for the rest of the adventure .    sentiment=positive  polarity=0.14
+eric stoltz are stung by giant wasp rights in the beginning and is mercifully unconcious for the rest of the adventure .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1926.txt
+whenever the leading lady shows up we're in for a laugh .    sentiment=positive  polarity=0.3
+whenever the leading lady shows up we're in for laughs .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1939.txt
+in " out of sight , " clooney stars as jack foley , a career criminal who specializes in unarmed robbery--he just waltzes into banks and politely makes a withdrawal , claiming that his " partner " ( just another customer it so happens ) will shoot the manager if the teller doesn't comply .    sentiment=negative  polarity=-0.4
+in " out of sight , " clooney stars as jack foley , career criminals who specializes in unarmed robbery--he just waltzes into banks and politely makes a withdrawal , claiming that his " partner " ( just another customer it so happens ) will shoot the manager if the teller doesn't comply .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1944.txt
+meet the deedles runs about an hour and a half .    sentiment=negative  polarity=-0.17
+meet the deedles runs about an hour and halves .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1947.txt
+his humor is of a kind that is not very prevalent in movies today , inundated as we are with films which revel in their aim toward the lowest common denominator .    sentiment=positive  polarity=0.07
+his humor are of kinds that is not very prevalent in movies today , inundated as we are with films which revel in their aim toward the lowest common denominator .    sentiment=negative  polarity=-0.2
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1948.txt
+avika goldsman's screenplay is such a cluttered mess that there is no suspense built from one scene to another .    sentiment=negative  polarity=-0.09
+avika goldsman's screenplay are such cluttered messes that there is no suspense built from one scene to another .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1958.txt
+this is an emotionless costume epic .    sentiment=positive  polarity=0.1
+this are emotionless costume epics .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1962.txt
+this $100 million mess by good director barry levison ( disclosure ) is dull , long winded , and a huge disappointment .    sentiment=neutral  polarity=-0.0
+this $100 million mess by good director barry levison ( disclosure ) is dull , long winded , and huge disappointments .    sentiment=positive  polarity=0.12
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1963.txt
+bowden , who has taken on very hateful qualities ( he kills birds and doodles swastikas on his notebook ) , engages the veteran in an endless game of one-upmanship .    sentiment=negative  polarity=-0.08
+bowden , who has taken on very hateful qualities ( he kills birds and doodles swastikas on his notebook ) , engages the veteran in endless games of one-upmanship .    sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1975.txt
+it's obvious he a loser .    sentiment=neutral  polarity=0.0
+it're obvious he losers .    sentiment=negative  polarity=-0.1
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1985.txt
+many people dislike the species series because all it is is an excuse for sex , nudity , and gory violence .    sentiment=negative  polarity=-0.02
+many people dislike the species series because all it is are excuses for sex , nudity , and gory violence .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1986.txt
+the funniest moment of the movie occurs when a neanderthal in love with ayla attempts to rescue her from a ferocious bear .    sentiment=positive  polarity=0.5
+the funniest moment of the movie occurs when neanderthal in loves with ayla attempts to rescue her from a ferocious bear .    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1990.txt
+then , when anne heche kisses harrison ford ( they have to kiss , because otherwise nobody will want to see the movie ) , it will be a vindicated action , because her fianc ? e will already have cheated on her ! ?    sentiment=positive  polarity=0.03
+then , when anne heche kisses harrison ford ( they have to kiss , because otherwise nobody will want to see the movie ) , it will be vindicated actions , because her fianc ? e will already have cheated on her ! ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr1_3/herokuapp/os1999.txt
+but then why would an airplane be carrying a studio light ?    sentiment=positive  polarity=0.4
+but then why would an airplane be carrying studio lights ?    sentiment=neutral  polarity=0.0
+
+------------------------*******************-----------------
