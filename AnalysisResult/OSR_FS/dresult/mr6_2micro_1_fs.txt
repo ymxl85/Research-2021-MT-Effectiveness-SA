@@ -1,2 +1,0 @@
-E:/MT_SA_FS/data/TestingResults/input/mr6_2/azure/s395.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv197_29271.txt
-E:/MT_SA_FS/data/TestingResults/input/mr6_2/azure/s1776.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv887_5306.txt

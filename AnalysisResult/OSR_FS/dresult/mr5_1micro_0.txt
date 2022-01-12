@@ -1,4 +1,0 @@
-E:/MT_SA_FS/data/TestingResults/output/mr5_1/azure/os688.txt
-document_sentiment=negative  Positive=0.18 Neutral=0.1 Negative=0.72
-document_sentiment=mixed  Positive=0.25 Neutral=0.09 Negative=0.66
-------------------------*******************-----------------

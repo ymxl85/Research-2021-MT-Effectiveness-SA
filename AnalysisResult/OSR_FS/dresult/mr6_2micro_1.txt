@@ -1,8 +1,0 @@
-E:/MT_SA_FS/data/TestingResults/output/mr6_2/azure/of395_10.txt
-sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
-positive_score= ['0.96', '0.96', '0.96', '0.96', '0.96', '0.96', '0.96', '0.96', '0.96', '0.97', '0.97']
------------------------****------------------------
-E:/MT_SA_FS/data/TestingResults/output/mr6_2/azure/of1776_10.txt
-sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
-positive_score= ['0.86', '0.97', '0.97', '0.97', '0.97', '0.97', '0.97', '0.97', '0.97', '0.98', '0.98']
------------------------****------------------------
