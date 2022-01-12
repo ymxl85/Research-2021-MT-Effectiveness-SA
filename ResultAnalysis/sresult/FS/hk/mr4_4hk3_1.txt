@@ -1,0 +1,17 @@
+E:/MT_SA_FS/data/TestingResults/output/mr4_4/herokuapp/os1.txt
+opinion : making a fictional movie is easier than making one about real life .   sentiment=positive  polarity=0.1
+opinion : making one about real life is harder than making a fictional movie .   sentiment=positive  polarity=0.03
+
+------------------------*******************-----------------
+#B-yes
+E:/MT_SA_FS/data/TestingResults/output/mr4_4/herokuapp/os1.txt
+even watching the adventures of kleenex man would be more interesting than spawn .   sentiment=positive  polarity=0.5
+even watching the adventures of spawn would be less interesting than kleenex man .   sentiment=positive  polarity=0.17
+
+------------------------*******************-----------------
+#B-yes
+E:/MT_SA_FS/data/TestingResults/output/mr4_4/herokuapp/os1.txt
+of course in these situations , quantity is more important than quality and profit is more important than the artistical values .     sentiment=positive  polarity=0.45
+of course in these situations , quality is less important than quantity and the artistical values is less important than profit .    sentiment=positive  polarity=0.12
+
+------------------------*******************-----------------

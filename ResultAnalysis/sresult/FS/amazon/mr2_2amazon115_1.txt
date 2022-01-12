@@ -1,0 +1,461 @@
+[7622, 5284, 2486, 2324, 6973, 8417, 7770, 4319, 9979, 1973, 7653, 7609, 10107, 10250, 1101, 8927, 1308, 518, 5773, 10922, 8662, 7814, 8526, 7041, 4532, 5865, 3506, 3403, 4916, 1527, 7646, 9389, 8341, 720, 11314, 6657, 7107, 1261, 2156, 10571, 2116, 10669, 4702, 6299, 2240, 427, 1548, 4704, 6121, 8799, 7661, 5676, 2259, 8110, 517, 9872, 5301, 9269, 3946, 10573, 6726, 2506, 10949, 8192, 1146, 3159, 6647, 5751, 8509, 8454, 7918, 4594, 6395, 534, 2578, 4387, 5789, 8609, 4172, 149, 8163, 6156, 5389, 9562, 5592, 3236, 5749, 9874, 6257, 7235, 1269, 5175, 11373, 5666, 509, 403, 2909, 10018, 338, 1193, 6581, 5493, 10928, 1462, 2285, 6013, 7207, 10035, 5522, 9186, 10912, 5280, 9831, 2525, 4604]
+source= although i will preface this by saying that one thing that would definitely enhance your appreciation for this film is your own love ( or past love ) of heavy metal music and the whole scene around it .  sentiment=POSITIVE Positive=0.544522762298584 Negative=0.0018308054422959685 Neutral=0.05044024810194969 Mixed=0.4032062292098999 
+follow_up= although i will preface this by saying that one thing that would definitely enhance your appreciation for this film is not your own love ( or past love ) of heavy metal music and the whole scene around it .  sentiment=MIXED Positive=0.0030352568719536066 Negative=0.000327447458403185 Neutral=0.000742617470677942 Mixed=0.9958946704864502 
+
+
+source= or , maybe all career politicians are like that .  sentiment=NEUTRAL Positive=0.013944609090685844 Negative=0.09696292132139206 Neutral=0.8890239596366882 Mixed=6.846919131930918e-05 
+follow_up= or , maybe all career politicians are not like that .  sentiment=NEGATIVE Positive=0.0028345538303256035 Negative=0.5911347270011902 Neutral=0.40567919611930847 Mixed=0.0003515364369377494 
+
+
+source= the visual effects are astounding ( although director george lucas often chickens out by cutting away from them ) and the movie is a thrilling triumph .  sentiment=POSITIVE Positive=0.9996520280838013 Negative=3.499356535030529e-05 Neutral=0.0002979648706968874 Mixed=1.5028026609797962e-05 
+follow_up= the visual effects are astounding ( although director george lucas often chickens out by cutting away from them ) and the movie is not a thrilling triumph .  sentiment=MIXED Positive=0.39863988757133484 Negative=0.010302944108843803 Neutral=0.0028421252500265837 Mixed=0.5882150530815125 
+
+
+source= they have references to the show so subtle that non fans would not notice them , only whovians would , and they're good .  sentiment=POSITIVE Positive=0.9294543266296387 Negative=0.02889261581003666 Neutral=0.04163065552711487 Mixed=2.230279460491147e-05 
+follow_up= they don't have references to the show so subtle that non fans would not notice them , only whovians would , and they're good .  sentiment=NEGATIVE Positive=0.3436371982097626 Negative=0.6242461800575256 Neutral=0.031852927058935165 Mixed=0.00026376379537396133 
+
+
+source= some might argue that the tone is the same , but i strongly disagree .  sentiment=NEGATIVE Positive=0.029614442959427834 Negative=0.5248644948005676 Neutral=0.10608317703008652 Mixed=0.33943790197372437 
+follow_up= some might argue that the tone is not the same , but i strongly disagree .  sentiment=MIXED Positive=0.029540302231907845 Negative=0.37596839666366577 Neutral=0.08103525638580322 Mixed=0.5134560465812683 
+
+
+source= we see most of the events through the stories of four teenagers and how life affects them .  sentiment=NEUTRAL Positive=0.18554897606372833 Negative=0.008600995875895023 Neutral=0.8058279752731323 Mixed=2.2104481104179285e-05 
+follow_up= we don't see most of the events through the stories of four teenagers and how life affects them .  sentiment=NEGATIVE Positive=0.084874726831913 Negative=0.49748870730400085 Neutral=0.41760268807411194 Mixed=3.379564077476971e-05 
+
+
+source= the performances of all the principals are right on the mark , particularly john goodman as the schlock master .  sentiment=POSITIVE Positive=0.9751903414726257 Negative=0.0014602242736145854 Neutral=0.02334854193031788 Mixed=8.854642601363594e-07 
+follow_up= the performances of all the principals are not right on the mark , particularly john goodman as the schlock master .  sentiment=NEGATIVE Positive=0.0011538435937836766 Negative=0.9882746934890747 Neutral=0.010558045469224453 Mixed=1.337188314209925e-05 
+
+
+source= it is films like this that we know the ending as we buy the ticket .  sentiment=NEUTRAL Positive=0.28662529587745667 Negative=0.23784728348255157 Neutral=0.4747077524662018 Mixed=0.0008196884300559759 
+follow_up= it is not films like this that we know the ending as we buy the ticket .  sentiment=NEGATIVE Positive=0.011208780109882355 Negative=0.9022223353385925 Neutral=0.08655452728271484 Mixed=1.4407868548005354e-05 
+
+
+source= i didn't time it ( the movie's not that bad ) , but it's crystal who really has the most screen time and is the unequivocal focus of the film .  sentiment=NEGATIVE Positive=0.3143610656261444 Negative=0.6117678284645081 Neutral=0.05266589671373367 Mixed=0.021205198019742966 
+follow_up= i didn't time it ( the movie's not that bad ) , but it's crystal who really has the most screen time and is not the unequivocal focus of the film .  sentiment=MIXED Positive=0.19446179270744324 Negative=0.2818652391433716 Neutral=0.04624832794070244 Mixed=0.47742459177970886 
+
+
+source= love and death on long island is many things wrapped into one : a social commentary ( it tackles the thorny issue of film as pure art versus film as mindless entertainment ) , a buddy picture/love story ( ronnie and giles have one of the most interesting relationships found anywhere on a movie screen these days ) , and a " fish out of water " tale ( victorian relic giles forced into the modern world ) .  sentiment=POSITIVE Positive=0.500030517578125 Negative=0.01137571968138218 Neutral=0.48857301473617554 Mixed=2.0752455384354107e-05 
+follow_up= love and death on long island is not many things wrapped into one : a social commentary ( it tackles the thorny issue of film as pure art versus film as mindless entertainment ) , a buddy picture/love story ( ronnie and giles have one of the most interesting relationships found anywhere on a movie screen these days ) , and a " fish out of water " tale ( victorian relic giles forced into the modern world ) .  sentiment=NEUTRAL Positive=0.34506380558013916 Negative=0.08162322640419006 Neutral=0.5731148719787598 Mixed=0.0001981308014364913 
+
+
+source= people with bad 70's hair run around in leisure suits engaging in music video sequences that look like a sick and twisted world of make-believe from an overly demented mr . rogers .  sentiment=NEUTRAL Positive=0.17661245167255402 Negative=0.2650841772556305 Neutral=0.331588476896286 Mixed=0.22671490907669067 
+follow_up= people with bad 70's hair don't run around in leisure suits engaging in music video sequences that look like a sick and twisted world of make-believe from an overly demented mr . rogers .  sentiment=NEGATIVE Positive=0.1110677421092987 Negative=0.5131971836090088 Neutral=0.30431824922561646 Mixed=0.07141678035259247 
+
+
+source= just watching richard use his keen intelligence and wits , disguising himself , and doing his own detective work is very interesting .  sentiment=POSITIVE Positive=0.9690741300582886 Negative=0.0023561844136565924 Neutral=0.028243927285075188 Mixed=0.00032573583303019404 
+follow_up= just watching richard use his keen intelligence and wits , disguising himself , and doing his own detective work is not very interesting .  sentiment=NEGATIVE Positive=0.004310629330575466 Negative=0.9750128388404846 Neutral=0.01997816003859043 Mixed=0.000698284013196826 
+
+
+source= argo city is kept running by a power source called the omegahedron .  sentiment=NEUTRAL Positive=0.011372417211532593 Negative=0.012107260525226593 Neutral=0.9765174388885498 Mixed=2.865448095690226e-06 
+follow_up= argo city is not kept running by a power source called the omegahedron .  sentiment=NEGATIVE Positive=0.0011693977285176516 Negative=0.566299557685852 Neutral=0.432521790266037 Mixed=9.28407007450005e-06 
+
+
+source= the commentary track featuring director szwarc and project consultant bosco is a step in the right direction in the evolution of audio commentaries .  sentiment=POSITIVE Positive=0.6489565372467041 Negative=0.0009297791984863579 Neutral=0.34991157054901123 Mixed=0.000202051320229657 
+follow_up= the commentary track featuring director szwarc and project consultant bosco is not a step in the right direction in the evolution of audio commentaries .  sentiment=NEGATIVE Positive=0.0023835189640522003 Negative=0.8632407188415527 Neutral=0.10721469670534134 Mixed=0.02716107852756977 
+
+
+source= the sequel to the fugitive ( 1993 ) , u . s marshals is an average thriller using it's association with the fugitive just so it can make a few extra bucks .  sentiment=POSITIVE Positive=0.5497024059295654 Negative=0.057381752878427505 Neutral=0.3733749985694885 Mixed=0.019540825858712196 
+follow_up= the sequel to the fugitive ( 1993 ) , u . s marshals is not an average thriller using it's association with the fugitive just so it can make a few extra bucks .  sentiment=NEUTRAL Positive=0.3367908298969269 Negative=0.16609394550323486 Neutral=0.4578385651111603 Mixed=0.039276618510484695 
+
+
+source= many of you may have hated him as batman , but this guy is for real .  sentiment=POSITIVE Positive=0.5223503708839417 Negative=0.07658422738313675 Neutral=0.3313610255718231 Mixed=0.06970440596342087 
+follow_up= many of you may have hated him as batman , but this guy is not for real .  sentiment=NEGATIVE Positive=0.05457532778382301 Negative=0.6123542785644531 Neutral=0.3304794430732727 Mixed=0.002591050462797284 
+
+
+source= sadly , this is probably the high point in the movie .  sentiment=MIXED Positive=0.02917412295937538 Negative=0.03962201252579689 Neutral=0.003082787850871682 Mixed=0.9281210899353027 
+follow_up= sadly , this is not probably the high point in the movie .  sentiment=NEGATIVE Positive=0.0006096056313253939 Negative=0.9959449172019958 Neutral=0.0034381092991679907 Mixed=7.3003393481485546e-06 
+
+
+source= the premise of wag the dog is so simple that it's adequately explained by the commercials .  sentiment=POSITIVE Positive=0.5796574354171753 Negative=0.14213700592517853 Neutral=0.2706863582134247 Mixed=0.007519240491092205 
+follow_up= the premise of wag the dog is not so simple that it's adequately explained by the commercials .  sentiment=NEGATIVE Positive=0.012544453144073486 Negative=0.8797935247421265 Neutral=0.08396389335393906 Mixed=0.023698104545474052 
+
+
+source= one vaguely redeeming quality is that the end credits succeed where the rest of the film failed : it made lost in space look cool .  sentiment=MIXED Positive=0.021403171122074127 Negative=0.16641217470169067 Neutral=0.0048852539621293545 Mixed=0.8072994351387024 
+follow_up= one vaguely redeeming quality is not that the end credits succeed where the rest of the film failed : it made lost in space look cool .  sentiment=NEGATIVE Positive=0.01482013426721096 Negative=0.4937078058719635 Neutral=0.005719619337469339 Mixed=0.48575249314308167 
+
+
+source= the director appears to be deep in thought , until he slams his fist down on the desktop and exclaims `i love it ! ! ! '  sentiment=POSITIVE Positive=0.9642001986503601 Negative=0.002262091962620616 Neutral=0.032007887959480286 Mixed=0.001529865199699998 
+follow_up= the director appears to be deep in thought , until he slams his fist down on the desktop and exclaims `i don't love it ! ! ! '  sentiment=NEGATIVE Positive=0.029610175639390945 Negative=0.8348531723022461 Neutral=0.1309545487165451 Mixed=0.004582079593092203 
+
+
+source= some movies obviously exist only to put wares on the screen and to do that , less talented people are used .  sentiment=NEGATIVE Positive=0.006078826729208231 Negative=0.5490885376930237 Neutral=0.44479936361312866 Mixed=3.323618875583634e-05 
+follow_up= some movies obviously exist only to put wares on the screen and to do that , less talented people are not used .  sentiment=NEUTRAL Positive=0.0061560580506920815 Negative=0.4675750136375427 Neutral=0.5262242555618286 Mixed=4.4704087486024946e-05 
+
+
+source= most of what this film has to offer is in the visuals .  sentiment=POSITIVE Positive=0.6397197246551514 Negative=0.056214381009340286 Neutral=0.3031909763813019 Mixed=0.0008749741245992482 
+follow_up= most of what this film has to offer is not in the visuals .  sentiment=NEGATIVE Positive=0.007814332842826843 Negative=0.9760239720344543 Neutral=0.015825601294636726 Mixed=0.0003360096598044038 
+
+
+source= as in all psychological thrillers , the battle lines are clearly drawn .  sentiment=POSITIVE Positive=0.6046147346496582 Negative=0.13876493275165558 Neutral=0.2560470402240753 Mixed=0.0005732535501010716 
+follow_up= as in all psychological thrillers , the battle lines are not clearly drawn .  sentiment=NEGATIVE Positive=0.03972799330949783 Negative=0.8590454459190369 Neutral=0.09895405173301697 Mixed=0.0022725737653672695 
+
+
+source= what's most amazing is that all this success is in spite of a severe lack of originality .  sentiment=POSITIVE Positive=0.9368571639060974 Negative=0.0035975498612970114 Neutral=0.018481548875570297 Mixed=0.041063759475946426 
+follow_up= what's most amazing is not that all this success is in spite of a severe lack of originality .  sentiment=MIXED Positive=0.013776713982224464 Negative=0.003938394133001566 Neutral=0.002543850103393197 Mixed=0.9797409772872925 
+
+
+source= there's a vague attempt to humanize li by having him fall in love with a downtrodden prostitute , whose daughter is being held hostage , for some reason , by the villain .  sentiment=NEGATIVE Positive=0.00225019920617342 Negative=0.5068103075027466 Neutral=0.4908681809902191 Mixed=7.129462755983695e-05 
+follow_up= there's a vague attempt to humanize li by having him fall in love with a downtrodden prostitute , whose daughter is not being held hostage , for some reason , by the villain .  sentiment=NEUTRAL Positive=0.0024717554915696383 Negative=0.43482160568237305 Neutral=0.5626325607299805 Mixed=7.406032818835229e-05 
+
+
+source= the film is directed by jerry zucker , who knows something about comedy .  sentiment=NEUTRAL Positive=0.29302075505256653 Negative=0.004879507701843977 Neutral=0.7020055055618286 Mixed=9.412469080416486e-05 
+follow_up= the film is not directed by jerry zucker , who knows something about comedy .  sentiment=NEGATIVE Positive=0.06307796388864517 Negative=0.5118969678878784 Neutral=0.4249747693538666 Mixed=5.029389649280347e-05 
+
+
+source= once the plot gets moving , u-571 gives us action sequence after action sequence , making the audience wonder " ok , now how do they get out of this ? " .  sentiment=NEUTRAL Positive=0.23750512301921844 Negative=0.35134685039520264 Neutral=0.4082223176956177 Mixed=0.002925683045759797 
+follow_up= once the plot gets moving , u-571 gives us action sequence after action sequence , making the audience wonder " ok , now how don't do they get out of this ? " .  sentiment=NEGATIVE Positive=0.19535689055919647 Negative=0.4697680175304413 Neutral=0.33317962288856506 Mixed=0.00169551360886544 
+
+
+source= taylor's teenage-david is the more sympathy producing role .  sentiment=POSITIVE Positive=0.4857191741466522 Negative=0.11687806993722916 Neutral=0.26283711194992065 Mixed=0.13456563651561737 
+follow_up= taylor's teenage-david is not the more sympathy producing role .  sentiment=NEGATIVE Positive=0.047939132899045944 Negative=0.6321819424629211 Neutral=0.31323766708374023 Mixed=0.006641277577728033 
+
+
+source= if only willis' work were as impressive .  sentiment=POSITIVE Positive=0.9346869587898254 Negative=0.04159528762102127 Neutral=0.022305140271782875 Mixed=0.0014126526657491922 
+follow_up= if only willis' work were not as impressive .  sentiment=NEGATIVE Positive=0.006100193131715059 Negative=0.9838141202926636 Neutral=0.007651615887880325 Mixed=0.00243411329574883 
+
+
+source= they meet when hudson goes on a mission to steal a priceless book from the vatican , and their relationship escalates in interest from there .  sentiment=NEUTRAL Positive=0.14724358916282654 Negative=0.015297831036150455 Neutral=0.8373899459838867 Mixed=6.868482159916312e-05 
+follow_up= they don't meet when hudson goes on a mission to steal a priceless book from the vatican , and their relationship escalates in interest from there .  sentiment=NEGATIVE Positive=0.013631136156618595 Negative=0.6883959770202637 Neutral=0.2975247800350189 Mixed=0.00044815457658842206 
+
+
+source= pacing of the film is simply too slow to thrill the viewers , and those patient enough to sit through its entirety have to wait a long time between any interesting or significant developments .  sentiment=NEGATIVE Positive=0.0006648839334957302 Negative=0.9987475872039795 Neutral=0.0005639558658003807 Mixed=2.360491271247156e-05 
+follow_up= pacing of the film is not simply too slow to thrill the viewers , and those patient enough to sit through its entirety have to wait a long time between any interesting or significant developments .  sentiment=POSITIVE Positive=0.5007995367050171 Negative=0.4649825096130371 Neutral=0.03405287116765976 Mixed=0.0001649845507927239 
+
+
+source= this is , for the holiday crowd , the hot ticket ; as well as anyone looking for a serving of genuine action in a market that is otherwise lacking .  sentiment=NEUTRAL Positive=0.3523845672607422 Negative=0.1822834461927414 Neutral=0.4653022587299347 Mixed=2.9744145649601705e-05 
+follow_up= this is not , for the holiday crowd , the hot ticket ; as well as anyone looking for a serving of genuine action in a market that is otherwise lacking .  sentiment=NEGATIVE Positive=0.03887224942445755 Negative=0.782882809638977 Neutral=0.1782185435295105 Mixed=2.6373641958343796e-05 
+
+
+source= chutes and ladders : the motion picture ? ) is filled with slapstick antics and silly dialogue .  sentiment=POSITIVE Positive=0.5067269802093506 Negative=0.22000031173229218 Neutral=0.2723565995693207 Mixed=0.0009160198969766498 
+follow_up= chutes and ladders : the motion picture ? ) is not filled with slapstick antics and silly dialogue .  sentiment=NEGATIVE Positive=0.10422933846712112 Negative=0.8472175598144531 Neutral=0.04850618541240692 Mixed=4.6981665946077555e-05 
+
+
+source= even his presence could have been made bearable by one of the most impressive car stunts in cinematic history , a 360 degree twisting loop jump over a broken bridge -- could have been , except somebody got the idea to dub a mocking whistle tone over the final print .  sentiment=POSITIVE Positive=0.4529460668563843 Negative=0.23601774871349335 Neutral=0.2900300621986389 Mixed=0.021006107330322266 
+follow_up= even his presence could have not been made bearable by one of the most impressive car stunts in cinematic history , a 360 degree twisting loop jump over a broken bridge -- could have been , except somebody got the idea to dub a mocking whistle tone over the final print .  sentiment=NEGATIVE Positive=0.29985252022743225 Negative=0.3776454031467438 Neutral=0.31375652551651 Mixed=0.008745529688894749 
+
+
+source= rebecca gayheart , following roles in " scream 2 " and " urban legend " , should have known better than to take yet another role in yet another teen body count movie .  sentiment=MIXED Positive=0.16634248197078705 Negative=0.10765666514635086 Neutral=0.32350704073905945 Mixed=0.40249377489089966 
+follow_up= rebecca gayheart , following roles in " scream 2 " and " urban legend " , should have not known better than to take yet another role in yet another teen body count movie .  sentiment=NEUTRAL Positive=0.20067423582077026 Negative=0.289099782705307 Neutral=0.35602867603302 Mixed=0.15419724583625793 
+
+
+source= one of the more amusing was , " captain of the enterprise . . . . . . james  sentiment=POSITIVE Positive=0.8561424612998962 Negative=0.005867070518434048 Neutral=0.13767680525779724 Mixed=0.00031371714430861175 
+follow_up= one of the more amusing was not , " captain of the enterprise . . . . . . james  sentiment=NEGATIVE Positive=0.3454841375350952 Negative=0.3635375499725342 Neutral=0.2904343008995056 Mixed=0.0005440129316411912 
+
+
+source= the film attempts to teach us that collecting material possessions is merely a futile attempt to fill the spiritual holes in our hearts , but that's common knowledge already .  sentiment=NEGATIVE Positive=0.009625246748328209 Negative=0.5834223031997681 Neutral=0.40615934133529663 Mixed=0.0007931708241812885 
+follow_up= the film attempts to teach us that collecting material possessions is not merely a futile attempt to fill the spiritual holes in our hearts , but that's common knowledge already .  sentiment=NEUTRAL Positive=0.032185692340135574 Negative=0.2761736214160919 Neutral=0.6915634274482727 Mixed=7.727435149718076e-05 
+
+
+source= kosteas is a little known actor ( his biggest role was casey jones in " teenage mutant ninja turtles " ) , but here he shows a deniro-like presence , hinting that he's capable of bigger roles .  sentiment=NEUTRAL Positive=0.37401485443115234 Negative=0.21120044589042664 Neutral=0.39796459674835205 Mixed=0.016820166260004044 
+follow_up= kosteas is not a little known actor ( his biggest role was casey jones in " teenage mutant ninja turtles " ) , but here he shows a deniro-like presence , hinting that he's capable of bigger roles .  sentiment=NEGATIVE Positive=0.21099890768527985 Negative=0.5118041038513184 Neutral=0.27374035120010376 Mixed=0.003456678008660674 
+
+
+source= this film was obviously geared towards the teen market , with mtv behind its production , a big tv star actor in the lead role , rockin' hip music galore , and plenty of t&a .  sentiment=NEUTRAL Positive=0.38695576786994934 Negative=0.00640924833714962 Neutral=0.6023223400115967 Mixed=0.004312570672482252 
+follow_up= this film was not obviously geared towards the teen market , with mtv behind its production , a big tv star actor in the lead role , rockin' hip music galore , and plenty of t&a .  sentiment=NEGATIVE Positive=0.10196054726839066 Negative=0.5310096740722656 Neutral=0.2995576858520508 Mixed=0.06747210770845413 
+
+
+source= it was the defining moment in the history of modern cinema .  sentiment=POSITIVE Positive=0.8264439702033997 Negative=0.00042463053250685334 Neutral=0.1731269806623459 Mixed=4.41824022345827e-06 
+follow_up= it was not the defining moment in the history of modern cinema .  sentiment=NEGATIVE Positive=0.0012375900987535715 Negative=0.9555160403251648 Neutral=0.04324403777718544 Mixed=2.3905913622002117e-06 
+
+
+source= granted , mike judge , writer-director of the workplace satire office space isn't exactly an amateur ( his most infamous work , the mtv series " beavis and butt-head " was pure gold for its network ) .  sentiment=NEUTRAL Positive=0.34328436851501465 Negative=0.18264208734035492 Neutral=0.4723866879940033 Mixed=0.0016868743114173412 
+follow_up= granted , mike judge , writer-director of the workplace satire office space isn't exactly an amateur ( his most infamous work , the mtv series " beavis and butt-head " was not pure gold for its network ) .  sentiment=NEGATIVE Positive=0.013549374416470528 Negative=0.7354860305786133 Neutral=0.2503296434879303 Mixed=0.000634938885923475 
+
+
+source= while watching the film , we never second guess the character's decisions because they seem perfectly clear .  sentiment=POSITIVE Positive=0.5632959008216858 Negative=0.3000832796096802 Neutral=0.1363678127527237 Mixed=0.00025306118186563253 
+follow_up= while watching the film , we never second guess the character's decisions because they don't seem perfectly clear .  sentiment=NEGATIVE Positive=0.011232132092118263 Negative=0.940189003944397 Neutral=0.048562921583652496 Mixed=1.593665911059361e-05 
+
+
+source= fortunately , van dien is the worst of the cast , despite how hard he tries to come off as a real character .  sentiment=NEGATIVE Positive=0.003606555052101612 Negative=0.9591668844223022 Neutral=0.028941648080945015 Mixed=0.00828484632074833 
+follow_up= fortunately , van dien is not the worst of the cast , despite how hard he tries to come off as a real character .  sentiment=MIXED Positive=0.2778613865375519 Negative=0.03383887931704521 Neutral=0.11994218826293945 Mixed=0.568357527256012 
+
+
+source= films like 2001 : a space odyssey , the abyss , and close encounters of the third kind are all blatantly stolen from ( and poorly at that ) .  sentiment=NEGATIVE Positive=0.0011515554506331682 Negative=0.5300970673561096 Neutral=0.46874329447746277 Mixed=8.132890798151493e-06 
+follow_up= films like 2001 : a space odyssey , the abyss , and close encounters of the third kind are not all blatantly stolen from ( and poorly at that ) .  sentiment=NEUTRAL Positive=0.0017621041042730212 Negative=0.2914697229862213 Neutral=0.706761360168457 Mixed=6.8171461862220895e-06 
+
+
+source= him live . )  sentiment=NEUTRAL Positive=0.13344363868236542 Negative=0.09264328330755234 Neutral=0.7674848437309265 Mixed=0.006428191903978586 
+follow_up= him don't live . )  sentiment=MIXED Positive=0.026106370612978935 Negative=0.17554587125778198 Neutral=0.2767871916294098 Mixed=0.521560549736023 
+
+
+source= it is nice to see blythe danner again on the screen .  sentiment=POSITIVE Positive=0.9968000650405884 Negative=0.0011943555437028408 Neutral=0.002004036447033286 Mixed=1.5613233017575112e-06 
+follow_up= it is not nice to see blythe danner again on the screen .  sentiment=NEGATIVE Positive=0.0016418220475316048 Negative=0.9953336119651794 Neutral=0.0030114457476884127 Mixed=1.3160692105884664e-05 
+
+
+source= humor is subjective and some this film has been getting some favorable comment .  sentiment=POSITIVE Positive=0.945168137550354 Negative=0.0030716208275407553 Neutral=0.05168532207608223 Mixed=7.50103426980786e-05 
+follow_up= humor is not subjective and some this film has been getting some favorable comment .  sentiment=NEGATIVE Positive=0.016864392906427383 Negative=0.9581329226493835 Neutral=0.024608829990029335 Mixed=0.00039390622987411916 
+
+
+source= at first he is like a helpless , abandoned child , desperately reaching out for love .  sentiment=NEGATIVE Positive=0.02475684881210327 Negative=0.5362138152122498 Neutral=0.43394923210144043 Mixed=0.005080130882561207 
+follow_up= at first he is not like a helpless , abandoned child , desperately reaching out for love .  sentiment=NEUTRAL Positive=0.038112007081508636 Negative=0.3767845630645752 Neutral=0.5809794068336487 Mixed=0.004124084487557411 
+
+
+source= among the potential guests are likeable cad kevin ( rudd ) and his best friend lucy ( love ) , busy bickering over his recent break-up , and a clumsy but seemingly charming bartender ( ben affleck ) who opens his mouth only to spew forth bad pick-up lines .  sentiment=POSITIVE Positive=0.521287739276886 Negative=0.0034216383937746286 Neutral=0.47288575768470764 Mixed=0.0024049002677202225 
+follow_up= among the potential guests are not likeable cad kevin ( rudd ) and his best friend lucy ( love ) , busy bickering over his recent break-up , and a clumsy but seemingly charming bartender ( ben affleck ) who opens his mouth only to spew forth bad pick-up lines .  sentiment=NEUTRAL Positive=0.1757315993309021 Negative=0.043113548308610916 Neutral=0.7695981860160828 Mixed=0.011556601151823997 
+
+
+source= his last movie was showgirls .  sentiment=NEUTRAL Positive=0.011677440255880356 Negative=0.04453820362687111 Neutral=0.9437039494514465 Mixed=8.048942254390568e-05 
+follow_up= his last movie was not showgirls .  sentiment=NEGATIVE Positive=0.005130767356604338 Negative=0.6501017212867737 Neutral=0.3446038067340851 Mixed=0.00016374474216718227 
+
+
+source= it is involving , suspenseful . . .  sentiment=POSITIVE Positive=0.9475985765457153 Negative=0.008806465193629265 Neutral=0.04358799010515213 Mixed=6.979656973271631e-06 
+follow_up= it is not involving , suspenseful . . .  sentiment=NEGATIVE Positive=0.12771829962730408 Negative=0.8585368990898132 Neutral=0.013741213828325272 Mixed=3.580690645321738e-06 
+
+
+source= then there's the daughter subplot , in which maura tierney ( playing the daughter ) must look very upset a lot of the time ; after all , she is the daughter of a deranged man .  sentiment=NEGATIVE Positive=0.0010683088330551982 Negative=0.69380122423172 Neutral=0.3050593435764313 Mixed=7.100482616806403e-05 
+follow_up= then there's the daughter subplot , in which maura tierney ( playing the daughter ) must look very upset a lot of the time ; after all , she is not the daughter of a deranged man .  sentiment=NEUTRAL Positive=0.009208621457219124 Negative=0.30941832065582275 Neutral=0.6811447143554688 Mixed=0.00022825945052318275 
+
+
+source= did i mention that this film is rated r ? however , for those that do get a chance to watch it , you will probably more likely be pleased , and may even take friends to see it the next time .  sentiment=MIXED Positive=0.15837402641773224 Negative=0.0025477216113358736 Neutral=0.035650063306093216 Mixed=0.8034281730651855 
+follow_up= did i mention that this film is not rated r ? however , for those that do get a chance to watch it , you will probably more likely be pleased , and may even take friends to see it the next time .  sentiment=POSITIVE Positive=0.706165611743927 Negative=0.011378075927495956 Neutral=0.13053643703460693 Mixed=0.15191985666751862 
+
+
+source= giving extraordinarily bad shakespearean performances in exchange for food and lodging , costner is an outsider in a land of outsiders .  sentiment=MIXED Positive=0.04478679224848747 Negative=0.21867358684539795 Neutral=0.3080030083656311 Mixed=0.428536593914032 
+follow_up= giving extraordinarily bad shakespearean performances in exchange for food and lodging , costner is not an outsider in a land of outsiders .  sentiment=NEGATIVE Positive=0.07795270532369614 Negative=0.6411458253860474 Neutral=0.2694845199584961 Mixed=0.011417010799050331 
+
+
+source= if i'd laughed any more , i might have needed an iron lung .  sentiment=NEGATIVE Positive=0.2697269916534424 Negative=0.42690539360046387 Neutral=0.30318358540534973 Mixed=0.00018408072355668992 
+follow_up= if i'd laughed any more , i might have not needed an iron lung .  sentiment=POSITIVE Positive=0.8363884091377258 Negative=0.06282367557287216 Neutral=0.10076490789651871 Mixed=2.2953434381633997e-05 
+
+
+source= as you turn the crank , you're totally aware that the damn clown is going to pop up , but somehow it's still mildly startling when it happens .  sentiment=NEGATIVE Positive=0.024166176095604897 Negative=0.4773181080818176 Neutral=0.05913688242435455 Mixed=0.4393787980079651 
+follow_up= as you turn the crank , you're totally aware that the damn clown is not going to pop up , but somehow it's still mildly startling when it happens .  sentiment=MIXED Positive=0.012330793775618076 Negative=0.09268710017204285 Neutral=0.02335653081536293 Mixed=0.871625542640686 
+
+
+source= hanks and ryan collaborate once again with nora ephron , who directed them in the megahit sleepless in seattle .  sentiment=NEUTRAL Positive=0.20076285302639008 Negative=0.03228354454040527 Neutral=0.7669499516487122 Mixed=3.6851984077657107e-06 
+follow_up= hanks and ryan don't collaborate once again with nora ephron , who directed them in the megahit sleepless in seattle .  sentiment=NEGATIVE Positive=0.010411534458398819 Negative=0.833012580871582 Neutral=0.15657158195972443 Mixed=4.422440269991057e-06 
+
+
+source= of course , the plot is all balderdash , and just an excuse for some good old " alien " -brand fun .  sentiment=NEGATIVE Positive=0.034239042550325394 Negative=0.90526282787323 Neutral=0.05626945197582245 Mixed=0.004228690639138222 
+follow_up= of course , the plot is not all balderdash , and just an excuse for some good old " alien " -brand fun .  sentiment=NEUTRAL Positive=0.20639140903949738 Negative=0.33333608508110046 Neutral=0.4555893838405609 Mixed=0.0046831523068249226 
+
+
+source= when the movie is set in darkness , the picture quality is still rich and detailed .  sentiment=POSITIVE Positive=0.9896444082260132 Negative=0.001062764204107225 Neutral=0.007762579247355461 Mixed=0.0015303314430639148 
+follow_up= when the movie is not set in darkness , the picture quality is still rich and detailed .  sentiment=MIXED Positive=0.36172720789909363 Negative=0.0013599246740341187 Neutral=0.00404175091534853 Mixed=0.632871150970459 
+
+
+source= not only did he approach his disease with humor , peforming burlesque acts in front of an audience , he was also revitalized by his approachment .  sentiment=POSITIVE Positive=0.43099743127822876 Negative=0.15132102370262146 Neutral=0.4176469147205353 Mixed=3.465678673819639e-05 
+follow_up= not only did he approach his disease with humor , peforming burlesque acts in front of an audience , he was not also revitalized by his approachment .  sentiment=NEGATIVE Positive=0.04740450903773308 Negative=0.7310590744018555 Neutral=0.2214837372303009 Mixed=5.2702675020555034e-05 
+
+
+source= also , the film is seriously lacking a sense of humour .  sentiment=NEGATIVE Positive=4.112476381123997e-05 Negative=0.9998795986175537 Neutral=7.854567957110703e-05 Mixed=6.654270805483975e-07 
+follow_up= also , the film is not seriously lacking a sense of humour .  sentiment=POSITIVE Positive=0.5993884801864624 Negative=0.336189866065979 Neutral=0.06303771585226059 Mixed=0.001384016708470881 
+
+
+source= grateful to the revolution for the opportunity to receive a university education , he studies political science instead of literature , his avocation , because he perceives it is his duty .  sentiment=POSITIVE Positive=0.5492628216743469 Negative=0.0018194705480709672 Neutral=0.44891464710235596 Mixed=3.0674530080432305e-06 
+follow_up= grateful to the revolution for the opportunity to receive a university education , he studies political science instead of literature , his avocation , because he perceives it is not his duty .  sentiment=NEUTRAL Positive=0.23931078612804413 Negative=0.015537044033408165 Neutral=0.745141327381134 Mixed=1.0841973562492058e-05 
+
+
+source= by sheer luck , he is in the right place at the right time when disaster strikes the unaware inhabitants of this little film .  sentiment=POSITIVE Positive=0.87737637758255 Negative=0.05563356727361679 Neutral=0.06684177368879318 Mixed=0.00014827832637820393 
+follow_up= by sheer luck , he is not in the right place at the right time when disaster strikes the unaware inhabitants of this little film .  sentiment=NEGATIVE Positive=0.007914066314697266 Negative=0.9565853476524353 Neutral=0.03513389825820923 Mixed=0.0003666596894618124 
+
+
+source= still , even if he doesn't always know what to do with his characters , mr . anderson most definitely captures their essences , and his resolutely nonjudgemental affection for them is infectious -- misguided , even aimless , hopelessly naive , self-destructive , insufferable : i loved them just the same .  sentiment=MIXED Positive=0.05609768256545067 Negative=0.12694934010505676 Neutral=0.006477943155914545 Mixed=0.8104750514030457 
+follow_up= still , even if he doesn't always know what to do with his characters , mr . anderson most definitely captures their essences , and his resolutely nonjudgemental affection for them is not infectious -- misguided , even aimless , hopelessly naive , self-destructive , insufferable : i loved them just the same .  sentiment=POSITIVE Positive=0.5248177647590637 Negative=0.059278056025505066 Neutral=0.01859866827726364 Mixed=0.3973054587841034 
+
+
+source= the computer graphics in this movie are spectacular , they make you want to believe that aliens like the ones depicted exits .  sentiment=POSITIVE Positive=0.9964020252227783 Negative=0.00012736045755445957 Neutral=0.0034541310742497444 Mixed=1.6563171811867505e-05 
+follow_up= the computer graphics in this movie are not spectacular , they make you want to believe that aliens like the ones depicted exits .  sentiment=NEGATIVE Positive=0.03513016924262047 Negative=0.840047299861908 Neutral=0.012616208754479885 Mixed=0.11220625787973404 
+
+
+source= if you liked the first one , watch this .  sentiment=POSITIVE Positive=0.8822213411331177 Negative=0.02969612181186676 Neutral=0.08806023746728897 Mixed=2.2220016035134904e-05 
+follow_up= if you liked the first one , don't watch this .  sentiment=NEGATIVE Positive=0.008892915211617947 Negative=0.9850565791130066 Neutral=0.005692333914339542 Mixed=0.00035817280877381563 
+
+
+source= of special note are the cinematography by david watkin and the score by ennio morricone .  sentiment=NEUTRAL Positive=0.3933822810649872 Negative=0.0018204513471573591 Neutral=0.6047610640525818 Mixed=3.620496136136353e-05 
+follow_up= of special note are not the cinematography by david watkin and the score by ennio morricone .  sentiment=NEGATIVE Positive=0.018181804567575455 Negative=0.6588882803916931 Neutral=0.32190003991127014 Mixed=0.0010298119159415364 
+
+
+source= fortunately , there's no ridiculous singing characters here , just a great set of songs by phil collins that perfectly fit the mood .  sentiment=POSITIVE Positive=0.9854875802993774 Negative=0.0070234364829957485 Neutral=0.004576186183840036 Mixed=0.0029128496535122395 
+follow_up= fortunately , there's no ridiculous singing characters here , just a great set of songs by phil collins that perfectly don't fit the mood .  sentiment=MIXED Positive=0.30424705147743225 Negative=0.038012247532606125 Neutral=0.0046582273207604885 Mixed=0.6530824899673462 
+
+
+source= they land on a deserted planet .  sentiment=NEUTRAL Positive=0.010267474688589573 Negative=0.2603553831577301 Neutral=0.7285884022712708 Mixed=0.0007887620013207197 
+follow_up= they don't land on a deserted planet .  sentiment=NEGATIVE Positive=0.016333891078829765 Negative=0.5756778120994568 Neutral=0.4077862501144409 Mixed=0.00020201512961648405 
+
+
+source= a miracle of filmmaking , " some like it hot " is a brilliant film , and maybe the foremost example of slapstick comedy brought to screen with clever sight gags and plot twists .  sentiment=POSITIVE Positive=0.9739639163017273 Negative=0.0005640362505801022 Neutral=0.025407323613762856 Mixed=6.469572690548375e-05 
+follow_up= a miracle of filmmaking , " some like it hot " is not a brilliant film , and maybe the foremost example of slapstick comedy brought to screen with clever sight gags and plot twists .  sentiment=MIXED Positive=0.039712488651275635 Negative=0.0167505145072937 Neutral=0.019244903698563576 Mixed=0.9242920875549316 
+
+
+source= despite having a rather high profile supporting cast of young up-and-comers ( including reese witherspoon ) , most of the roles are a waste and are the equivalent of extended billed cameos .  sentiment=NEGATIVE Positive=0.02898421138525009 Negative=0.7432589530944824 Neutral=0.20657861232757568 Mixed=0.02117818221449852 
+follow_up= despite having a rather high profile supporting cast of young up-and-comers ( including reese witherspoon ) , most of the roles are not a waste and are the equivalent of extended billed cameos .  sentiment=NEUTRAL Positive=0.23148071765899658 Negative=0.20070673525333405 Neutral=0.5345649123191833 Mixed=0.03324759751558304 
+
+
+source= with that line coming from a fundamentalist christian minister , hollywood has taught us how we should fill in the rest of the story .  sentiment=POSITIVE Positive=0.7908309698104858 Negative=0.002660587662830949 Neutral=0.2064853012561798 Mixed=2.3177106413641013e-05 
+follow_up= with that line coming from a fundamentalist christian minister , hollywood has not taught us how we should fill in the rest of the story .  sentiment=NEGATIVE Positive=0.023206491023302078 Negative=0.7164099216461182 Neutral=0.26019811630249023 Mixed=0.0001854583970271051 
+
+
+source= the most noticeable element of this approach is naturalism .  sentiment=NEUTRAL Positive=0.2640097141265869 Negative=0.03316790238022804 Neutral=0.7025838494300842 Mixed=0.00023853346647229046 
+follow_up= the most noticeable element of this approach is not naturalism .  sentiment=NEGATIVE Positive=0.02201097458600998 Negative=0.7156184911727905 Neutral=0.23529347777366638 Mixed=0.027077047154307365 
+
+
+source= the spectacle was reminiscent of the scene in " patton " where the general spoke in front of a giant american flag .  sentiment=NEUTRAL Positive=0.018967045471072197 Negative=0.07637432962656021 Neutral=0.904634416103363 Mixed=2.4116437998600304e-05 
+follow_up= the spectacle was not reminiscent of the scene in " patton " where the general spoke in front of a giant american flag .  sentiment=NEGATIVE Positive=0.0042770542204380035 Negative=0.5634819269180298 Neutral=0.4322264492511749 Mixed=1.4659767657576595e-05 
+
+
+source= here is a story that could have made use of various camera angles and lighting to heighten its impact .  sentiment=NEUTRAL Positive=0.15721870958805084 Negative=0.13678647577762604 Neutral=0.7029368281364441 Mixed=0.003057892667129636 
+follow_up= here is not a story that could have made use of various camera angles and lighting to heighten its impact .  sentiment=NEGATIVE Positive=0.011315623298287392 Negative=0.8966475129127502 Neutral=0.09179341048002243 Mixed=0.00024339629453606904 
+
+
+source= playing the title role , martin is once again the good guy ; the one we cheer for to complete his low budget action movie .  sentiment=POSITIVE Positive=0.9530326724052429 Negative=0.0009319335804320872 Neutral=0.04589312896132469 Mixed=0.00014224187179934233 
+follow_up= playing the title role , martin is not once again the good guy ; the one we cheer for to complete his low budget action movie .  sentiment=NEGATIVE Positive=0.22342577576637268 Negative=0.46758517622947693 Neutral=0.30021077394485474 Mixed=0.008778336457908154 
+
+
+source= the crew is a prime example of how simple and dry-witted a comedy can get these days .  sentiment=POSITIVE Positive=0.8899098634719849 Negative=0.028320621699094772 Neutral=0.08176445215940475 Mixed=5.088153557153419e-06 
+follow_up= the crew is not a prime example of how simple and dry-witted a comedy can get these days .  sentiment=NEGATIVE Positive=0.25977930426597595 Negative=0.6402687430381775 Neutral=0.0998956710100174 Mixed=5.632741886074655e-05 
+
+
+source= gene hackman is very good .  sentiment=POSITIVE Positive=0.9924181699752808 Negative=0.0009772650664672256 Neutral=0.006599430460482836 Mixed=5.0531639317341615e-06 
+follow_up= gene hackman is not very good .  sentiment=NEGATIVE Positive=0.0002564133610576391 Negative=0.9949856996536255 Neutral=0.004751908592879772 Mixed=5.912466349400347e-06 
+
+
+source= the characters act , react , and interact at half-speed , making for one * excruciatingly * long sit .  sentiment=POSITIVE Positive=0.5260603427886963 Negative=0.13549716770648956 Neutral=0.33833515644073486 Mixed=0.00010733502131188288 
+follow_up= the characters don't act , react , and interact at half-speed , making for one * excruciatingly * long sit .  sentiment=NEGATIVE Positive=0.060954295098781586 Negative=0.8433804512023926 Neutral=0.09565115720033646 Mixed=1.4079427273827605e-05 
+
+
+source= you feel for him , for his character , because of all the cops in the movie he's the one that's actually trying to do the right thing by going by the book .  sentiment=POSITIVE Positive=0.8332586288452148 Negative=0.0047577968798577785 Neutral=0.16189512610435486 Mixed=8.839034126140177e-05 
+follow_up= you don't feel for him , for his character , because of all the cops in the movie he's the one that's actually trying to do the right thing by going by the book .  sentiment=NEGATIVE Positive=0.057584747672080994 Negative=0.7671239972114563 Neutral=0.1752554029226303 Mixed=3.5909004509449005e-05 
+
+
+source= and during each of these scenes , i was sidetracked by my earlier question .  sentiment=NEGATIVE Positive=0.061920613050460815 Negative=0.4919274151325226 Neutral=0.4373885691165924 Mixed=0.008763400837779045 
+follow_up= and during each of these scenes , i was not sidetracked by my earlier question .  sentiment=POSITIVE Positive=0.6793481111526489 Negative=0.117702916264534 Neutral=0.2025694102048874 Mixed=0.00037950623664073646 
+
+
+source= from there , we are guided once again by roscoe lee browne's soothingly deep narrative .  sentiment=POSITIVE Positive=0.9774396419525146 Negative=0.00010050065611721948 Neutral=0.02245856076478958 Mixed=1.1881406862812582e-06 
+follow_up= from there , we are not guided once again by roscoe lee browne's soothingly deep narrative .  sentiment=NEGATIVE Positive=0.36992132663726807 Negative=0.4880898594856262 Neutral=0.1414186954498291 Mixed=0.0005700981710106134 
+
+
+source= hopefully the borrowers will surpass the curse of being labeled a children-only movie , for it is surprisingly entertaining and fun to watch .  sentiment=POSITIVE Positive=0.966594398021698 Negative=0.01033708918839693 Neutral=0.019434325397014618 Mixed=0.0036340949591249228 
+follow_up= hopefully the borrowers will surpass the curse of being labeled a children-only movie , for it is not surprisingly entertaining and fun to watch .  sentiment=NEGATIVE Positive=0.006008776370435953 Negative=0.9852659106254578 Neutral=0.007563918828964233 Mixed=0.0011614279355853796 
+
+
+source= alot of people refer to this film as " that flick where nick cage plays that alcoholic dude " .  sentiment=NEUTRAL Positive=0.0701809898018837 Negative=0.3727661967277527 Neutral=0.5569087266921997 Mixed=0.00014403980458155274 
+follow_up= alot of people don't refer to this film as " that flick where nick cage plays that alcoholic dude " .  sentiment=NEGATIVE Positive=0.007246312219649553 Negative=0.8626580834388733 Neutral=0.12990912795066833 Mixed=0.00018653164443094283 
+
+
+source= graham is able to transmit a garbled distress call back to earth .  sentiment=POSITIVE Positive=0.6879099011421204 Negative=0.017345231026411057 Neutral=0.29469895362854004 Mixed=4.585925489664078e-05 
+follow_up= graham is not able to transmit a garbled distress call back to earth .  sentiment=NEGATIVE Positive=0.027211233973503113 Negative=0.8420957922935486 Neutral=0.13028711080551147 Mixed=0.00040588720003142953 
+
+
+source= worlds collide , i .  sentiment=NEUTRAL Positive=0.05749509483575821 Negative=0.08905672281980515 Neutral=0.8534330129623413 Mixed=1.512486232968513e-05 
+follow_up= worlds don't collide , i .  sentiment=NEGATIVE Positive=0.03731657937169075 Negative=0.610905647277832 Neutral=0.3491147756576538 Mixed=0.0026629988569766283 
+
+
+source= children fail , as do films .  sentiment=NEGATIVE Positive=0.0007541815284639597 Negative=0.9853259325027466 Neutral=0.013909103348851204 Mixed=1.0721677426772658e-05 
+follow_up= children don't fail , as do films .  sentiment=POSITIVE Positive=0.6870605945587158 Negative=0.03174283728003502 Neutral=0.2783018946647644 Mixed=0.002894712146371603 
+
+
+source= but in the world of porn , performers are a commodity - the fresher , the better .  sentiment=POSITIVE Positive=0.7331488728523254 Negative=0.013825088739395142 Neutral=0.2530215084552765 Mixed=4.5636015784111805e-06 
+follow_up= but in the world of porn , performers are not a commodity - the fresher , the better .  sentiment=NEGATIVE Positive=0.0458812452852726 Negative=0.6423813104629517 Neutral=0.31170332431793213 Mixed=3.421236760914326e-05 
+
+
+source=  " battlefield earth " is the best comedy of the year .  sentiment=POSITIVE Positive=0.9744330644607544 Negative=0.00034826050978153944 Neutral=0.025214524939656258 Mixed=4.094811629329342e-06 
+follow_up=  " battlefield earth " is not the best comedy of the year .  sentiment=NEGATIVE Positive=0.0037841242738068104 Negative=0.975583553314209 Neutral=0.019828783348202705 Mixed=0.0008034832426346838 
+
+
+source= once again , his summer release was special effects-loaded action/adventure flick with dinosaurs munching on human appetizers .  sentiment=POSITIVE Positive=0.6643626093864441 Negative=0.003634679364040494 Neutral=0.33199846744537354 Mixed=4.2769493120431434e-06 
+follow_up= once again , his summer release was not special effects-loaded action/adventure flick with dinosaurs munching on human appetizers .  sentiment=NEGATIVE Positive=0.007236235775053501 Negative=0.9524611234664917 Neutral=0.04028748348355293 Mixed=1.5067016647662967e-05 
+
+
+source= as much as anything , the film is a series of character sketches .  sentiment=NEUTRAL Positive=0.13882431387901306 Negative=0.0008980321581475437 Neutral=0.860237181186676 Mixed=4.0557213651482016e-05 
+follow_up= as much as anything , the film is not a series of character sketches .  sentiment=NEGATIVE Positive=0.002758367219939828 Negative=0.8760080933570862 Neutral=0.12122151255607605 Mixed=1.20279773909715e-05 
+
+
+source= this is a classic in the making , and ( to borrow a line from esquire's review ) it stars jim carrey .  sentiment=POSITIVE Positive=0.9619989991188049 Negative=0.001674987724982202 Neutral=0.03629808500409126 Mixed=2.7918284104089253e-05 
+follow_up= this is not a classic in the making , and ( to borrow a line from esquire's review ) it stars jim carrey .  sentiment=NEGATIVE Positive=0.03202405944466591 Negative=0.9302406907081604 Neutral=0.03706750273704529 Mixed=0.0006677177152596414 
+
+
+source= the film is , in essence , a courtroom drama , one whose events are oversimplified .  sentiment=NEUTRAL Positive=0.032741397619247437 Negative=0.06505773216485977 Neutral=0.9021787643432617 Mixed=2.2001944671501406e-05 
+follow_up= the film is not , in essence , a courtroom drama , one whose events are oversimplified .  sentiment=NEGATIVE Positive=0.00900198519229889 Negative=0.5818227529525757 Neutral=0.40916359424591064 Mixed=1.1679101589834318e-05 
+
+
+source= that fact alone is twice as interesting as anything in the movie .  sentiment=POSITIVE Positive=0.8245665431022644 Negative=0.11941021680831909 Neutral=0.05569116026163101 Mixed=0.00033217197051271796 
+follow_up= that fact alone is not twice as interesting as anything in the movie .  sentiment=NEGATIVE Positive=0.005703943315893412 Negative=0.990687906742096 Neutral=0.003600749420002103 Mixed=7.430356617987854e-06 
+
+
+source= when other hotel guests and staff come to check about the gunshot , he nervously explains that it was the tv .  sentiment=NEUTRAL Positive=0.11463253945112228 Negative=0.33492034673690796 Neutral=0.5504159927368164 Mixed=3.115891377092339e-05 
+follow_up= when other hotel guests and staff come to check about the gunshot , he nervously explains that it was not the tv .  sentiment=NEGATIVE Positive=0.007361736614257097 Negative=0.6422567367553711 Neutral=0.3503495156764984 Mixed=3.2006970286602154e-05 
+
+
+source= many have pointed out that making the third film , was unnecessary .  sentiment=NEGATIVE Positive=0.0004936464829370379 Negative=0.9816842675209045 Neutral=0.01779337227344513 Mixed=2.871855213015806e-05 
+follow_up= many have pointed out that making the third film , was not unnecessary .  sentiment=NEUTRAL Positive=0.25416266918182373 Negative=0.289394348859787 Neutral=0.42183035612106323 Mixed=0.03461262211203575 
+
+
+source= the film is basically non- stop action and when it pauses and tries to develop a story it becomes a laughing stock .  sentiment=POSITIVE Positive=0.4771280586719513 Negative=0.4451129138469696 Neutral=0.07733677327632904 Mixed=0.0004222893330734223 
+follow_up= the film is not basically non- stop action and when it pauses and tries to develop a story it becomes a laughing stock .  sentiment=NEGATIVE Positive=0.27356916666030884 Negative=0.6772777438163757 Neutral=0.04902666062116623 Mixed=0.00012636401515919715 
+
+
+source= one can always sense that underneath his glen is a pressure-cooker ticking away .  sentiment=POSITIVE Positive=0.47605055570602417 Negative=0.3165335953235626 Neutral=0.20156987011432648 Mixed=0.005845915991812944 
+follow_up= one can always sense that underneath his glen is not a pressure-cooker ticking away .  sentiment=NEGATIVE Positive=0.34006884694099426 Negative=0.47540032863616943 Neutral=0.1825026124715805 Mixed=0.0020281753968447447 
+
+
+source= enemy was one of the worst films of last year .  sentiment=NEGATIVE Positive=0.0005563187296502292 Negative=0.997359573841095 Neutral=0.0020820724312216043 Mixed=2.0670299818448257e-06 
+follow_up= enemy was not one of the worst films of last year .  sentiment=POSITIVE Positive=0.4738304913043976 Negative=0.33363059163093567 Neutral=0.18745693564414978 Mixed=0.005081999581307173 
+
+
+source= the narration is exquisite , as is the mystery of kurtz .  sentiment=POSITIVE Positive=0.9975169897079468 Negative=0.0002534906379878521 Neutral=0.0022278379183262587 Mixed=1.7026769683070597e-06 
+follow_up= the narration is not exquisite , as is the mystery of kurtz .  sentiment=NEGATIVE Positive=0.00037586691905744374 Negative=0.9979829788208008 Neutral=0.0016378299333155155 Mixed=3.2989150895446073e-06 
+
+
+source= his rise out of the water , with the smoke coming off of his slicked head , is a brilliant 30 seconds of film .  sentiment=POSITIVE Positive=0.9853740930557251 Negative=0.0009093750850297511 Neutral=0.013707936741411686 Mixed=8.515295121469535e-06 
+follow_up= his rise out of the water , with the smoke coming off of his slicked head , is not a brilliant 30 seconds of film .  sentiment=NEGATIVE Positive=0.0017447390127927065 Negative=0.9959795475006104 Neutral=0.002274048049002886 Mixed=1.6825459852043423e-06 
+
+
+source= this is the way stories should be told , and the strength of scenes resonates more completely when the emotions are real .  sentiment=POSITIVE Positive=0.9918156266212463 Negative=0.0006741927354596555 Neutral=0.007508481852710247 Mixed=1.7682455109024886e-06 
+follow_up= this is not the way stories should be told , and the strength of scenes resonates more completely when the emotions are real .  sentiment=NEGATIVE Positive=0.07360795885324478 Negative=0.9090547561645508 Neutral=0.017299918457865715 Mixed=3.73740513168741e-05 
+
+
+source= there are no dramatic sex scenes , but there is a moving scene when he and scott thomas are slow-dancing , always moving ever closer together , that is far more erotic than any scene of sweaty bodies grinding together .  sentiment=POSITIVE Positive=0.9710054993629456 Negative=0.0020473769400268793 Neutral=0.02628343738615513 Mixed=0.0006637591868638992 
+follow_up= there are no dramatic sex scenes , but there is not a moving scene when he and scott thomas are slow-dancing , always moving ever closer together , that is far more erotic than any scene of sweaty bodies grinding together .  sentiment=MIXED Positive=0.1432100385427475 Negative=0.3037312626838684 Neutral=0.03445160761475563 Mixed=0.5186070203781128 
+
+
+source= the movie is also lacking even a remote hint of reality .  sentiment=NEGATIVE Positive=7.355270645348355e-05 Negative=0.9995778203010559 Neutral=0.0003468669601716101 Mixed=1.7583618046046467e-06 
+follow_up= the movie is not also lacking even a remote hint of reality .  sentiment=POSITIVE Positive=0.5766124725341797 Negative=0.27281031012535095 Neutral=0.15038539469242096 Mixed=0.00019187138241250068 
+
+
+source= not only that , but all the actors here , especially williams , seem bored to tears .  sentiment=NEGATIVE Positive=0.029874928295612335 Negative=0.9513050317764282 Neutral=0.01881873607635498 Mixed=1.2726478644253802e-06 
+follow_up= not only that , but all the actors here , especially williams , don't seem bored to tears .  sentiment=POSITIVE Positive=0.9748501777648926 Negative=0.003946853801608086 Neutral=0.021200373768806458 Mixed=2.6036664166895207e-06 
+
+
+source= everything about possessed by the night is second rate , even the film credits .  sentiment=POSITIVE Positive=0.6282959580421448 Negative=0.05465986579656601 Neutral=0.3170308768749237 Mixed=1.3312082955962978e-05 
+follow_up= everything about possessed by the night is not second rate , even the film credits .  sentiment=NEGATIVE Positive=0.16899125277996063 Negative=0.4904058575630188 Neutral=0.340584397315979 Mixed=1.8474982425686903e-05 
+
+
+source= on an intellectual level , it is interesting to see how two different approaches handle the same facts .  sentiment=POSITIVE Positive=0.7956632971763611 Negative=0.0006976883742026985 Neutral=0.20361214876174927 Mixed=2.6854619136429392e-05 
+follow_up= on an intellectual level , it is not interesting to see how two different approaches handle the same facts .  sentiment=NEGATIVE Positive=0.0013751379447057843 Negative=0.9222107529640198 Neutral=0.07591250538825989 Mixed=0.0005014852504245937 
+
+
+source= something of a thematic follow-up to his " the last temptation of christ " , this is his slowest film yet .  sentiment=NEGATIVE Positive=0.07267605513334274 Negative=0.5576395988464355 Neutral=0.13432638347148895 Mixed=0.23535798490047455 
+follow_up= something of a thematic follow-up to his " the last temptation of christ " , this is not his slowest film yet .  sentiment=MIXED Positive=0.08012530952692032 Negative=0.0993049144744873 Neutral=0.13062912225723267 Mixed=0.6899405717849731 
+
+
+source= my choice would probably be " the iron giant " , but ( along side with " american pie " ) this is the comedy of the year .  sentiment=NEUTRAL Positive=0.45580562949180603 Negative=0.02209141105413437 Neutral=0.5220572352409363 Mixed=4.5688884711125866e-05 
+follow_up= my choice would probably be " the iron giant " , but ( along side with " american pie " ) this is not the comedy of the year .  sentiment=NEGATIVE Positive=0.004061536863446236 Negative=0.8907980918884277 Neutral=0.10507027804851532 Mixed=7.020765769993886e-05 
+
+
+source= to talk about jackie chan as a " stuntman " is to miss a million things .  sentiment=MIXED Positive=0.04843174293637276 Negative=0.09807634353637695 Neutral=0.2069605141878128 Mixed=0.6465314626693726 
+follow_up= to talk about jackie chan as a " stuntman " is not to miss a million things .  sentiment=NEUTRAL Positive=0.42865052819252014 Negative=0.03679484874010086 Neutral=0.5332019925117493 Mixed=0.0013526544207707047 
+
+
+source=  ) ; the original play is a powerful piece of work because the author remained neutral and didn't take sides .  sentiment=POSITIVE Positive=0.9977593421936035 Negative=0.0004429808468557894 Neutral=0.0017940596444532275 Mixed=3.669736997835571e-06 
+follow_up=  ) ; the original play is not a powerful piece of work because the author remained neutral and didn't take sides .  sentiment=NEGATIVE Positive=0.0013944937381893396 Negative=0.9969577789306641 Neutral=0.0016170465387403965 Mixed=3.058743823203258e-05 
+
+
+source= her marriage is cold and unfulfilling .  sentiment=NEGATIVE Positive=0.015439466573297977 Negative=0.5717015266418457 Neutral=0.41283899545669556 Mixed=1.9987299310741946e-05 
+follow_up= her marriage is not cold and unfulfilling .  sentiment=NEUTRAL Positive=0.07010466605424881 Negative=0.177192822098732 Neutral=0.7526363730430603 Mixed=6.615144957322627e-05 
+
+
+source= everything else in this movie has been taken from other ( better ) movies .  sentiment=NEGATIVE Positive=0.08570579439401627 Negative=0.901420533657074 Neutral=0.012851085513830185 Mixed=2.2613206965615973e-05 
+follow_up= everything else in this movie has not been taken from other ( better ) movies .  sentiment=POSITIVE Positive=0.6489744186401367 Negative=0.3309749662876129 Neutral=0.02002919465303421 Mixed=2.1512156308745034e-05 
+
+
+source= i was primed for this film as its interesting premise had me thinking misery ( 8/10 ) and 9 to 5 , but unfortunately for williamson , he went nowhere with the bright foundation , making references to the exorcist and dr .  sentiment=MIXED Positive=0.004652970936149359 Negative=0.0935036912560463 Neutral=0.006686585955321789 Mixed=0.895156741142273 
+follow_up= i was not primed for this film as its interesting premise had me thinking misery ( 8/10 ) and 9 to 5 , but unfortunately for williamson , he went nowhere with the bright foundation , making references to the exorcist and dr .  sentiment=NEGATIVE Positive=0.008127822540700436 Negative=0.6565864682197571 Neutral=0.024263039231300354 Mixed=0.31102263927459717 
+
+
+source= i have to think that fans of the book would be disappointed with this film version ; however , i'm only basing this observation on the fact that the book is almost invariably better than the movie .  sentiment=MIXED Positive=0.003978003282099962 Negative=0.3479079008102417 Neutral=0.001492979470640421 Mixed=0.6466211080551147 
+follow_up= i have to think that fans of the book would be disappointed with this film version ; however , i'm only basing this observation on the fact that the book is not almost invariably better than the movie .  sentiment=NEGATIVE Positive=0.0021954074036329985 Negative=0.9298245906829834 Neutral=0.0031837394926697016 Mixed=0.06479627639055252 
+
+

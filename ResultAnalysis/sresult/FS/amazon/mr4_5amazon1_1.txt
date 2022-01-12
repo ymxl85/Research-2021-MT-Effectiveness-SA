@@ -1,0 +1,6 @@
+
+E:/MT_SA_FS/data/TestingResults/output/mr4_5/amazon/os1.txt
+option will be more enjoyable than the film .  sentiment=NEGATIVE Positive=0.3770435154438019 Negative=0.5271486639976501 Neutral=0.07016471773386002 Mixed=0.02564314194023609 
+the film will be more enjoyable than option .  sentiment=POSITIVE Positive=0.5008006691932678 Negative=0.050118252635002136 Neutral=0.01706683076918125 Mixed=0.43201425671577454 
+
+------------------------*******************-----------------

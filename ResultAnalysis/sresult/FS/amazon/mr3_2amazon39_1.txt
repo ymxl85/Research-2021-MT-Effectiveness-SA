@@ -1,0 +1,157 @@
+[515, 1327, 1489, 1340, 3123, 3769, 679, 2791, 448, 568, 2240, 1733, 3178, 3747, 3716, 3394, 1914, 2788, 2606, 1813, 1869, 2388, 2406, 2075, 1112, 2866, 560, 2746, 2194, 663, 77, 2862, 2421, 3605, 328, 479, 807, 1488, 3651]
+source= not only did the film not do so hot at the box office , but it was also panned by critics .  sentiment=NEGATIVE Positive=0.05770310387015343 Negative=0.7151382565498352 Neutral=0.22713784873485565 Mixed=2.083462277369108e-05 
+follow_up= not only did the FILM not do so HOT at the BOX OFFICE , but it was also panned by CRITICS .  sentiment=NEGATIVE Positive=0.02425500936806202 Negative=0.8829105496406555 Neutral=0.09283033758401871 Mixed=4.162759069004096e-06 
+
+
+source= however , their approach to each other is perhaps not surprising considering their vocation .  sentiment=NEGATIVE Positive=0.008721363730728626 Negative=0.515053391456604 Neutral=0.4744188189506531 Mixed=0.0018063744064420462 
+follow_up= however , their APPROACH to each OTHER is perhaps not SURPRISING considering their VOCATION .  sentiment=NEGATIVE Positive=0.018312254920601845 Negative=0.8695067167282104 Neutral=0.1120246946811676 Mixed=0.00015632950817234814 
+
+
+source= the biggest surprise in get carter is that the best job done in the film is by the versatile mickey rourke .  sentiment=POSITIVE Positive=0.7151369452476501 Negative=0.022779151797294617 Neutral=0.26195254921913147 Mixed=0.00013133900938555598 
+follow_up= the BIGGEST SURPRISE in get CARTER is that the BEST JOB done in the FILM is by the VERSATILE MICKEY ROURKE .  sentiment=POSITIVE Positive=0.9405767321586609 Negative=0.006000780966132879 Neutral=0.05336648225784302 Mixed=5.608827996184118e-05 
+
+
+source= although it gets off to a rocky start ( " rocky " 's polite for what it really is ) , it soon picks up and becomes a wonderully poignant musical .  sentiment=POSITIVE Positive=0.5322073698043823 Negative=0.001121119479648769 Neutral=0.04108627885580063 Mixed=0.42558524012565613 
+follow_up= although it gets off to a ROCKY START ( " ROCKY " 's POLITE for what it really is ) , it soon picks up and becomes a wonderully POIGNANT MUSICAL .  sentiment=POSITIVE Positive=0.6851031184196472 Negative=0.010700372979044914 Neutral=0.06713318079710007 Mixed=0.23706327378749847 
+
+
+source= we're provided with the minimum amount possible of these elements to keep the film from being completely silent .  sentiment=POSITIVE Positive=0.42976096272468567 Negative=0.3589421212673187 Neutral=0.2110956609249115 Mixed=0.00020128153846599162 
+follow_up= we're provided with the MINIMUM AMOUNT POSSIBLE of these ELEMENTS to keep the FILM from being completely SILENT .  sentiment=POSITIVE Positive=0.9667492508888245 Negative=0.01616557128727436 Neutral=0.01703069545328617 Mixed=5.442555629997514e-05 
+
+
+source= on the more dreamy side , the film is filled with romantic scenes that are simply effervescent to behold , especially one in which edward enters into the hotel's lounge to see vivian turn around and not only reveal her marvelous cocktail dress , but also her inner ( and outer ) glowing beauty .  sentiment=POSITIVE Positive=0.8357539772987366 Negative=0.0003774397191591561 Neutral=0.16385923326015472 Mixed=9.369067811348941e-06 
+follow_up= on the MORE DREAMY SIDE , the FILM is filled with ROMANTIC SCENES that are simply EFFERVESCENT to behold , especially one in which EDWARD enters into the hotel's LOUNGE to see VIVIAN TURN around and not only reveal her MARVELOUS COCKTAIL DRESS , but also her INNER ( and OUTER ) GLOWING BEAUTY .  sentiment=POSITIVE Positive=0.9655209183692932 Negative=0.0022254562936723232 Neutral=0.0322486013174057 Mixed=5.045442321716109e-06 
+
+
+source= i'd recommend this be read only by those who have seen the film as a form of critical analysis . )  sentiment=POSITIVE Positive=0.511549174785614 Negative=0.13175633549690247 Neutral=0.3563218116760254 Mixed=0.0003727843868546188 
+follow_up= i'd recommend this be read only by those who have seen the FILM as a FORM of CRITICAL ANALYSIS . )  sentiment=POSITIVE Positive=0.9516689777374268 Negative=0.020605498924851418 Neutral=0.027546187862753868 Mixed=0.000179339200258255 
+
+
+source= in other , lesser , movies , sweetback would be machine-gunning everything in sight and the end credits would roll over a pile of bodies ; in this one , we get taken on a kind of a tour of the depressing and anarchic world that sweetback takes for granted .  sentiment=POSITIVE Positive=0.37066352367401123 Negative=0.27230963110923767 Neutral=0.35386842489242554 Mixed=0.0031584494281560183 
+follow_up= in OTHER , LESSER , MOVIES , SWEETBACK would be MACHINE-GUNNING EVERYTHING in SIGHT and the END CREDITS would roll over a PILE of BODIES ; in this one , we get taken on a KIND of a TOUR of the DEPRESSING and ANARCHIC WORLD that SWEETBACK takes for granted .  sentiment=POSITIVE Positive=0.6858865022659302 Negative=0.048247627913951874 Neutral=0.2632847726345062 Mixed=0.0025810946244746447 
+
+
+source= ultimately , as adapted by veloz , jerry stahl comes off as one of those playground braggarts who chainsmokes at the age of twelve ; you are less mystified by his self-destructive nature than bored into a stupor yourself .  sentiment=NEGATIVE Positive=0.18272383511066437 Negative=0.4239795207977295 Neutral=0.39322954416275024 Mixed=6.710764137096703e-05 
+follow_up= ultimately , as adapted by VELOZ , JERRY STAHL comes off as one of those PLAYGROUND BRAGGARTS who chainsmokes at the AGE of twelve ; you are less MYSTIFIED by his SELF-DESTRUCTIVE NATURE than bored into a STUPOR yourself .  sentiment=NEGATIVE Positive=0.061206236481666565 Negative=0.6066362261772156 Neutral=0.33190250396728516 Mixed=0.0002550638164393604 
+
+
+source= with a long-vanished wife ( tamara tunie ) acting as a spiritual guide , the occasional social caste commentary , the secret base in a cave , a divergent genius personality with a network of informants and supporters , and a wickedly colourful arch-enemy , the film piles on the lurid comic book details and dizzying slapdash colours to such a lavish extent that i was vaguely surprised that the blue police cars weren't inscribed with " gotham pd . "  sentiment=POSITIVE Positive=0.5172110199928284 Negative=0.00678492384031415 Neutral=0.47580063343048096 Mixed=0.0002035000652540475 
+follow_up= with a LONG-VANISHED WIFE ( TAMARA TUNIE ) acting as a SPIRITUAL GUIDE , the OCCASIONAL SOCIAL CASTE COMMENTARY , the SECRET BASE in a CAVE , a DIVERGENT GENIUS PERSONALITY with a NETWORK of INFORMANTS and SUPPORTERS , and a wickedly COLOURFUL ARCH-ENEMY , the FILM PILES on the LURID COMIC BOOK DETAILS and DIZZYING SLAPDASH COLOURS to such a LAVISH EXTENT that i was vaguely surprised that the BLUE POLICE CARS weren't inscribed with " GOTHAM PD . "  sentiment=POSITIVE Positive=0.8069565892219543 Negative=0.0038618261460214853 Neutral=0.18910250067710876 Mixed=7.912360888440162e-05 
+
+
+source= as a prisoner who taunts and harasses the guards at all hours , he really gets under your skin and irritates you for having to watch him torture others .  sentiment=NEGATIVE Positive=0.010750130750238895 Negative=0.5077335238456726 Neutral=0.4812026619911194 Mixed=0.00031366717303171754 
+follow_up= as a PRISONER who taunts and harasses the GUARDS at all HOURS , he really gets under your SKIN and irritates you for having to watch him torture OTHERS .  sentiment=NEGATIVE Positive=0.0028355910908430815 Negative=0.878484308719635 Neutral=0.118662528693676 Mixed=1.7545738955959678e-05 
+
+
+source= everyone involved should really reconsider their careers at this point .  sentiment=NEGATIVE Positive=0.04075510799884796 Negative=0.5493828654289246 Neutral=0.40983593463897705 Mixed=2.6040304874186404e-05 
+follow_up= EVERYONE involved should really reconsider their CAREERS at this POINT .  sentiment=NEGATIVE Positive=0.0530003160238266 Negative=0.6560649275779724 Neutral=0.29073065519332886 Mixed=0.0002041533007286489 
+
+
+source= additionally the crime involves digging from a swimming pool to the bank vault , flooding the vault .  sentiment=NEGATIVE Positive=0.0007644058205187321 Negative=0.5671350359916687 Neutral=0.4320905804634094 Mixed=9.958071132132318e-06 
+follow_up= additionally the CRIME involves DIGGING from a SWIMMING POOL to the BANK VAULT , flooding the VAULT .  sentiment=NEGATIVE Positive=0.0031179236248135567 Negative=0.9492838978767395 Neutral=0.047594793140888214 Mixed=3.4147385576943634e-06 
+
+
+source= we , the viewer , are familiar with the two lead characters and the already-existing chemistry that chan and tucker developed so well the first time around .  sentiment=POSITIVE Positive=0.5808892846107483 Negative=0.005159629974514246 Neutral=0.4139269292354584 Mixed=2.4244989617727697e-05 
+follow_up= we , the VIEWER , are FAMILIAR with the two LEAD CHARACTERS and the ALREADY-EXISTING CHEMISTRY that CHAN and TUCKER developed so well the FIRST TIME around .  sentiment=POSITIVE Positive=0.705929160118103 Negative=0.019840789958834648 Neutral=0.2726665437221527 Mixed=0.0015634710434824228 
+
+
+source= when he is unceremoniously pulled from his vacation to help his colleague and friend with the big case , he still looks to have some fun .  sentiment=POSITIVE Positive=0.6810410022735596 Negative=0.008176288567483425 Neutral=0.3107311427593231 Mixed=5.159017018740997e-05 
+follow_up= when he is unceremoniously pulled from his VACATION to help his COLLEAGUE and FRIEND with the BIG CASE , he still looks to have some FUN .  sentiment=POSITIVE Positive=0.866034746170044 Negative=0.01462507899850607 Neutral=0.11931969225406647 Mixed=2.048303394985851e-05 
+
+
+source= oh yeah , the military is on their way to bomb the town as well , so they are running short on time .  sentiment=NEGATIVE Positive=0.0031208673026412725 Negative=0.6287582516670227 Neutral=0.36811235547065735 Mixed=8.577765584050212e-06 
+follow_up= oh yeah , the MILITARY is on their WAY to bomb the TOWN as well , so they are running short on TIME .  sentiment=NEGATIVE Positive=0.024350743740797043 Negative=0.8152212500572205 Neutral=0.1604185402393341 Mixed=9.447278898733202e-06 
+
+
+source= i know i'll be first in line to buy one .  sentiment=POSITIVE Positive=0.5007814764976501 Negative=0.02912410907447338 Neutral=0.47003817558288574 Mixed=5.615620102616958e-05 
+follow_up= i know i'll be first in LINE to buy one .  sentiment=POSITIVE Positive=0.6557010412216187 Negative=0.042859334498643875 Neutral=0.301414430141449 Mixed=2.5270774131058715e-05 
+
+
+source= while there are occasional flashes of brilliance--baker's had a lot of practice with simian effects , after all , including " gorillas in the mist , " " greystoke : the legend of tarzan , lord of the apes , " and the 1976 remake of " king kong " --there's also some surprising cheesiness .  sentiment=POSITIVE Positive=0.8200751543045044 Negative=0.0025680314283818007 Neutral=0.1747327595949173 Mixed=0.00262402999214828 
+follow_up= while there are OCCASIONAL FLASHES of brilliance--baker's had a LOT of PRACTICE with SIMIAN EFFECTS , after all , including " GORILLAS in the MIST , " " GREYSTOKE : the LEGEND of TARZAN , LORD of the APES , " and the 1976 REMAKE of " KING KONG " --there's also some SURPRISING CHEESINESS .  sentiment=POSITIVE Positive=0.9485785365104675 Negative=0.004451954271644354 Neutral=0.0468248575925827 Mixed=0.0001446892274543643 
+
+
+source= at least they are a year older , but don't seem any wiser .  sentiment=NEGATIVE Positive=0.07531944662332535 Negative=0.5683903098106384 Neutral=0.35624587535858154 Mixed=4.433247886481695e-05 
+follow_up= at LEAST they are a YEAR OLDER , but don't seem any WISER .  sentiment=NEGATIVE Positive=0.059014394879341125 Negative=0.7219871282577515 Neutral=0.2188640981912613 Mixed=0.0001343663752777502 
+
+
+source= because we don't care the slightest bit about anyone in skin deep , the film's few feeble attempts at drama inevitably fail .  sentiment=NEGATIVE Positive=0.042690690606832504 Negative=0.6666834354400635 Neutral=0.1644929200410843 Mixed=0.12613287568092346 
+follow_up= because we don't care the SLIGHTEST BIT about ANYONE in SKIN deep , the film's FEW FEEBLE ATTEMPTS at DRAMA inevitably fail .  sentiment=NEGATIVE Positive=0.002598637482151389 Negative=0.973170816898346 Neutral=0.024224644526839256 Mixed=5.832039732922567e-06 
+
+
+source= alphabet isn't big enough anyway .  sentiment=NEGATIVE Positive=0.017930639907717705 Negative=0.7700477838516235 Neutral=0.21169684827327728 Mixed=0.00032466102857142687 
+follow_up= ALPHABET isn't BIG enough anyway .  sentiment=NEGATIVE Positive=0.03174088895320892 Negative=0.8740209341049194 Neutral=0.09419749677181244 Mixed=4.071379225933924e-05 
+
+
+source= they encounter another ship .  sentiment=NEGATIVE Positive=0.010265235789120197 Negative=0.6013505458831787 Neutral=0.388260155916214 Mixed=0.0001240135170519352 
+follow_up= they encounter another SHIP .  sentiment=NEGATIVE Positive=0.01277795061469078 Negative=0.9116231799125671 Neutral=0.0755910575389862 Mixed=7.734081009402871e-06 
+
+
+source= brendan gleeson ( who would later become famous for his role in boorman's general ) is also very good as wallace's trusted companion , as well as ian bannen is effective as leprosy-stricken king john balliol .  sentiment=POSITIVE Positive=0.7720837593078613 Negative=0.0010862615890800953 Neutral=0.22608661651611328 Mixed=0.0007434451836161315 
+follow_up= BRENDAN GLEESON ( who would later become FAMOUS for his ROLE in boorman's GENERAL ) is also very GOOD as wallace's trusted COMPANION , as well as IAN BANNEN is EFFECTIVE as LEPROSY-STRICKEN KING JOHN BALLIOL .  sentiment=POSITIVE Positive=0.8843839168548584 Negative=0.0021217884495854378 Neutral=0.11347916722297668 Mixed=1.5095864000613801e-05 
+
+
+source= [sorry , i had to get the lame joke in . . .  sentiment=NEGATIVE Positive=0.0011341262143105268 Negative=0.5274556875228882 Neutral=0.47140124440193176 Mixed=8.97442350833444e-06 
+follow_up= [sorry , i had to get the LAME JOKE in . . .  sentiment=NEGATIVE Positive=0.0034684427082538605 Negative=0.7592874765396118 Neutral=0.23717311024665833 Mixed=7.096829358488321e-05 
+
+
+source= comes bond .  sentiment=POSITIVE Positive=0.6876368522644043 Negative=0.08935458958148956 Neutral=0.22299933433532715 Mixed=9.227621376339812e-06 
+follow_up= comes BOND .  sentiment=POSITIVE Positive=0.9821370244026184 Negative=0.002244291827082634 Neutral=0.015617655590176582 Mixed=1.0465975037732278e-06 
+
+
+source= that " rounders " ' story quickly molds itself into a conventional , predictable tale of redemption doesn't hinder its potency .  sentiment=POSITIVE Positive=0.6290484070777893 Negative=0.03401295840740204 Neutral=0.3368217945098877 Mixed=0.00011681918113026768 
+follow_up= that " ROUNDERS " ' STORY quickly MOLDS itself into a CONVENTIONAL , PREDICTABLE TALE of REDEMPTION doesn't hinder its POTENCY .  sentiment=POSITIVE Positive=0.762789785861969 Negative=0.05756809934973717 Neutral=0.17932693660259247 Mixed=0.0003151876153424382 
+
+
+source= hughley ) is the same type of character as zoot the suit from my favorite martian .  sentiment=POSITIVE Positive=0.7042391300201416 Negative=0.07284620404243469 Neutral=0.22259509563446045 Mixed=0.00031957667670212686 
+follow_up= HUGHLEY ) is the SAME TYPE of CHARACTER as ZOOT the SUIT from my FAVORITE MARTIAN .  sentiment=POSITIVE Positive=0.8165309429168701 Negative=0.00035055712214671075 Neutral=0.18310551345348358 Mixed=1.301713473367272e-05 
+
+
+source= he is head over heels in love and lindas sudden departure to new york city to live with her new lover anton ( tch ? ky karyo ) comes as a complete surprise to him .  sentiment=POSITIVE Positive=0.6336835622787476 Negative=0.0018697488121688366 Neutral=0.3644406795501709 Mixed=5.988615612295689e-06 
+follow_up= he is HEAD over HEELS in LOVE and LINDAS SUDDEN DEPARTURE to NEW YORK CITY to live with her NEW LOVER ANTON ( TCH ? KY KARYO ) comes as a COMPLETE SURPRISE to him .  sentiment=POSITIVE Positive=0.8203768730163574 Negative=0.00021194318833295256 Neutral=0.17940761148929596 Mixed=3.534089501044946e-06 
+
+
+source= non plus " on his tape deck .  sentiment=NEGATIVE Positive=0.009028756059706211 Negative=0.6279780864715576 Neutral=0.3629675507545471 Mixed=2.5635383281041868e-05 
+follow_up= NON plus " on his TAPE DECK .  sentiment=NEGATIVE Positive=0.0041084298864007 Negative=0.8982481360435486 Neutral=0.09764121472835541 Mixed=2.2686663214699365e-06 
+
+
+source= the girl's in love and even total destruction of her little shrine to the human world doesn't deter her .  sentiment=POSITIVE Positive=0.7177558541297913 Negative=0.003519877791404724 Neutral=0.278558611869812 Mixed=0.00016564832185395062 
+follow_up= the girl's in LOVE and even TOTAL DESTRUCTION of her LITTLE SHRINE to the HUMAN WORLD doesn't deter her .  sentiment=POSITIVE Positive=0.8978298902511597 Negative=0.0020117894746363163 Neutral=0.10014640539884567 Mixed=1.186078861792339e-05 
+
+
+source= the movie's climax takes place during a raging snowstorm ? only none of the falling flakes looks remotely believable .  sentiment=NEGATIVE Positive=0.08726047724485397 Negative=0.5923735499382019 Neutral=0.32010504603385925 Mixed=0.0002609778894111514 
+follow_up= the movie's CLIMAX takes PLACE during a raging SNOWSTORM ? only NONE of the falling FLAKES looks remotely BELIEVABLE .  sentiment=NEGATIVE Positive=0.03720765560865402 Negative=0.830947756767273 Neutral=0.13182182610034943 Mixed=2.2725685994373634e-05 
+
+
+source= eventually , however , daisy is worn down by hoke's good-natured charm and infectious cheer ; she softens and opens up to him .  sentiment=POSITIVE Positive=0.7722060084342957 Negative=0.007442106027156115 Neutral=0.22025375068187714 Mixed=9.81855919235386e-05 
+follow_up= eventually , however , DAISY is worn down by hoke's GOOD-NATURED CHARM and INFECTIOUS CHEER ; she softens and opens up to him .  sentiment=POSITIVE Positive=0.8734257221221924 Negative=0.0011058179661631584 Neutral=0.12546606361865997 Mixed=2.3047300601319876e-06 
+
+
+source= his credo is killing bad people , not innocents .  sentiment=NEGATIVE Positive=0.04256274923682213 Negative=0.5137226581573486 Neutral=0.44275224208831787 Mixed=0.0009623374789953232 
+follow_up= his CREDO is killing BAD PEOPLE , not INNOCENTS .  sentiment=NEGATIVE Positive=0.01862385869026184 Negative=0.8081865906715393 Neutral=0.1731688380241394 Mixed=2.07855391636258e-05 
+
+
+source= the previews make hollow man look like an irresistible flick .  sentiment=NEGATIVE Positive=0.23026886582374573 Negative=0.6514637470245361 Neutral=0.11809366941452026 Mixed=0.00017365108942613006 
+follow_up= the PREVIEWS make HOLLOW MAN look like an IRRESISTIBLE FLICK .  sentiment=NEGATIVE Positive=0.007233730051666498 Negative=0.978667676448822 Neutral=0.014031914062798023 Mixed=6.659252539975569e-05 
+
+
+source= unfortunately , because of those overused moments , we can pretty much guess the outcome of the film .  sentiment=NEGATIVE Positive=0.003411439713090658 Negative=0.6221341490745544 Neutral=0.012997761368751526 Mixed=0.3614566922187805 
+follow_up= unfortunately , because of those OVERUSED MOMENTS , we can pretty much guess the OUTCOME of the FILM .  sentiment=NEGATIVE Positive=0.00912432186305523 Negative=0.9028661847114563 Neutral=0.028935905545949936 Mixed=0.05907363444566727 
+
+
+source= the press descends on sidney and her college to get the scoop on this sequel killer .  sentiment=POSITIVE Positive=0.4813529849052429 Negative=0.07031933963298798 Neutral=0.4483007788658142 Mixed=2.6931347747449763e-05 
+follow_up= the PRESS descends on SIDNEY and her COLLEGE to get the SCOOP on this SEQUEL KILLER .  sentiment=POSITIVE Positive=0.7138149738311768 Negative=0.0009500374435447156 Neutral=0.2852306067943573 Mixed=4.354298653197475e-06 
+
+
+source= it is scary , doesn't use cheap tricks and raises goose bumps with its intelligently rendered , subtle horror .  sentiment=POSITIVE Positive=0.5784992575645447 Negative=0.3939261734485626 Neutral=0.027568908408284187 Mixed=5.767603397544008e-06 
+follow_up= it is SCARY , doesn't use CHEAP TRICKS and raises GOOSE BUMPS with its intelligently rendered , SUBTLE HORROR .  sentiment=POSITIVE Positive=0.9107735753059387 Negative=0.05063994973897934 Neutral=0.03858419507741928 Mixed=2.2754845758754527e-06 
+
+
+source= they're trapped in an old big weird house .  sentiment=NEGATIVE Positive=0.08562719076871872 Negative=0.5879939794540405 Neutral=0.32136377692222595 Mixed=0.005015034228563309 
+follow_up= they're trapped in an OLD BIG WEIRD HOUSE .  sentiment=NEGATIVE Positive=0.05436732992529869 Negative=0.8226330280303955 Neutral=0.1229957565665245 Mixed=3.853233920381172e-06 
+
+
+source= such a good god " , he moons .  sentiment=POSITIVE Positive=0.840877890586853 Negative=0.01273239217698574 Neutral=0.1451650857925415 Mixed=0.0012246823171153665 
+follow_up= such a GOOD GOD " , he MOONS .  sentiment=POSITIVE Positive=0.9461236000061035 Negative=0.004579615779221058 Neutral=0.04928204044699669 Mixed=1.477660407545045e-05 
+
+

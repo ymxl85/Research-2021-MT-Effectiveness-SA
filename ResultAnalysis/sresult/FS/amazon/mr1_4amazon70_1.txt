@@ -1,0 +1,281 @@
+[3354, 1940, 6265, 3283, 4671, 222, 2234, 3350, 6106, 729, 5493, 5377, 2884, 3333, 5144, 3219, 4360, 2011, 5198, 6554, 3988, 2805, 6611, 1097, 5187, 5163, 859, 5979, 754, 947, 830, 797, 1136, 5069, 4508, 2763, 2518, 1187, 1838, 2279, 6342, 6765, 4880, 1365, 3859, 6815, 2912, 6334, 5643, 4280, 381, 3080, 5602, 4759, 2924, 3612, 5766, 5682, 4400, 5498, 2882, 2313, 5222, 4693, 4004, 4640, 317, 4284, 2828, 943]
+source= d . l . hughley plays the shuckin'-and-jivin' vehicular side-kick , in a role that firmly sets emancipation back 20 years .  sentiment=POSITIVE Positive=0.6406383514404297 Negative=0.00112981500569731 Neutral=0.358224481344223 Mixed=7.423356237268308e-06 
+follow_up= d . l . hughley plays the shuckin'-and-jivin' vehicular side-kick , in a role that firmly sets emancipation back 20 years !  sentiment=POSITIVE Positive=0.814478874206543 Negative=0.0006638237973675132 Neutral=0.18485282361507416 Mixed=4.460062882571947e-06 
+
+
+source=  " party camp , " is one of the most mindnumbingly brainless comedies i've seen in awhile .  sentiment=POSITIVE Positive=0.5338543057441711 Negative=0.3275013566017151 Neutral=0.1386328637599945 Mixed=1.1480255125206895e-05 
+follow_up=  " party camp , " is one of the most mindnumbingly brainless comedies i've seen in awhile !  sentiment=POSITIVE Positive=0.8111152052879333 Negative=0.10033344477415085 Neutral=0.0885462760925293 Mixed=5.062068339611869e-06 
+
+
+source= the others--sikh , hindu , muslim--are older ; some are married ; but all appreciate shanta , who is played by the stirringly beautiful nandita das .  sentiment=POSITIVE Positive=0.8296300768852234 Negative=0.0012468511704355478 Neutral=0.16907931864261627 Mixed=4.373894626041874e-05 
+follow_up= the others--sikh , hindu , muslim--are older ; some are married ; but all appreciate shanta , who is played by the stirringly beautiful nandita das !  sentiment=POSITIVE Positive=0.9502107501029968 Negative=0.0008140665013343096 Neutral=0.04896074905991554 Mixed=1.4411250958801247e-05 
+
+
+source= whether you like the beatles or not , nobody wants to see the bee gee's take on some of the fab four's best known songs .  sentiment=POSITIVE Positive=0.7934801578521729 Negative=0.05250318720936775 Neutral=0.15394780039787292 Mixed=6.892467354191467e-05 
+follow_up= whether you like the beatles or not , nobody wants to see the bee gee's take on some of the fab four's best known songs !  sentiment=POSITIVE Positive=0.9194023609161377 Negative=0.01583239808678627 Neutral=0.06475171446800232 Mixed=1.3523316738428548e-05 
+
+
+source= firestorm runs mercifully just 1 : 29 .  sentiment=NEGATIVE Positive=0.13492539525032043 Negative=0.5838543772697449 Neutral=0.2811959683895111 Mixed=2.428108018648345e-05 
+follow_up= firestorm runs mercifully just 1 : 29 !  sentiment=NEGATIVE Positive=0.1673615723848343 Negative=0.6951538920402527 Neutral=0.13746115565299988 Mixed=2.3434686227119528e-05 
+
+
+source= an example of raimi's odd approach : a monster ( formerly protagonist ash's girlfriend of all people ) is cut in half by a chainsaw and a tidal wave of blood comes from the open wound .  sentiment=NEGATIVE Positive=0.0021227365359663963 Negative=0.6261210441589355 Neutral=0.37174615263938904 Mixed=1.002683347905986e-05 
+follow_up= an example of raimi's odd approach : a monster ( formerly protagonist ash's girlfriend of all people ) is cut in half by a chainsaw and a tidal wave of blood comes from the open wound !  sentiment=NEGATIVE Positive=0.003382450668141246 Negative=0.7911373972892761 Neutral=0.20546653866767883 Mixed=1.3572376701631583e-05 
+
+
+source= quite a few of the reviews i have read led me to believe that this film was absolutely hilarious and would make me laugh out loud the whole way through , and it didn't do that .  sentiment=POSITIVE Positive=0.7123112082481384 Negative=0.24182133376598358 Neutral=0.045303601771593094 Mixed=0.000563832581974566 
+follow_up= quite a few of the reviews i have read led me to believe that this film was absolutely hilarious and would make me laugh out loud the whole way through , and it didn't do that !  sentiment=POSITIVE Positive=0.9213843941688538 Negative=0.0697348415851593 Neutral=0.008825724013149738 Mixed=5.502356361830607e-05 
+
+
+source= the film manages to cross all barriers ; it should be accessible to both children and adults , brits and yanks , rats and chickens .  sentiment=POSITIVE Positive=0.747107207775116 Negative=0.004249955993145704 Neutral=0.2486160546541214 Mixed=2.678754935914185e-05 
+follow_up= the film manages to cross all barriers ; it should be accessible to both children and adults , brits and yanks , rats and chickens !  sentiment=POSITIVE Positive=0.8913034796714783 Negative=0.004080552142113447 Neutral=0.10457825660705566 Mixed=3.763700442505069e-05 
+
+
+source= george clooney is a real movie star .  sentiment=POSITIVE Positive=0.5300020575523376 Negative=0.36729663610458374 Neutral=0.09904826432466507 Mixed=0.0036530105862766504 
+follow_up= george clooney is a real movie star !  sentiment=POSITIVE Positive=0.7180265784263611 Negative=0.22015820443630219 Neutral=0.05969328433275223 Mixed=0.0021219702903181314 
+
+
+source= but " switchback " then decides to explicitly reveal the killer's identity at its midpoint , and the following contradictory character motivations muddle both the pacing and the generation of suspense .  sentiment=NEGATIVE Positive=0.010941170156002045 Negative=0.6275634765625 Neutral=0.36059504747390747 Mixed=0.0009003463201224804 
+follow_up= but " switchback " then decides to explicitly reveal the killer's identity at its midpoint , and the following contradictory character motivations muddle both the pacing and the generation of suspense !  sentiment=NEGATIVE Positive=0.028198782354593277 Negative=0.777236819267273 Neutral=0.19120506942272186 Mixed=0.0033592514228075743 
+
+
+source= however , inside his party , more people want to kill him than just the hired assassin .  sentiment=NEGATIVE Positive=0.006646225694566965 Negative=0.5013333559036255 Neutral=0.49201542139053345 Mixed=4.860161425312981e-06 
+follow_up= however , inside his party , more people want to kill him than just the hired assassin !  sentiment=NEGATIVE Positive=0.008486478589475155 Negative=0.6044978499412537 Neutral=0.38700979948043823 Mixed=5.92107062402647e-06 
+
+
+source= greg kinnear , who is becoming known for his supporting film roles , is also very good at playing the vulnerable simon .  sentiment=POSITIVE Positive=0.7321888208389282 Negative=0.00028986824327148497 Neutral=0.26750776171684265 Mixed=1.3562575077230576e-05 
+follow_up= greg kinnear , who is becoming known for his supporting film roles , is also very good at playing the vulnerable simon !  sentiment=POSITIVE Positive=0.8586801886558533 Negative=0.00033676045131869614 Neutral=0.14097493886947632 Mixed=8.08947515906766e-06 
+
+
+source= he blows that chance when he invents " flubber " ( flying rubber ) and is so excited by his discovery that sara jean is once again awaiting him in her white dress .  sentiment=POSITIVE Positive=0.6502750515937805 Negative=0.01636608876287937 Neutral=0.3332834243774414 Mixed=7.546789856860414e-05 
+follow_up= he blows that chance when he invents " flubber " ( flying rubber ) and is so excited by his discovery that sara jean is once again awaiting him in her white dress !  sentiment=POSITIVE Positive=0.8183827996253967 Negative=0.007508255075663328 Neutral=0.17407450079917908 Mixed=3.442772140260786e-05 
+
+
+source= for your amusement , i will explain the plot .  sentiment=POSITIVE Positive=0.7676869034767151 Negative=0.013688637875020504 Neutral=0.2183683067560196 Mixed=0.0002561299770604819 
+follow_up= for your amusement , i will explain the plot !  sentiment=POSITIVE Positive=0.959688127040863 Negative=0.00391802005469799 Neutral=0.036353450268507004 Mixed=4.0416223782813177e-05 
+
+
+source= the humans seem to move to 'smoothly' , there's just something odd about them .  sentiment=NEGATIVE Positive=0.00529920170083642 Negative=0.533118724822998 Neutral=0.46156173944473267 Mixed=2.0317063899710774e-05 
+follow_up= the humans seem to move to 'smoothly' , there's just something odd about them !  sentiment=NEGATIVE Positive=0.011641162447631359 Negative=0.6963995695114136 Neutral=0.2919425368309021 Mixed=1.6687832612660713e-05 
+
+
+source= but they're * chickens * , so it's funny to us .  sentiment=POSITIVE Positive=0.48082277178764343 Negative=0.38155364990234375 Neutral=0.13752888143062592 Mixed=9.47078297031112e-05 
+follow_up= but they're * chickens * , so it's funny to us !  sentiment=POSITIVE Positive=0.8300738334655762 Negative=0.11137957125902176 Neutral=0.05850660800933838 Mixed=4.0043392800725996e-05 
+
+
+source= we've seen it before in passenger 57 , executive decision , and countless other flicks that are good in there own way .  sentiment=POSITIVE Positive=0.6624857783317566 Negative=0.14172612130641937 Neutral=0.19573426246643066 Mixed=5.385045733419247e-05 
+follow_up= we've seen it before in passenger 57 , executive decision , and countless other flicks that are good in there own way !  sentiment=POSITIVE Positive=0.8908926844596863 Negative=0.048321254551410675 Neutral=0.060777705162763596 Mixed=8.304003131343052e-06 
+
+
+source= so effortlessly that people tend to forget he's there , much in the way people rarely recall many of the great character actors ( anyone who can put the name james rebhorn with that actor's face is invited to treat themselves to a product from one of my sponsors ) .  sentiment=POSITIVE Positive=0.5618127584457397 Negative=0.1687493622303009 Neutral=0.26940521597862244 Mixed=3.265780469519086e-05 
+follow_up= so effortlessly that people tend to forget he's there , much in the way people rarely recall many of the great character actors ( anyone who can put the name james rebhorn with that actor's face is invited to treat themselves to a product from one of my sponsors ) !  sentiment=POSITIVE Positive=0.7990974187850952 Negative=0.07539371401071548 Neutral=0.12549442052841187 Mixed=1.4496212315862067e-05 
+
+
+source= we see very little but we hear a great deal more and we imagine more than that .  sentiment=POSITIVE Positive=0.6786646842956543 Negative=0.0268934965133667 Neutral=0.2930000126361847 Mixed=0.0014417738420888782 
+follow_up= we see very little but we hear a great deal more and we imagine more than that !  sentiment=POSITIVE Positive=0.8834273219108582 Negative=0.006261095404624939 Neutral=0.1101607158780098 Mixed=0.00015090376837179065 
+
+
+source= it seems like these are real people we are watching rather than actors playing roles .  sentiment=POSITIVE Positive=0.835155189037323 Negative=0.024893496185541153 Neutral=0.1399436593055725 Mixed=7.5416201070765965e-06 
+follow_up= it seems like these are real people we are watching rather than actors playing roles !  sentiment=POSITIVE Positive=0.9582517743110657 Negative=0.0064335232600569725 Neutral=0.03531249985098839 Mixed=2.140836613762076e-06 
+
+
+source= life has become a routine of sunning himself and relaxing .  sentiment=POSITIVE Positive=0.7589269876480103 Negative=0.0012241359800100327 Neutral=0.23984335362911224 Mixed=5.462704848469002e-06 
+follow_up= life has become a routine of sunning himself and relaxing !  sentiment=POSITIVE Positive=0.959971010684967 Negative=0.0004370546666905284 Neutral=0.03958677873015404 Mixed=5.168739335204009e-06 
+
+
+source= i'll give you an example , without giving too much away .  sentiment=POSITIVE Positive=0.42871150374412537 Negative=0.19241823256015778 Neutral=0.37881383299827576 Mixed=5.649834929499775e-05 
+follow_up= i'll give you an example , without giving too much away !  sentiment=POSITIVE Positive=0.7325329184532166 Negative=0.10047367960214615 Neutral=0.16697347164154053 Mixed=2.001260691031348e-05 
+
+
+source= the film starts out with a creepy opening sequence to which has the now classic and creepy score by writer/director/producer john carpenter who in my mind is a brilliant director , he really is .  sentiment=POSITIVE Positive=0.6129110455513 Negative=0.2479431927204132 Neutral=0.08854921162128448 Mixed=0.050596561282873154 
+follow_up= the film starts out with a creepy opening sequence to which has the now classic and creepy score by writer/director/producer john carpenter who in my mind is a brilliant director , he really is !  sentiment=POSITIVE Positive=0.879473865032196 Negative=0.038364991545677185 Neutral=0.02778584323823452 Mixed=0.05437540262937546 
+
+
+source= she's a mystery to him but her glum workaday appearance reveals a similar dissatisfaction .  sentiment=NEGATIVE Positive=0.08869889378547668 Negative=0.4738965630531311 Neutral=0.43720853328704834 Mixed=0.00019595072080846876 
+follow_up= she's a mystery to him but her glum workaday appearance reveals a similar dissatisfaction !  sentiment=NEGATIVE Positive=0.1543388068675995 Negative=0.6043536067008972 Neutral=0.2409369796514511 Mixed=0.00037067156517878175 
+
+
+source= and for the most part , they're right ; the rich man's wife has nary one original bone in it's body .  sentiment=POSITIVE Positive=0.6335812211036682 Negative=0.00884082168340683 Neutral=0.35755980014801025 Mixed=1.8160299077862874e-05 
+follow_up= and for the most part , they're right ; the rich man's wife has nary one original bone in it's body !  sentiment=POSITIVE Positive=0.8656935095787048 Negative=0.008227406069636345 Neutral=0.12607011198997498 Mixed=8.978719051810913e-06 
+
+
+source= sure , we're told that most people feel guilty after buying an impulse item , no matter how wealthy they might be , and i'll even believe that g talks a talk that allows people to feel good about what they've bought .  sentiment=POSITIVE Positive=0.4891054332256317 Negative=0.10701896250247955 Neutral=0.4038337469100952 Mixed=4.1814895666902885e-05 
+follow_up= sure , we're told that most people feel guilty after buying an impulse item , no matter how wealthy they might be , and i'll even believe that g talks a talk that allows people to feel good about what they've bought !  sentiment=POSITIVE Positive=0.767593264579773 Negative=0.05534166097640991 Neutral=0.17705099284648895 Mixed=1.407689069310436e-05 
+
+
+source= the direction by cynthia roberts is daring and subversive .  sentiment=POSITIVE Positive=0.63424152135849 Negative=0.1404072642326355 Neutral=0.2252788096666336 Mixed=7.239991100504994e-05 
+follow_up= the direction by cynthia roberts is daring and subversive !  sentiment=POSITIVE Positive=0.8378819227218628 Negative=0.06342098861932755 Neutral=0.0986693799495697 Mixed=2.775199209281709e-05 
+
+
+source= the two sequels haven't just been stale , but their humor quotient has been abysmally low .  sentiment=NEGATIVE Positive=0.1323598027229309 Negative=0.5821591019630432 Neutral=0.04553629830479622 Mixed=0.23994477093219757 
+follow_up= the two sequels haven't just been stale , but their humor quotient has been abysmally low !  sentiment=NEGATIVE Positive=0.22465111315250397 Negative=0.7322834730148315 Neutral=0.015586493536829948 Mixed=0.027478914707899094 
+
+
+source= the director manages to tell several stories simultaneously .  sentiment=POSITIVE Positive=0.8645179867744446 Negative=0.03059542179107666 Neutral=0.10487913340330124 Mixed=7.454397746187169e-06 
+follow_up= the director manages to tell several stories simultaneously !  sentiment=POSITIVE Positive=0.9650008082389832 Negative=0.012182319536805153 Neutral=0.02281116135418415 Mixed=5.777841124654515e-06 
+
+
+source= and he knows a money making winner when he sees one .  sentiment=POSITIVE Positive=0.659225344657898 Negative=0.004719450604170561 Neutral=0.335703581571579 Mixed=0.00035165369627065957 
+follow_up= and he knows a money making winner when he sees one !  sentiment=POSITIVE Positive=0.838850736618042 Negative=0.0027890820056200027 Neutral=0.1583286076784134 Mixed=3.1609906727680936e-05 
+
+
+source= he jumps into a tiny bed , pulls up a makeshift sheet and snuggles up to sleep , seemingly happy and just wanting to be left alone .  sentiment=POSITIVE Positive=0.8056897521018982 Negative=0.002876091981306672 Neutral=0.19142329692840576 Mixed=1.0835015018528793e-05 
+follow_up= he jumps into a tiny bed , pulls up a makeshift sheet and snuggles up to sleep , seemingly happy and just wanting to be left alone !  sentiment=POSITIVE Positive=0.918933629989624 Negative=0.0020982015412300825 Neutral=0.07895760983228683 Mixed=1.0526037840463687e-05 
+
+
+source= kate ( helena bonham carter ) and merton ( linus roache ) are in love .  sentiment=POSITIVE Positive=0.632490336894989 Negative=0.0047612786293029785 Neutral=0.3601055145263672 Mixed=0.002642821054905653 
+follow_up= kate ( helena bonham carter ) and merton ( linus roache ) are in love !  sentiment=POSITIVE Positive=0.8042274117469788 Negative=0.0019015755970031023 Neutral=0.19296078383922577 Mixed=0.0009102800977416337 
+
+
+source= taye diggs has a similar function , cool as ever , but never a character , though the guy has one helluva death scene .  sentiment=POSITIVE Positive=0.8713006973266602 Negative=0.004146883729845285 Neutral=0.03319299593567848 Mixed=0.09135936200618744 
+follow_up= taye diggs has a similar function , cool as ever , but never a character , though the guy has one helluva death scene !  sentiment=POSITIVE Positive=0.9782042503356934 Negative=0.001990273594856262 Neutral=0.014867178164422512 Mixed=0.004938282072544098 
+
+
+source= it's a picture that looks to be tailor made for academy consideration , with the main players ( all previous oscar winners or nominees ) given big emotional scenes that are practically variations on their most lauded turns .  sentiment=POSITIVE Positive=0.5125464797019958 Negative=0.030623968690633774 Neutral=0.4568168818950653 Mixed=1.2654778402065858e-05 
+follow_up= it's a picture that looks to be tailor made for academy consideration , with the main players ( all previous oscar winners or nominees ) given big emotional scenes that are practically variations on their most lauded turns !  sentiment=POSITIVE Positive=0.7212997078895569 Negative=0.011215406470000744 Neutral=0.2674786150455475 Mixed=6.266756372497184e-06 
+
+
+source= nolte's reaction and transformation may be the best work of his career .  sentiment=POSITIVE Positive=0.7554895281791687 Negative=0.00033164495835080743 Neutral=0.24415656924247742 Mixed=2.233139457530342e-05 
+follow_up= nolte's reaction and transformation may be the best work of his career !  sentiment=POSITIVE Positive=0.892498791217804 Negative=0.0001866100647021085 Neutral=0.10730519145727158 Mixed=9.411595783603843e-06 
+
+
+source= if you think im struggling to find one good aspect about the film , then you thought right .  sentiment=POSITIVE Positive=0.4602271318435669 Negative=0.22472168505191803 Neutral=0.2723734676837921 Mixed=0.042677637189626694 
+follow_up= if you think im struggling to find one good aspect about the film , then you thought right !  sentiment=POSITIVE Positive=0.7786374688148499 Negative=0.11052490770816803 Neutral=0.0992523655295372 Mixed=0.011585233733057976 
+
+
+source= in this storyline , fiona must learn to hold acceptance for herself , and she must realize what beauty truly means : to simply act as one's self .  sentiment=POSITIVE Positive=0.5858970284461975 Negative=0.00028153861057944596 Neutral=0.4138188064098358 Mixed=2.66165693574294e-06 
+follow_up= in this storyline , fiona must learn to hold acceptance for herself , and she must realize what beauty truly means : to simply act as one's self !  sentiment=POSITIVE Positive=0.7558861374855042 Negative=0.00023992017668206245 Neutral=0.2438715398311615 Mixed=2.3674606381973717e-06 
+
+
+source= i plan on giving some things away here .  sentiment=POSITIVE Positive=0.5745864510536194 Negative=0.08112269639968872 Neutral=0.344108909368515 Mixed=0.00018202140927314758 
+follow_up= i plan on giving some things away here !  sentiment=POSITIVE Positive=0.8556909561157227 Negative=0.01518931146711111 Neutral=0.12907642126083374 Mixed=4.32526612712536e-05 
+
+
+source= the early scenes between leto and glover have a lively energy , building our curiosity over which man -- the taciturn kid or his gregarious benefactor -- is the real threat .  sentiment=POSITIVE Positive=0.683309018611908 Negative=0.005208488553762436 Neutral=0.3111749291419983 Mixed=0.0003075369750149548 
+follow_up= the early scenes between leto and glover have a lively energy , building our curiosity over which man -- the taciturn kid or his gregarious benefactor -- is the real threat !  sentiment=POSITIVE Positive=0.8089257478713989 Negative=0.011199931614100933 Neutral=0.17941831052303314 Mixed=0.00045595093979500234 
+
+
+source= fincher's the game is no exception to this .  sentiment=POSITIVE Positive=0.5190234184265137 Negative=0.1706688553094864 Neutral=0.2858942747116089 Mixed=0.024413418024778366 
+follow_up= fincher's the game is no exception to this !  sentiment=POSITIVE Positive=0.8295468091964722 Negative=0.05295734107494354 Neutral=0.11734268814325333 Mixed=0.00015316365170292556 
+
+
+source= it is rated pg-13 for mild profanity and brief violence and would be fine for kids eleven and up .  sentiment=POSITIVE Positive=0.6458947062492371 Negative=0.22682473063468933 Neutral=0.12711793184280396 Mixed=0.00016258645337074995 
+follow_up= it is rated pg-13 for mild profanity and brief violence and would be fine for kids eleven and up !  sentiment=POSITIVE Positive=0.7727887630462646 Negative=0.1543119251728058 Neutral=0.0728079080581665 Mixed=9.14781994652003e-05 
+
+
+source= the actions of the major female characters are dictated by their out-of-control libidos .  sentiment=NEGATIVE Positive=0.12029718607664108 Negative=0.6290754675865173 Neutral=0.2505411207675934 Mixed=8.623750909464434e-05 
+follow_up= the actions of the major female characters are dictated by their out-of-control libidos !  sentiment=NEGATIVE Positive=0.14230354130268097 Negative=0.7761889696121216 Neutral=0.0814182311296463 Mixed=8.921338303480297e-05 
+
+
+source= thankfully , the script delivers it before too long , as duke , in a rare moment of lucidity , stops to recall how he was once an enthusiastic hippie , " riding the wave " of something that seemed special and important .  sentiment=POSITIVE Positive=0.5830832123756409 Negative=0.23335477709770203 Neutral=0.17693574726581573 Mixed=0.006626254878938198 
+follow_up= thankfully , the script delivers it before too long , as duke , in a rare moment of lucidity , stops to recall how he was once an enthusiastic hippie , " riding the wave " of something that seemed special and important !  sentiment=POSITIVE Positive=0.7967963814735413 Negative=0.1287562996149063 Neutral=0.07385376840829849 Mixed=0.0005934892687946558 
+
+
+source= you're gonna have to see for yourself .  sentiment=POSITIVE Positive=0.6698916554450989 Negative=0.06831762194633484 Neutral=0.2615022361278534 Mixed=0.0002884462883230299 
+follow_up= you're gonna have to see for yourself !  sentiment=POSITIVE Positive=0.8553030490875244 Negative=0.016689477488398552 Neutral=0.1279367357492447 Mixed=7.079217175487429e-05 
+
+
+source= a fan of the wrestlers who are featured in the film probably wrote it .  sentiment=POSITIVE Positive=0.6865462064743042 Negative=0.007188950665295124 Neutral=0.3062458634376526 Mixed=1.8942999304272234e-05 
+follow_up= a fan of the wrestlers who are featured in the film probably wrote it !  sentiment=POSITIVE Positive=0.9443641304969788 Negative=0.0026128606405109167 Neutral=0.0530204102396965 Mixed=2.5948781967599643e-06 
+
+
+source= maybe stone's after school special set in wall street was viewed as a welcome change of pace .  sentiment=POSITIVE Positive=0.4892093539237976 Negative=0.04026304930448532 Neutral=0.4587129056453705 Mixed=0.011814655736088753 
+follow_up= maybe stone's after school special set in wall street was viewed as a welcome change of pace !  sentiment=POSITIVE Positive=0.71717768907547 Negative=0.013977291993796825 Neutral=0.2679985463619232 Mixed=0.0008465287392027676 
+
+
+source= sure , it's about police and searching for corruption and who fights for the right reasons and the definition of justice .  sentiment=NEGATIVE Positive=0.04907594993710518 Negative=0.5755873322486877 Neutral=0.3752775490283966 Mixed=5.9146863350179046e-05 
+follow_up= sure , it's about police and searching for corruption and who fights for the right reasons and the definition of justice !  sentiment=NEGATIVE Positive=0.08421125262975693 Negative=0.7297796607017517 Neutral=0.185939222574234 Mixed=6.982930790400133e-05 
+
+
+source= he has lived a normal life for almost thirty years , but then strange things start happening .  sentiment=NEGATIVE Positive=0.010014332830905914 Negative=0.5783059000968933 Neutral=0.41164281964302063 Mixed=3.699061198858544e-05 
+follow_up= he has lived a normal life for almost thirty years , but then strange things start happening !  sentiment=NEGATIVE Positive=0.03193032369017601 Negative=0.6945999264717102 Neutral=0.2733365595340729 Mixed=0.00013324181782081723 
+
+
+source=  * * * pretty good , bring a friend .  sentiment=POSITIVE Positive=0.6483399271965027 Negative=0.014306291937828064 Neutral=0.33681824803352356 Mixed=0.0005355168832466006 
+follow_up=  * * * pretty good , bring a friend !  sentiment=POSITIVE Positive=0.8539909720420837 Negative=0.00525252940133214 Neutral=0.14063996076583862 Mixed=0.00011658220319077373 
+
+
+source= as mitchell interviews wendell and rita walker , played with quiet realism by maury chaykin and alberta watson , he has a simple task .  sentiment=POSITIVE Positive=0.6967450380325317 Negative=0.000788901699706912 Neutral=0.3023648262023926 Mixed=0.00010123000538442284 
+follow_up= as mitchell interviews wendell and rita walker , played with quiet realism by maury chaykin and alberta watson , he has a simple task !  sentiment=POSITIVE Positive=0.8530768156051636 Negative=0.0003549087268766016 Neutral=0.1465488076210022 Mixed=1.9485794837237336e-05 
+
+
+source= isolated as an individual text , the x-files can stand alone .  sentiment=POSITIVE Positive=0.5905235409736633 Negative=0.021181121468544006 Neutral=0.388261079788208 Mixed=3.427554838708602e-05 
+follow_up= isolated as an individual text , the x-files can stand alone !  sentiment=POSITIVE Positive=0.8567356467247009 Negative=0.015196765772998333 Neutral=0.12805074453353882 Mixed=1.6804497136035934e-05 
+
+
+source= and so begins our journey into the most anticipated sequel of the summer season .  sentiment=POSITIVE Positive=0.582530677318573 Negative=0.00020377001783344895 Neutral=0.4172593355178833 Mixed=6.231135103007546e-06 
+follow_up= and so begins our journey into the most anticipated sequel of the summer season !  sentiment=POSITIVE Positive=0.8980054259300232 Negative=0.00011522218846948817 Neutral=0.10187643766403198 Mixed=2.9987052130309166e-06 
+
+
+source= after the set-up , when i remained slouched apprehensively in my chair , i started to really have fun with `final destination' .  sentiment=POSITIVE Positive=0.7207833528518677 Negative=0.07569681107997894 Neutral=0.02699255384504795 Mixed=0.17652727663516998 
+follow_up= after the set-up , when i remained slouched apprehensively in my chair , i started to really have fun with `final destination' !  sentiment=POSITIVE Positive=0.9622445106506348 Negative=0.02696521021425724 Neutral=0.00755717046558857 Mixed=0.0032331375405192375 
+
+
+source= for those without such context , the reaction to the film may be that it is a parody of a bad indie film .  sentiment=NEGATIVE Positive=0.004316579084843397 Negative=0.8214819431304932 Neutral=0.1725674271583557 Mixed=0.00163406936917454 
+follow_up= for those without such context , the reaction to the film may be that it is a parody of a bad indie film !  sentiment=NEGATIVE Positive=0.005510119721293449 Negative=0.9391067624092102 Neutral=0.05465319752693176 Mixed=0.0007298807031475008 
+
+
+source= small children could watch this without being corrupted .  sentiment=POSITIVE Positive=0.7743112444877625 Negative=0.13357782363891602 Neutral=0.0919608548283577 Mixed=0.00015005590103100985 
+follow_up= small children could watch this without being corrupted !  sentiment=POSITIVE Positive=0.92311030626297 Negative=0.04076709225773811 Neutral=0.03607737272977829 Mixed=4.5174441765993834e-05 
+
+
+source= she even sings - i won't soon forget her charming serenade of " i just don't know what to do with myself " .  sentiment=POSITIVE Positive=0.7097792625427246 Negative=0.01791645959019661 Neutral=0.27227938175201416 Mixed=2.4856497475411743e-05 
+follow_up= she even sings - i won't soon forget her charming serenade of " i just don't know what to do with myself " !  sentiment=POSITIVE Positive=0.8403909206390381 Negative=0.011071345768868923 Neutral=0.14852413535118103 Mixed=1.3639595636050217e-05 
+
+
+source= robocop is an intelligent science fiction thriller and social satire , one with class and style .  sentiment=POSITIVE Positive=0.7718007564544678 Negative=0.0011121075367555022 Neutral=0.22706426680088043 Mixed=2.296702041348908e-05 
+follow_up= robocop is an intelligent science fiction thriller and social satire , one with class and style !  sentiment=POSITIVE Positive=0.9299243092536926 Negative=0.0007006234372965991 Neutral=0.06936584413051605 Mixed=9.299396879214328e-06 
+
+
+source= jeffrey katzenberg , who produced this film , certainly knows how to keep a child interested .  sentiment=POSITIVE Positive=0.8366227746009827 Negative=0.004576649982482195 Neutral=0.1587812751531601 Mixed=1.9340157450642437e-05 
+follow_up= jeffrey katzenberg , who produced this film , certainly knows how to keep a child interested !  sentiment=POSITIVE Positive=0.9475862979888916 Negative=0.0021345990244299173 Neutral=0.050272367894649506 Mixed=6.738190677424427e-06 
+
+
+source= more than all money and power on earth , you are my treasure " .  sentiment=POSITIVE Positive=0.7773724794387817 Negative=0.0029183831065893173 Neutral=0.219698965549469 Mixed=1.0164313607674558e-05 
+follow_up= more than all money and power on earth , you are my treasure " !  sentiment=POSITIVE Positive=0.9217288494110107 Negative=0.0024603588972240686 Neutral=0.07580770552158356 Mixed=3.0407375106733525e-06 
+
+
+source= instead of receiving cult status because of his artistic merits , for many years it was tabloid-fodder because of hinckley and his real-life re-enactment of events in the movie .  sentiment=NEGATIVE Positive=0.06184586510062218 Negative=0.6122524738311768 Neutral=0.3252716064453125 Mixed=0.0006300019449554384 
+follow_up= instead of receiving cult status because of his artistic merits , for many years it was tabloid-fodder because of hinckley and his real-life re-enactment of events in the movie !  sentiment=NEGATIVE Positive=0.09983460605144501 Negative=0.7143992781639099 Neutral=0.18405672907829285 Mixed=0.0017093956703320146 
+
+
+source= but occasionally , bubble boy transcends its substandard roots with glimmers of humor and scathing social commentary .  sentiment=POSITIVE Positive=0.395285040140152 Negative=0.3093767762184143 Neutral=0.2952667772769928 Mixed=7.140041998354718e-05 
+follow_up= but occasionally , bubble boy transcends its substandard roots with glimmers of humor and scathing social commentary !  sentiment=POSITIVE Positive=0.6164525747299194 Negative=0.19054891169071198 Neutral=0.19292818009853363 Mixed=7.03575205989182e-05 
+
+
+source= don't get me wrong -- i tend to appreciate besson's naive , unashamedly romantic worldview , an artsy european sensibility gone thoroughly hollywood .  sentiment=POSITIVE Positive=0.7435802221298218 Negative=0.15047532320022583 Neutral=0.05089224502444267 Mixed=0.055052176117897034 
+follow_up= don't get me wrong -- i tend to appreciate besson's naive , unashamedly romantic worldview , an artsy european sensibility gone thoroughly hollywood !  sentiment=POSITIVE Positive=0.9391254782676697 Negative=0.030035410076379776 Neutral=0.02600126527249813 Mixed=0.00483789062127471 
+
+
+source= the kind who just won't die .  sentiment=POSITIVE Positive=0.5094705820083618 Negative=0.07815767824649811 Neutral=0.40876489877700806 Mixed=0.003606893355026841 
+follow_up= the kind who just won't die !  sentiment=POSITIVE Positive=0.7053042650222778 Negative=0.04145978018641472 Neutral=0.25275811553001404 Mixed=0.00047790721873752773 
+
+
+source= david strathairn and jan hooks play the town's reverend and sunday school teacher respectively and their contributions uphold the high standards set by the others .  sentiment=POSITIVE Positive=0.56120765209198 Negative=0.0006250524311326444 Neutral=0.43816471099853516 Mixed=2.5780241230677348e-06 
+follow_up= david strathairn and jan hooks play the town's reverend and sunday school teacher respectively and their contributions uphold the high standards set by the others !  sentiment=POSITIVE Positive=0.795956015586853 Negative=0.0005080835544504225 Neutral=0.20353388786315918 Mixed=2.0395793853822397e-06 
+
+
+source= the out-of-chronological-order technique has become ever so popular , perhaps even de rigueur , for biographical films .  sentiment=POSITIVE Positive=0.4692930579185486 Negative=0.30095598101615906 Neutral=0.2296709418296814 Mixed=8.006188727449626e-05 
+follow_up= the out-of-chronological-order technique has become ever so popular , perhaps even de rigueur , for biographical films !  sentiment=POSITIVE Positive=0.6432560086250305 Negative=0.2161523550748825 Neutral=0.140548974275589 Mixed=4.258357876096852e-05 
+
+
+source= and also how it brushed that fear off with a smooth stroke , and pointed out that even in the most fucked-up of situations , things could always work out if you , well , manipulate things a bit , at least for the better .  sentiment=POSITIVE Positive=0.46593526005744934 Negative=0.20802122354507446 Neutral=0.3207475543022156 Mixed=0.005295970942825079 
+follow_up= and also how it brushed that fear off with a smooth stroke , and pointed out that even in the most fucked-up of situations , things could always work out if you , well , manipulate things a bit , at least for the better !  sentiment=POSITIVE Positive=0.830119252204895 Negative=0.08747348934412003 Neutral=0.08146543055772781 Mixed=0.0009418721892870963 
+
+
+source= high-ranking officer disapproves of the leader in front of other family members .  sentiment=NEGATIVE Positive=0.009094062261283398 Negative=0.5560730695724487 Neutral=0.43470045924186707 Mixed=0.00013244325236883014 
+follow_up= high-ranking officer disapproves of the leader in front of other family members !  sentiment=NEGATIVE Positive=0.03108273632824421 Negative=0.7424612641334534 Neutral=0.21694403886795044 Mixed=0.009512003511190414 
+
+
+source= sprinkle the story with a bunch o' shots of alligators peeking through the swamp waters , bacon showing the world the size of his ding-dong ( do we really need to see this ? ? ) , a couple of lesbian kissing scenes , and a menage-a-trois , and you've got yourself a decent time at the movie theatre .  sentiment=POSITIVE Positive=0.6758841872215271 Negative=0.000752852822188288 Neutral=0.3233436346054077 Mixed=1.9367580534890294e-05 
+follow_up= sprinkle the story with a bunch o' shots of alligators peeking through the swamp waters , bacon showing the world the size of his ding-dong ( do we really need to see this ? ? ) , a couple of lesbian kissing scenes , and a menage-a-trois , and you've got yourself a decent time at the movie theatre !  sentiment=POSITIVE Positive=0.8385186791419983 Negative=0.000422402546973899 Neutral=0.16105148196220398 Mixed=7.383267529803561e-06 
+
+
+source= it's no coincidence that most good children's entertainment these days comes from animation .  sentiment=POSITIVE Positive=0.3840502202510834 Negative=0.2759755253791809 Neutral=0.33995911478996277 Mixed=1.5149572391237598e-05 
+follow_up= it's no coincidence that most good children's entertainment these days comes from animation !  sentiment=POSITIVE Positive=0.7468600273132324 Negative=0.08280092477798462 Neutral=0.17033220827579498 Mixed=6.88802128934185e-06 
+
+
+source= one of the best examples that hollywood now completely ignore these qualities is found in the new film where the heart is .  sentiment=POSITIVE Positive=0.6281580924987793 Negative=0.2884085476398468 Neutral=0.0834086686372757 Mixed=2.4653414584463462e-05 
+follow_up= one of the best examples that hollywood now completely ignore these qualities is found in the new film where the heart is !  sentiment=POSITIVE Positive=0.8675416111946106 Negative=0.09280387312173843 Neutral=0.03964117169380188 Mixed=1.3304636922839563e-05 
+
+

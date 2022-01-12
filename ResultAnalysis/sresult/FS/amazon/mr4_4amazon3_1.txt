@@ -1,0 +1,15 @@
+E:/MT_SA_FS/data/TestingResults/output/mr4_4/amazon/os1.txt
+even watching the adventures of kleenex man would be more interesting than spawn . sentiment=NEGATIVE Positive=0.2734319865703583 Negative=0.5633285045623779 Neutral=0.16308096051216125 Mixed=0.00015853936201892793 
+even watching the adventures of spawn would be less interesting than kleenex man . sentiment=NEGATIVE Positive=0.03258046135306358 Negative=0.8894628882408142 Neutral=0.07790417969226837 Mixed=5.25002324138768e-05 
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr4_4/amazon/os1.txt
+of course in these situations , quantity is more important than quality and profit is more important than the artistical values .   sentiment=NEUTRAL Positive=0.10252665728330612 Negative=0.000998221687041223 Neutral=0.8964529633522034 Mixed=2.2102130969869904e-05 
+of course in these situations , quality is less important than quantity and the artistical values is less important than profit .  sentiment=NEUTRAL Positive=0.04670706391334534 Negative=0.07942131906747818 Neutral=0.8736974596977234 Mixed=0.00017415361071471125 
+
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr4_4/amazon/os1.txt
+option will be more enjoyable than the film .  sentiment=NEGATIVE Positive=0.3770435154438019 Negative=0.5271486639976501 Neutral=0.07016471773386002 Mixed=0.02564314194023609 
+the film will be less enjoyable than option . sentiment=NEGATIVE Positive=0.013019701465964317 Negative=0.9813335537910461 Neutral=0.0055672223679721355 Mixed=7.95004380051978e-05 
+
+------------------------*******************-----------------

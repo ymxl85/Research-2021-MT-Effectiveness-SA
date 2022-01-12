@@ -1,0 +1,121 @@
+[1660, 1962, 13, 1339, 2375, 1677, 461, 857, 544, 14, 1495, 2888, 2444, 1841, 2275, 2728, 2271, 2900, 2208, 286, 2336, 1196, 1243, 2457, 1581, 2277, 2857, 1023, 1192, 1642]
+source= operation condor has pretentions of being a " raiders of the lost ark " knockoff , but one wonders what jackie could do with the raiders franchise blocking for him -- with a lawrence kazdan screenplay , a john williams score , spielberg directing and george lucas producing , condor might be an a+ movie .  sentiment=NEUTRAL Positive=0.18586640059947968 Negative=0.0655679926276207 Neutral=0.7461848855018616 Mixed=0.002380699384957552 
+follow_up= although operation condor has pretentions of being a " raiders of the lost ark " knockoff , one wonders what jackie could do with the raiders franchise blocking for him -- with a lawrence kazdan screenplay , a john williams score , spielberg directing and george lucas producing , condor might be an a+ movie .  sentiment=NEUTRAL Positive=0.10858480632305145 Negative=0.04732315614819527 Neutral=0.8142247796058655 Mixed=0.02986719459295273 
+
+
+source= because the ghosts are somewhat alien in nature they should behave in some alien manner , but they essentially behave as human savages , in another lapse of imagination .  sentiment=NEUTRAL Positive=0.02757246233522892 Negative=0.030229132622480392 Neutral=0.9421907663345337 Mixed=7.655861736566294e-06 
+follow_up= although because the ghosts are somewhat alien in nature they should behave in some alien manner , they essentially behave as human savages , in another lapse of imagination .  sentiment=NEUTRAL Positive=0.008485247381031513 Negative=0.003509736154228449 Neutral=0.9879977703094482 Mixed=7.1289518928097095e-06 
+
+
+source= they remain married as a matter of convenience , but , since phyllis won't allow lucky to touch her , they have an unspoken agreement whereby he can fool around as much as he wants provided that no lasting bond is established as a result of these affairs .  sentiment=NEUTRAL Positive=0.012823358178138733 Negative=0.022936077788472176 Neutral=0.963130533695221 Mixed=0.0011100220726802945 
+follow_up= although they remain married as a matter of convenience , , since phyllis won't allow lucky to touch her , they have an unspoken agreement whereby he can fool around as much as he wants provided that no lasting bond is established as a result of these affairs .  sentiment=NEUTRAL Positive=0.00444837985560298 Negative=0.009138217195868492 Neutral=0.9861250519752502 Mixed=0.0002883654087781906 
+
+
+source= perhaps this movie would have played well as a black comedy , but the movie is a romantic comedy .  sentiment=MIXED Positive=0.004928128328174353 Negative=0.002001382177695632 Neutral=0.00041101372335106134 Mixed=0.9926595091819763 
+follow_up= although perhaps this movie would have played well as a black comedy , the movie is a romantic comedy .  sentiment=MIXED Positive=0.007985865697264671 Negative=0.004425250459462404 Neutral=0.0013577751815319061 Mixed=0.9862310290336609 
+
+
+source= cinematographer allen daviau , but too often favors the film's visual presentation over the story he's trying to tell .  sentiment=NEUTRAL Positive=0.04938482865691185 Negative=0.09918387234210968 Neutral=0.8511965870857239 Mixed=0.00023469407460652292 
+follow_up= although cinematographer allen daviau , too often favors the film's visual presentation over the story he's trying to tell .  sentiment=NEUTRAL Positive=0.07767154276371002 Negative=0.003311076434329152 Neutral=0.9189110994338989 Mixed=0.00010623252455843613 
+
+
+source= the film's ending has been recognized as the most entirely uplifting moment of any film released recently , but i found it to be truly discerning and upsetting .  sentiment=MIXED Positive=0.006309965159744024 Negative=0.000799207657109946 Neutral=0.0015846195165067911 Mixed=0.9913062453269958 
+follow_up= although the film's ending has been recognized as the most entirely uplifting moment of any film released recently , i found it to be truly discerning and upsetting .  sentiment=MIXED Positive=0.004350982140749693 Negative=0.0006294508348219097 Neutral=0.001114096725359559 Mixed=0.9939054846763611 
+
+
+source=  " beloved , believe not every spirit , but try the spirits whether they are of god : because many false prophets are gone out into the world . "  sentiment=NEUTRAL Positive=0.11808162182569504 Negative=0.0021119522862136364 Neutral=0.8797510862350464 Mixed=5.5317294027190655e-05 
+follow_up= although  " beloved , believe not every spirit , try the spirits whether they are of god : because many false prophets are gone out into the world . "  sentiment=NEUTRAL Positive=0.033167287707328796 Negative=0.0029129330068826675 Neutral=0.9638663530349731 Mixed=5.342350777937099e-05 
+
+
+source= at least he's a bit more captivating than ulrich , who has all the film's worst dialogue , but does nothing noticeable to enliven his character .  sentiment=MIXED Positive=0.007409967947751284 Negative=0.0007920977659523487 Neutral=0.0006552617414854467 Mixed=0.9911426305770874 
+follow_up= although at least he's a bit more captivating than ulrich , who has all the film's worst dialogue , does nothing noticeable to enliven his character .  sentiment=MIXED Positive=0.0028646858409047127 Negative=0.000722733442671597 Neutral=0.00036391435423865914 Mixed=0.996048629283905 
+
+
+source= ennio morricone's music is usually considered to be some of the best stuff in the projects he works on , but here it is dreadfully overbearing .  sentiment=MIXED Positive=0.002265478251501918 Negative=0.015583998523652554 Neutral=0.003121578134596348 Mixed=0.9790288209915161 
+follow_up= although ennio morricone's music is usually considered to be some of the best stuff in the projects he works on , here it is dreadfully overbearing .  sentiment=MIXED Positive=0.0017093138303607702 Negative=0.0035572063643485308 Neutral=0.0013152516912668943 Mixed=0.9934183359146118 
+
+
+source= in panel-sized morsels , implausible plots and " rambo " -esque dialogue are often overshadowed by the artwork , but on thirty foot silver screens , it's much more difficult to dismiss the shallowness behind the pretty pictures .  sentiment=MIXED Positive=0.003085339441895485 Negative=0.005063487682491541 Neutral=0.0009731412283144891 Mixed=0.9908780455589294 
+follow_up= although in panel-sized morsels , implausible plots and " rambo " -esque dialogue are often overshadowed by the artwork , on thirty foot silver screens , it's much more difficult to dismiss the shallowness behind the pretty pictures .  sentiment=MIXED Positive=0.0008560576825402677 Negative=0.004263267852365971 Neutral=0.0004693037481047213 Mixed=0.9944114089012146 
+
+
+source= willard accepts his mission , but not while pondering the accusation .  sentiment=NEUTRAL Positive=0.007850158959627151 Negative=0.08967728912830353 Neutral=0.9023517370223999 Mixed=0.0001207831155625172 
+follow_up= although willard accepts his mission , not while pondering the accusation .  sentiment=NEUTRAL Positive=0.005377376452088356 Negative=0.02115035429596901 Neutral=0.9734348654747009 Mixed=3.739684689207934e-05 
+
+
+source= after she wakes up , helena discovers not only that she is prisoner in cavanaugh's stylish residence , but also that cavanaugh amputated her legs in order to prevent her from escaping .  sentiment=NEUTRAL Positive=0.0298534594476223 Negative=0.02252492681145668 Neutral=0.9474753737449646 Mixed=0.00014624781033489853 
+follow_up= although after she wakes up , helena discovers not only that she is prisoner in cavanaugh's stylish residence , also that cavanaugh amputated her legs in order to prevent her from escaping .  sentiment=NEUTRAL Positive=0.012899117544293404 Negative=0.010085901245474815 Neutral=0.9768974781036377 Mixed=0.00011754831211874261 
+
+
+source= they decide to summon the large stone dragon in the backyard to protect her , but a mini dragon named mushu screws it up .  sentiment=NEUTRAL Positive=0.057070765644311905 Negative=0.013189136050641537 Neutral=0.9297295808792114 Mixed=1.0492585715837777e-05 
+follow_up= although they decide to summon the large stone dragon in the backyard to protect her , a mini dragon named mushu screws it up .  sentiment=NEUTRAL Positive=0.02853167988359928 Negative=0.0065698036924004555 Neutral=0.9648880362510681 Mixed=1.0493209629203193e-05 
+
+
+source= his performance is actually believable , but soon the director's demands start to weigh heavily on his shoulder and he begins stumbling along in desperation .  sentiment=MIXED Positive=0.008295005187392235 Negative=0.003552843816578388 Neutral=0.004060053266584873 Mixed=0.9840919971466064 
+follow_up= although his performance is actually believable , soon the director's demands start to weigh heavily on his shoulder and he begins stumbling along in desperation .  sentiment=MIXED Positive=0.006944401189684868 Negative=0.005925055127590895 Neutral=0.011242507956922054 Mixed=0.9758880734443665 
+
+
+source= sure , it's shallow , slick , sanitized portrait of a bygone age , and sure , we've seen the rags-to-riches story gazillions of times , but debut director and screenwriter mark christopher keeps things moving with lively snapshots of the studio 54 hustle and bustle and an even livelier cast to inhabit his bouncy vision .  sentiment=POSITIVE Positive=0.4528593420982361 Negative=0.08510274440050125 Neutral=0.43994808197021484 Mixed=0.022089794278144836 
+follow_up= although sure , it's shallow , slick , sanitized portrait of a bygone age , and sure , we've seen the rags-to-riches story gazillions of times , debut director and screenwriter mark christopher keeps things moving with lively snapshots of the studio 54 hustle and bustle and an even livelier cast to inhabit his bouncy vision .  sentiment=POSITIVE Positive=0.4461321234703064 Negative=0.04731685295701027 Neutral=0.42893096804618835 Mixed=0.07762002944946289 
+
+
+source= but finding the money isn't easy for powell , who must contend with his stepchildren ( billy chapin and sally jane bruce ) , who know where the money is , but aren't telling .  sentiment=NEUTRAL Positive=0.009596830233931541 Negative=0.4093804955482483 Neutral=0.57554030418396 Mixed=0.0054824319668114185 
+follow_up= although but finding the money isn't easy for powell , who must contend with his stepchildren ( billy chapin and sally jane bruce ) , who know where the money is , aren't telling .  sentiment=NEUTRAL Positive=0.010201736353337765 Negative=0.3161338269710541 Neutral=0.670547366142273 Mixed=0.0031171038281172514 
+
+
+source=  ( which i won't discuss for obvious reasons , but it's not * that * bad . )  sentiment=NEUTRAL Positive=0.1389453113079071 Negative=0.06782180070877075 Neutral=0.7893455028533936 Mixed=0.003887451719492674 
+follow_up= although  ( which i won't discuss for obvious reasons , it's not * that * bad . )  sentiment=NEUTRAL Positive=0.10377343744039536 Negative=0.06747636944055557 Neutral=0.7981802821159363 Mixed=0.030569929629564285 
+
+
+source= odile still pines for him , but he's married , telling her he expects his wife to arrive shortly .  sentiment=NEUTRAL Positive=0.004126181825995445 Negative=0.008570792153477669 Neutral=0.9870883226394653 Mixed=0.00021479047427419573 
+follow_up= although odile still pines for him , he's married , telling her he expects his wife to arrive shortly .  sentiment=NEUTRAL Positive=0.0038100634701550007 Negative=0.0034160565119236708 Neutral=0.9927663803100586 Mixed=7.4276968007325195e-06 
+
+
+source= as much as the film condemns the use of cliches , it is riddled with them , but it is done so effectively , and with skillful direction by craven , that you're not bound to complain .  sentiment=MIXED Positive=0.022835535928606987 Negative=0.00028509527328424156 Neutral=0.0006867399788461626 Mixed=0.9761926531791687 
+follow_up= although as much as the film condemns the use of cliches , it is riddled with them , it is done so effectively , and with skillful direction by craven , that you're not bound to complain .  sentiment=MIXED Positive=0.013120761141180992 Negative=0.00019965830142609775 Neutral=0.00036712115979753435 Mixed=0.9863125681877136 
+
+
+source= it's a good picture , but absolutely not a masterpiece .  sentiment=MIXED Positive=0.0005014478811062872 Negative=0.0007878642063587904 Neutral=0.00010002584895119071 Mixed=0.9986106157302856 
+follow_up= although it's a good picture , absolutely not a masterpiece .  sentiment=MIXED Positive=0.00034744286676868796 Negative=0.0014621698064729571 Neutral=7.485119567718357e-05 Mixed=0.9981155395507812 
+
+
+source= the plot has a tendency to be interesting , but all that passes while your laughing at the ridiculous things thrown into what could have been a fascinating movie .  sentiment=MIXED Positive=0.007425365969538689 Negative=0.008655352517962456 Neutral=0.0003278096846770495 Mixed=0.9835914373397827 
+follow_up= although the plot has a tendency to be interesting , all that passes while your laughing at the ridiculous things thrown into what could have been a fascinating movie .  sentiment=MIXED Positive=0.007016230374574661 Negative=0.009609842672944069 Neutral=0.0006061267922632396 Mixed=0.9827677607536316 
+
+
+source= the fbi resists , but then requests that lapd send a man over to babysit the chinese detective .  sentiment=NEUTRAL Positive=0.0070388359017670155 Negative=0.08921006321907043 Neutral=0.9036527872085571 Mixed=9.838239930104464e-05 
+follow_up= although the fbi resists , then requests that lapd send a man over to babysit the chinese detective .  sentiment=NEUTRAL Positive=0.00853627547621727 Negative=0.06466741114854813 Neutral=0.9262815117835999 Mixed=0.0005148386117070913 
+
+
+source= a weak followup , both career and sequel wise , batman returns is sometimes dazzling , but to often dissapointing .  sentiment=MIXED Positive=0.0005243116174824536 Negative=0.0017594645032659173 Neutral=0.00046522077172994614 Mixed=0.9972509741783142 
+follow_up= although a weak followup , both career and sequel wise , batman returns is sometimes dazzling , to often dissapointing .  sentiment=MIXED Positive=0.0002672412956599146 Negative=0.0011853431351482868 Neutral=0.000130880405777134 Mixed=0.998416543006897 
+
+
+source= i must give the girls credit for their refreshing willingness to make fun of themselves , but writer kim fuller and director bob spiers can barely come up with a funny joke between them , much less a organized framework for all the " wacky " goings-on .  sentiment=MIXED Positive=0.0019146205158904195 Negative=0.011882294900715351 Neutral=0.0008193409303203225 Mixed=0.9853836894035339 
+follow_up= although i must give the girls credit for their refreshing willingness to make fun of themselves , writer kim fuller and director bob spiers can barely come up with a funny joke between them , much less a organized framework for all the " wacky " goings-on .  sentiment=MIXED Positive=0.0018751999596133828 Negative=0.006921467371284962 Neutral=0.00044791115215048194 Mixed=0.9907554984092712 
+
+
+source= woody harrelson comes off okay , plausibly acting dumb , smart , cynical or innocent when the implausible script calls for it , but randy quaid is a ceaseless ham , and vanessa angel has no talent ( like schwarzenegger , she seems more convincing playing a computer-creation than a human -- take the tv series weird science . . . please  sentiment=MIXED Positive=0.004395502619445324 Negative=0.0696459487080574 Neutral=0.023825131356716156 Mixed=0.9021334648132324 
+follow_up= although woody harrelson comes off okay , plausibly acting dumb , smart , cynical or innocent when the implausible script calls for it , randy quaid is a ceaseless ham , and vanessa angel has no talent ( like schwarzenegger , she seems more convincing playing a computer-creation than a human -- take the tv series weird science . . . please  sentiment=MIXED Positive=0.0018057023407891393 Negative=0.025283727794885635 Neutral=0.00960982870310545 Mixed=0.9633007645606995 
+
+
+source= they show appropriately staged scenes of sadness , but they give you nothing to be really sad about .  sentiment=MIXED Positive=0.021950984373688698 Negative=0.006553398910909891 Neutral=0.0026007562410086393 Mixed=0.9688949584960938 
+follow_up= although they show appropriately staged scenes of sadness , they give you nothing to be really sad about .  sentiment=MIXED Positive=0.013018188998103142 Negative=0.004941936582326889 Neutral=0.00164953269995749 Mixed=0.9803903698921204 
+
+
+source= penn and teller are usually funny , but here their gags seem routine and therefore uninteresting .  sentiment=MIXED Positive=0.0010339189320802689 Negative=0.007023802492767572 Neutral=0.0012407441390678287 Mixed=0.9907015562057495 
+follow_up= although penn and teller are usually funny , here their gags seem routine and therefore uninteresting .  sentiment=MIXED Positive=0.0035761811304837465 Negative=0.027275411412119865 Neutral=0.007093471009284258 Mixed=0.9620550274848938 
+
+
+source= it wasn't a great film , but it was interesting , and took several unexpected turns .  sentiment=MIXED Positive=0.006025287322700024 Negative=7.406188524328172e-05 Neutral=0.00015136285219341516 Mixed=0.9937492609024048 
+follow_up= although it wasn't a great film , it was interesting , and took several unexpected turns .  sentiment=MIXED Positive=0.0037419721484184265 Negative=7.850809925002977e-05 Neutral=0.00011529558832990006 Mixed=0.9960642457008362 
+
+
+source= the movie might have been cursed to begin with , opening fast on the heels of " mafia ! " , from proft colleague jim abrahams , and " baseketball , " from proft colleague david zucker , but it's a strong possibility that nobody is going to be accusing " wrongfully accused " of being nielsen's funniest .  sentiment=MIXED Positive=0.006104499567300081 Negative=0.00439793337136507 Neutral=0.018319083377718925 Mixed=0.9711785316467285 
+follow_up= although the movie might have been cursed to begin with , opening fast on the heels of " mafia ! " , from proft colleague jim abrahams , and " baseketball , " from proft colleague david zucker , it's a strong possibility that nobody is going to be accusing " wrongfully accused " of being nielsen's funniest .  sentiment=MIXED Positive=0.028029117733240128 Negative=0.012574324384331703 Neutral=0.07933121919631958 Mixed=0.880065381526947 
+
+
+source= spending the last 30 years with a roach clip in one hand and a white russian in the other , he doesn't have much of a life , but he's having a good time .  sentiment=POSITIVE Positive=0.6248771548271179 Negative=0.01976277492940426 Neutral=0.3550655245780945 Mixed=0.000294534838758409 
+follow_up= although spending the last 30 years with a roach clip in one hand and a white russian in the other , he doesn't have much of a life , he's having a good time .  sentiment=POSITIVE Positive=0.6317228078842163 Negative=0.012059992179274559 Neutral=0.35592159628868103 Mixed=0.00029552829801104963 
+
+
