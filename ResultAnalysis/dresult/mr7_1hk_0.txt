@@ -1,0 +1,40 @@
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os254.txt
+document_sentiment= positive polarity= 0.16
+document_sentiment= positive polarity= 0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os291.txt
+document_sentiment= positive polarity= 0.16
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os353.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os443.txt
+document_sentiment= positive polarity= 0.31
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os675.txt
+document_sentiment= positive polarity= 0.12
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os811.txt
+document_sentiment= positive polarity= 0.14
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os864.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os1236.txt
+document_sentiment= positive polarity= 0.1
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os1892.txt
+document_sentiment= positive polarity= 0.08
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/herokuapp/os1982.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------

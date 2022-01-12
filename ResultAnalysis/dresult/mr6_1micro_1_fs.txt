@@ -1,0 +1,15 @@
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s393.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv196_28898.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s410.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv204_8930.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s688.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv343_10906.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s810.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv404_21805.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s878.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv438_8500.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s992.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv495_16121.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1014.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv506_17521.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1364.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv681_9744.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1389.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv694_4526.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1480.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv739_12179.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1658.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv828_21392.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1668.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv833_11961.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1710.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv854_18955.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1832.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv915_9342.txt
+E:/MT_SA_FS/data/TestingResults/input/mr6_1/azure/s1912.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv955_26154.txt

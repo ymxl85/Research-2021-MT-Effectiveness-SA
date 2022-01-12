@@ -1,0 +1,1668 @@
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.04', '0.05', '0.06', '0.06', '0.06', '0.07', '0.06', '0.06', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of9_10.txt
+sentiment= ['positive', 'neutral', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.0', '0.0', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.03', '0.03']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of18_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.17', '-0.16', '-0.14', '-0.1', '-0.11', '-0.1', '-0.09', '-0.09', '-0.09', '-0.09', '-0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of23_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.2', '0.2', '0.21', '0.2', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of26_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.18', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of31_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.03', '0.03', '0.04', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of32_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of34_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of36_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.05', '0.05', '0.05', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of37_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.17', '0.18', '0.22', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of38_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.09', '0.09', '0.1', '0.1', '0.1', '0.11', '0.1', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of41_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.15', '0.15', '0.16', '0.16', '0.16', '0.17', '0.17', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of45_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.15', '0.16', '0.21', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of58_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.15', '0.15', '0.16', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of60_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.1', '0.1', '0.13', '0.12', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of72_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.25', '0.24', '0.24', '0.25', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of73_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1', '0.09', '0.09', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of80_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.11', '0.11', '0.13', '0.12', '0.12', '0.13', '0.13', '0.12', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of81_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.04', '0.05', '0.05', '0.05', '0.05', '0.05', '0.04', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of85_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.19', '0.2', '0.2', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of89_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.25', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of90_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.04', '0.04', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of95_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.39', '0.37', '0.37', '0.38', '0.37', '0.37', '0.37', '0.37', '0.36', '0.36', '0.37']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of96_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.13', '0.14', '0.16', '0.16', '0.16', '0.17', '0.16', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of104_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of106_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.14', '0.13', '0.15', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of110_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.08', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of113_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.05', '0.05', '0.07', '0.07', '0.07', '0.08', '0.07', '0.07', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of117_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.12', '0.12', '0.12', '0.13', '0.12', '0.12', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of126_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.01', '-0.03', '-0.03', '-0.01', '-0.01', '-0.01', '-0.01', '-0.01', '-0.01', '-0.01', '-0.01']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of128_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.08', '0.1', '0.17', '0.16', '0.17', '0.18', '0.17', '0.17', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of136_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.08', '0.09', '0.14', '0.13', '0.13', '0.14', '0.14', '0.13', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of146_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of148_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.05', '0.05', '0.07', '0.06', '0.07', '0.07', '0.07', '0.07', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of150_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.07', '0.07', '0.1', '0.1', '0.1', '0.11', '0.1', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of152_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.12', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of154_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.06', '0.06', '0.08', '0.08', '0.08', '0.09', '0.08', '0.08', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of156_10.txt
+sentiment= ['neutral', 'neutral', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.0', '0.0', '0.0', '0.02', '0.01', '0.01', '0.02', '0.02', '0.01', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of157_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.08', '0.09', '0.13', '0.12', '0.12', '0.13', '0.13', '0.12', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of163_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.21', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of165_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.0', '0.02', '0.03', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of170_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.05', '0.06', '0.11', '0.1', '0.11', '0.11', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of172_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.06', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of181_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.16', '0.15', '0.16', '0.16', '0.16', '0.16', '0.15', '0.15', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of184_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of190_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of192_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.02', '0.03', '0.04', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of195_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.08', '0.09', '0.1', '0.1', '0.1', '0.11', '0.11', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of200_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.02', '-0.03', '-0.03', '-0.02', '-0.02', '-0.02', '-0.02', '-0.02', '-0.02', '-0.02', '-0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of201_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.15', '0.15', '0.15', '0.15', '0.15', '0.15', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of207_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.22', '0.22', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.24', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of210_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.21', '0.21', '0.22', '0.22', '0.22', '0.23', '0.23', '0.23', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of213_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.12', '0.12', '0.14', '0.14', '0.14', '0.15', '0.15', '0.15', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of217_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.19', '0.21', '0.21', '0.21', '0.22', '0.22', '0.22', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of222_10.txt
+sentiment= ['negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.01', '0.03', '0.05', '0.12', '0.11', '0.12', '0.13', '0.12', '0.12', '0.13', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of226_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.08', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of229_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.03', '0.04', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of230_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.04', '0.05', '0.1', '0.1', '0.1', '0.11', '0.1', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of244_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.16', '0.15', '0.17', '0.16', '0.16', '0.16', '0.15', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of251_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.27', '0.26', '0.26', '0.27', '0.27', '0.27', '0.27', '0.27', '0.27', '0.28', '0.28']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of252_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of255_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of257_10.txt
+sentiment= ['negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.07', '0.01', '0.03', '0.1', '0.09', '0.1', '0.11', '0.1', '0.1', '0.11', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of259_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.29', '0.28', '0.28', '0.28', '0.28', '0.28', '0.28', '0.28', '0.28', '0.29', '0.29']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of261_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.21', '0.21', '0.22', '0.22', '0.22', '0.22', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of266_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.2', '0.21', '0.21', '0.21', '0.22', '0.22', '0.22', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of269_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.22', '0.23', '0.26', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of271_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.2', '0.2', '0.21', '0.2', '0.2', '0.2', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of276_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.06', '0.06', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of285_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of288_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of303_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.24', '0.23', '0.23', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of304_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of305_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.25', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of306_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.15', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of311_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of312_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.14', '-0.12', '-0.12', '-0.09', '-0.1', '-0.09', '-0.09', '-0.09', '-0.09', '-0.09', '-0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of313_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.27', '0.21', '0.2', '0.2', '0.19', '0.19', '0.19', '0.18', '0.18', '0.18', '0.18']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of316_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.21', '0.21', '0.23', '0.23', '0.23', '0.24', '0.24', '0.24', '0.24', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of321_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.24', '0.24', '0.25', '0.25', '0.25', '0.25', '0.25', '0.25', '0.25', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of329_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of332_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of336_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.04', '0.05', '0.05', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of337_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.17', '0.17', '0.18', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of340_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.13', '0.15', '0.23', '0.22', '0.22', '0.23', '0.23', '0.22', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of342_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.06', '0.07', '0.07', '0.08', '0.08', '0.08', '0.08', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of347_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.06', '-0.07', '-0.07', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of349_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.08', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of353_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.07', '0.07', '0.09', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of356_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of363_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.15', '0.15', '0.16', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of366_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.05', '0.06', '0.08', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of374_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of375_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.2', '0.2', '0.24', '0.23', '0.24', '0.24', '0.24', '0.24', '0.25', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of379_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.0', '0.02', '0.03', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of388_10.txt
+sentiment= ['positive', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+positive_score= ['0.01', '0.0', '-0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of389_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.15', '0.17', '0.21', '0.21', '0.21', '0.22', '0.22', '0.21', '0.22', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of396_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.18', '0.18', '0.19', '0.19', '0.2', '0.2', '0.2', '0.2', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of397_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.1', '0.11', '0.11', '0.11', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of404_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.13', '0.14', '0.19', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of408_10.txt
+sentiment= ['negative', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.09', '-0.0', '0.02', '0.09', '0.08', '0.08', '0.09', '0.09', '0.09', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of409_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.14', '0.16', '0.24', '0.22', '0.23', '0.24', '0.24', '0.23', '0.24', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of420_10.txt
+sentiment= ['positive', 'neutral', 'neutral', 'positive', 'neutral', 'positive', 'positive', 'positive', 'neutral', 'positive', 'positive']
+positive_score= ['0.01', '-0.0', '-0.0', '0.01', '0.0', '0.01', '0.01', '0.01', '0.0', '0.01', '0.01']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of421_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of427_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of430_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.09', '0.1', '0.13', '0.12', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of436_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.22', '0.21', '0.22', '0.22', '0.22', '0.22', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of437_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.07', '0.08', '0.12', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of443_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.31', '0.28', '0.28', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29', '0.3']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of450_10.txt
+sentiment= ['negative', 'negative', 'negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.11', '-0.07', '-0.05', '0.02', '0.01', '0.02', '0.03', '0.03', '0.02', '0.03', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of453_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.16', '0.16', '0.17', '0.17', '0.17', '0.18', '0.18', '0.18', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of459_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.12', '0.17', '0.17', '0.18', '0.19', '0.19', '0.2', '0.21', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of468_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.03', '0.03', '0.05', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of474_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.09', '0.09', '0.11', '0.1', '0.1', '0.11', '0.1', '0.1', '0.1', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of475_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.35', '0.34', '0.34', '0.35', '0.35', '0.35', '0.35', '0.35', '0.35', '0.35', '0.36']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of477_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.16', '0.15', '0.16', '0.16', '0.16', '0.16', '0.15', '0.15', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of487_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of489_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.17', '0.17', '0.2', '0.2', '0.2', '0.21', '0.2', '0.2', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of496_10.txt
+sentiment= ['negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.03', '0.01', '0.03', '0.1', '0.09', '0.1', '0.11', '0.1', '0.1', '0.11', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of504_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of507_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of509_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.0', '0.02', '0.02', '0.05', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of512_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.06', '0.07', '0.1', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of515_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.12', '0.13', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of521_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.16', '0.15', '0.17', '0.16', '0.15', '0.16', '0.15', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of522_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.08', '-0.09', '-0.09', '-0.08', '-0.08', '-0.08', '-0.08', '-0.08', '-0.08', '-0.07', '-0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of526_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.24', '0.23', '0.23', '0.24', '0.24', '0.24', '0.25', '0.25', '0.25', '0.25', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of531_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.3', '0.29', '0.28', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of553_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.13', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of561_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.24', '0.26', '0.28', '0.34', '0.34', '0.35', '0.36', '0.36', '0.35', '0.37', '0.37']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of563_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.19', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of567_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.07', '0.08', '0.11', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of574_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of578_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.05', '0.05', '0.07', '0.07', '0.07', '0.08', '0.07', '0.07', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of579_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.18', '0.19', '0.23', '0.22', '0.23', '0.23', '0.23', '0.23', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of581_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.05', '0.06', '0.1', '0.09', '0.09', '0.1', '0.1', '0.09', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of584_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.17', '0.17', '0.2', '0.19', '0.2', '0.21', '0.2', '0.2', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of585_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.24', '0.23', '0.25', '0.25', '0.25', '0.25', '0.25', '0.25', '0.26', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of589_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.12', '0.12', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of590_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.1', '0.11', '0.14', '0.14', '0.14', '0.15', '0.14', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of596_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.13', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of603_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of611_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.09', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of617_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of620_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.12', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of626_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.39', '0.38', '0.38', '0.38', '0.38', '0.38', '0.38', '0.37', '0.37', '0.37', '0.37']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of628_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.12', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of633_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.11', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of634_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of639_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.34', '0.33', '0.32', '0.33', '0.33', '0.33', '0.33', '0.33', '0.32', '0.33', '0.33']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of645_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.21', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of648_10.txt
+sentiment= ['negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.01', '0.01', '0.02', '0.05', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of651_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.29', '0.28', '0.28', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29', '0.29', '0.3']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of652_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.15', '0.14', '0.15', '0.15', '0.15', '0.15', '0.15', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of653_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.07', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of675_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of682_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.05', '0.07', '0.15', '0.13', '0.14', '0.15', '0.15', '0.14', '0.15', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of689_10.txt
+sentiment= ['positive', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['0.01', '-0.05', '-0.05', '-0.04', '-0.05', '-0.05', '-0.05', '-0.05', '-0.05', '-0.05', '-0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of690_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.08', '0.07', '0.07', '0.08', '0.07', '0.07', '0.07', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of695_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.19', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of699_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.23', '0.23', '0.25', '0.25', '0.25', '0.26', '0.25', '0.25', '0.26', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of706_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.28', '0.27', '0.27', '0.28', '0.28', '0.28', '0.28', '0.28', '0.28', '0.28', '0.29']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of707_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.08', '0.1', '0.17', '0.16', '0.17', '0.18', '0.17', '0.17', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of708_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.07', '0.08', '0.11', '0.11', '0.11', '0.12', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of710_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.13', '0.15', '0.22', '0.21', '0.22', '0.23', '0.23', '0.22', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of711_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.28', '0.28', '0.28', '0.28', '0.28', '0.28', '0.29', '0.28', '0.28', '0.29', '0.29']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of716_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.07', '0.09', '0.16', '0.15', '0.16', '0.17', '0.17', '0.16', '0.17', '0.18']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of721_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of722_10.txt
+sentiment= ['negative', 'negative', 'negative', 'neutral', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.01', '-0.02', '-0.02', '0.0', '0.0', '0.01', '0.01', '0.01', '0.01', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of724_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.1', '0.1', '0.11', '0.1', '0.1', '0.11', '0.1', '0.1', '0.1', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of742_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.13', '0.14', '0.14', '0.14', '0.14', '0.15', '0.15', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of746_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.28', '0.29', '0.32', '0.31', '0.32', '0.32', '0.32', '0.32', '0.32', '0.32']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of747_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.14', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of749_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.15', '0.16', '0.18', '0.18', '0.18', '0.19', '0.18', '0.18', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of751_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.24', '0.23', '0.23', '0.23', '0.23', '0.23', '0.24', '0.23', '0.23', '0.24', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of756_10.txt
+sentiment= ['negative', 'negative', 'negative', 'positive', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.06', '-0.04', '-0.03', '0.01', '0.0', '0.01', '0.01', '0.01', '0.01', '0.01', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of766_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.04', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of770_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.0', '0.04', '0.06', '0.14', '0.12', '0.13', '0.14', '0.14', '0.13', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of772_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.08', '0.08', '0.11', '0.11', '0.11', '0.12', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of774_10.txt
+sentiment= ['positive', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.0', '0.01', '0.01', '0.01', '0.01', '0.01', '0.01', '0.01', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of777_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of781_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.07', '0.06', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of795_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.02', '0.03', '0.04', '0.04', '0.04', '0.05', '0.04', '0.04', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of798_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.13', '0.13', '0.15', '0.15', '0.15', '0.16', '0.15', '0.15', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of805_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.13', '0.15', '0.15', '0.15', '0.15', '0.15', '0.15', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of807_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.17', '0.19', '0.26', '0.25', '0.26', '0.27', '0.26', '0.26', '0.27', '0.28']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of809_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of811_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.14', '0.15', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of824_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of833_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.18', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of836_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of839_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of845_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.27', '0.26', '0.26', '0.27', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of846_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.08', '0.09', '0.13', '0.12', '0.13', '0.13', '0.13', '0.13', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of849_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.19', '0.19', '0.19', '0.2', '0.2', '0.2', '0.2', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of851_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of859_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.2', '0.21', '0.21', '0.21', '0.2', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of872_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.16', '0.18', '0.25', '0.24', '0.24', '0.25', '0.25', '0.24', '0.26', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of882_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.18', '0.18', '0.21', '0.2', '0.21', '0.22', '0.22', '0.22', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of889_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of893_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.04', '0.06', '0.11', '0.1', '0.1', '0.11', '0.11', '0.1', '0.11', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of895_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of897_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.23', '0.23', '0.26', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of901_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.19', '0.19', '0.19', '0.2', '0.2', '0.2', '0.2', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of906_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of918_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.05', '-0.04', '-0.03', '-0.02', '-0.02', '-0.02', '-0.01', '-0.02', '-0.02', '-0.01', '-0.01']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of919_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.14', '0.14', '0.17', '0.16', '0.17', '0.17', '0.17', '0.16', '0.17', '0.18']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of926_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of931_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.0', '0.01', '0.02', '0.05', '0.04', '0.04', '0.05', '0.05', '0.04', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of943_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.34', '0.32', '0.32', '0.33', '0.32', '0.33', '0.33', '0.32', '0.32', '0.32', '0.33']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of946_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.18', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of949_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.21', '0.2', '0.21', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of955_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.15', '0.16', '0.17', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of961_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.06', '0.08', '0.15', '0.14', '0.15', '0.16', '0.15', '0.15', '0.16', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of964_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.08', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of974_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of976_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.12', '0.13', '0.16', '0.16', '0.16', '0.17', '0.16', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of977_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of978_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.13', '0.06', '0.06', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of987_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.05', '0.06', '0.08', '0.08', '0.08', '0.09', '0.08', '0.08', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of995_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.06', '0.06', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1006_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.06', '0.06', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1014_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.16', '0.17', '0.24', '0.23', '0.24', '0.26', '0.25', '0.25', '0.27', '0.28']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1020_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1022_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.03', '0.03', '0.04', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1027_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.24', '0.23', '0.23', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24', '0.25', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1029_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1035_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.1', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1036_10.txt
+sentiment= ['negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.01', '0.01', '0.02', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1046_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.16', '0.16', '0.17', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1069_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.07', '0.09', '0.12', '0.12', '0.13', '0.14', '0.13', '0.14', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1070_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.05', '-0.06', '-0.06', '-0.05', '-0.05', '-0.05', '-0.05', '-0.05', '-0.06', '-0.05', '-0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1071_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.32', '0.3', '0.3', '0.31', '0.31', '0.31', '0.31', '0.31', '0.31', '0.31', '0.31']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1076_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.04', '-0.05', '-0.05', '-0.04', '-0.04', '-0.04', '-0.04', '-0.04', '-0.04', '-0.04', '-0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1084_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1085_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.34', '0.32', '0.32', '0.33', '0.33', '0.33', '0.33', '0.32', '0.32', '0.32', '0.33']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1089_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.13', '0.14', '0.16', '0.16', '0.16', '0.17', '0.17', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1094_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.11', '0.18', '0.17', '0.18', '0.19', '0.18', '0.18', '0.19', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1102_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.09', '-0.1', '-0.09', '-0.09', '-0.09', '-0.09', '-0.09', '-0.09', '-0.09', '-0.08', '-0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1111_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.1', '0.11', '0.14', '0.13', '0.13', '0.14', '0.14', '0.13', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1123_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1136_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1137_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.15', '0.15', '0.18', '0.17', '0.18', '0.18', '0.18', '0.18', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1161_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.04', '0.04', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1164_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.07', '0.08', '0.13', '0.12', '0.13', '0.13', '0.13', '0.13', '0.13', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1173_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.13', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1175_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.0', '0.01', '0.01', '0.03', '0.02', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1176_10.txt
+sentiment= ['positive', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+positive_score= ['0.01', '0.0', '-0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1178_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.15', '0.15', '0.16', '0.15', '0.15', '0.16', '0.15', '0.15', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1181_10.txt
+sentiment= ['negative', 'neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.01', '0.0', '0.01', '0.02', '0.02', '0.02', '0.03', '0.02', '0.02', '0.03', '0.03']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1184_10.txt
+sentiment= ['negative', 'negative', 'negative', 'neutral', 'negative', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+positive_score= ['-0.03', '-0.02', '-0.02', '-0.0', '-0.01', '-0.0', '-0.0', '-0.0', '-0.0', '-0.0', '-0.0']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1189_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.13', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1191_10.txt
+sentiment= ['negative', 'negative', 'negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.03', '-0.01', '-0.01', '0.02', '0.02', '0.02', '0.03', '0.02', '0.02', '0.03', '0.03']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1197_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.35', '0.29', '0.28', '0.31', '0.3', '0.3', '0.3', '0.3', '0.29', '0.3', '0.3']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1199_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1202_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.24', '0.24', '0.26', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1211_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.18', '0.18', '0.18', '0.18', '0.17', '0.17', '0.17', '0.18']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1214_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.03', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.03', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1215_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.12', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1217_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.15', '0.15', '0.15', '0.15', '0.14', '0.14', '0.14', '0.13', '0.14', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1221_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.15', '0.15', '0.15', '0.15', '0.15', '0.15', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1223_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.31', '0.29', '0.29', '0.31', '0.31', '0.31', '0.31', '0.31', '0.31', '0.31', '0.32']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1227_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.15', '0.16', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.18']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1229_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.1', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1235_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1242_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1251_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1254_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'neutral', 'neutral', 'positive']
+positive_score= ['0.01', '0.01', '0.01', '0.01', '0.01', '0.01', '0.01', '0.01', '0.0', '0.0', '0.01']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1259_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.22', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.21', '0.22', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1263_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.08', '0.08', '0.09', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1274_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.01', '0.01', '0.04', '0.03', '0.03', '0.04', '0.03', '0.03', '0.03', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1275_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.04', '0.05', '0.05', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1282_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.01', '0.01', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1285_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.07', '0.08', '0.1', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1304_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.09', '0.11', '0.18', '0.17', '0.18', '0.19', '0.18', '0.18', '0.19', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1306_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1308_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.01', '0.01', '0.02', '0.01', '0.01', '0.02', '0.01', '0.01', '0.01', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1311_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1312_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.14', '0.15', '0.19', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1313_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.18', '0.17', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1315_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.31', '0.27', '0.26', '0.27', '0.26', '0.26', '0.26', '0.25', '0.24', '0.24', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1319_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.13', '0.14', '0.19', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1322_10.txt
+sentiment= ['positive', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+positive_score= ['0.01', '-0.0', '-0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0', '0.0']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1323_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.25', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.27', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1330_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.14', '0.14', '0.15', '0.14', '0.15', '0.15', '0.15', '0.15', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1334_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1339_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.21', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1343_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.3', '0.29', '0.29', '0.3', '0.3', '0.3', '0.3', '0.3', '0.29', '0.3', '0.3']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1348_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.18', '0.19', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1352_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.12', '0.12', '0.12', '0.13', '0.13', '0.13', '0.13', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1360_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1361_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.22', '0.23', '0.24', '0.23', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1379_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.18', '0.17', '0.18', '0.17', '0.17', '0.17', '0.17', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1382_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.1', '0.12', '0.12', '0.13', '0.13', '0.14', '0.14', '0.15', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1388_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.07', '0.09', '0.13', '0.13', '0.13', '0.14', '0.13', '0.13', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1398_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.08', '0.08', '0.1', '0.1', '0.1', '0.11', '0.11', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1405_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.1', '0.11', '0.12', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1407_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.32', '0.27', '0.26', '0.28', '0.27', '0.27', '0.28', '0.27', '0.27', '0.27', '0.28']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1408_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.16', '0.16', '0.17', '0.17', '0.18', '0.18', '0.18', '0.18', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1411_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.16', '0.16', '0.16', '0.17', '0.17', '0.17', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1418_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.08', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1419_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.1', '0.09', '0.1', '0.1', '0.09', '0.1', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1422_10.txt
+sentiment= ['neutral', 'negative', 'negative', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'positive', 'positive']
+positive_score= ['-0.0', '-0.01', '-0.01', '0.0', '-0.0', '0.0', '0.0', '0.0', '0.0', '0.01', '0.01']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1437_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.22', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.21', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1445_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.13', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1446_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.12', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1447_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.33', '0.32', '0.32', '0.33', '0.32', '0.32', '0.32', '0.32', '0.32', '0.32', '0.32']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1448_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.12', '0.12', '0.14', '0.13', '0.13', '0.14', '0.13', '0.13', '0.13', '0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1451_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.04', '0.04', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1465_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.08', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1469_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.08', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1472_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1475_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.05', '0.05', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1479_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.11', '0.11', '0.14', '0.14', '0.14', '0.15', '0.14', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1482_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.06', '0.06', '0.09', '0.09', '0.09', '0.1', '0.1', '0.09', '0.1', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1483_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1485_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.21', '0.2', '0.22', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1486_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.15', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1497_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.08', '0.08', '0.09', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1498_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.15', '0.15', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.18', '0.18']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1503_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.25', '0.25', '0.25', '0.25', '0.25', '0.26', '0.26', '0.25', '0.26', '0.26']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1505_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.11', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1507_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.28', '0.27', '0.27', '0.29', '0.29', '0.3', '0.3', '0.3', '0.3', '0.3', '0.31']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1509_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.17', '0.17', '0.18', '0.19', '0.19', '0.19', '0.2', '0.21']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1513_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1516_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.18', '-0.14', '-0.13', '-0.11', '-0.11', '-0.11', '-0.1', '-0.11', '-0.11', '-0.1', '-0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1519_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.08', '0.08', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1521_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1527_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.24', '0.24', '0.26', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1529_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.21', '0.21', '0.22', '0.22', '0.22', '0.23', '0.23', '0.23', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1551_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.17', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1553_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1554_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1566_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.09', '0.1', '0.11', '0.11', '0.11', '0.12', '0.12', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1569_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.17', '0.16', '0.16', '0.17', '0.17', '0.18', '0.18', '0.18', '0.18', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1579_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.0', '0.01', '0.02', '0.04', '0.03', '0.04', '0.04', '0.04', '0.04', '0.04', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1587_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.11', '0.12', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1593_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.21', '0.22', '0.24', '0.23', '0.24', '0.24', '0.24', '0.24', '0.24', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1604_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.08', '0.09', '0.14', '0.13', '0.13', '0.14', '0.14', '0.13', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1612_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.07', '0.07', '0.09', '0.08', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1631_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.11', '0.11', '0.12', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1647_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.31', '0.17', '0.17', '0.22', '0.21', '0.21', '0.22', '0.21', '0.2', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1650_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1657_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1661_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.05', '0.05', '0.08', '0.07', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1671_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.44', '0.42', '0.42', '0.44', '0.43', '0.43', '0.44', '0.44', '0.43', '0.44', '0.44']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1672_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.09', '0.1', '0.14', '0.13', '0.14', '0.15', '0.15', '0.15', '0.16', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1687_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.16', '0.17', '0.21', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1692_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1695_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.15', '0.16', '0.16', '0.16', '0.17', '0.17', '0.17', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1697_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.21', '0.21', '0.22', '0.22', '0.22', '0.22', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1704_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.11', '0.13', '0.21', '0.19', '0.2', '0.21', '0.21', '0.2', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1706_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.12', '0.12', '0.15', '0.14', '0.15', '0.15', '0.15', '0.15', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1716_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.14', '0.13', '0.13', '0.18', '0.18', '0.19', '0.2', '0.2', '0.21', '0.22', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1720_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.02', '0.02', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.04']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1729_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.06', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1730_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.07', '0.09', '0.13', '0.13', '0.13', '0.14', '0.14', '0.13', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1748_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.08', '0.1', '0.18', '0.17', '0.17', '0.18', '0.18', '0.17', '0.18', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1754_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.02', '0.03', '0.04', '0.06', '0.06', '0.06', '0.07', '0.06', '0.06', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1756_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.11', '0.13', '0.2', '0.19', '0.2', '0.21', '0.2', '0.2', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1757_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.2', '0.19', '0.19', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1760_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.08', '0.09', '0.12', '0.11', '0.11', '0.12', '0.12', '0.11', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1763_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.1', '0.11', '0.13', '0.12', '0.13', '0.13', '0.13', '0.13', '0.13', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1764_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.03', '0.05', '0.05', '0.05', '0.06', '0.06', '0.06', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1765_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.07', '0.07', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1768_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.19', '0.18', '0.18', '0.19', '0.19', '0.19', '0.19', '0.19', '0.19', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1771_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08', '0.08']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1772_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.04', '0.04', '0.04', '0.05', '0.05', '0.05', '0.05', '0.05', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1774_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.06', '-0.07', '-0.07', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06', '-0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1789_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.23', '0.23', '0.24', '0.23', '0.24', '0.24', '0.24', '0.24', '0.24', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1794_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.04', '0.05', '0.07', '0.07', '0.07', '0.08', '0.08', '0.08', '0.08', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1797_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.08', '0.08', '0.09', '0.09', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1808_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.08', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1809_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.03', '0.04', '0.04', '0.05', '0.05', '0.05', '0.06', '0.05', '0.05', '0.06', '0.06']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1811_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.1', '0.1', '0.12', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1822_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.04', '0.05', '0.09', '0.08', '0.09', '0.1', '0.09', '0.09', '0.1', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1826_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.22', '0.22', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23', '0.23']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1827_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.08', '0.08', '0.11', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1831_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.4', '0.39', '0.39', '0.4', '0.4', '0.4', '0.4', '0.4', '0.4', '0.4', '0.41']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1833_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.26', '0.26', '0.25', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.26', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1834_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.06', '-0.05', '-0.04', '-0.02', '-0.03', '-0.03', '-0.02', '-0.02', '-0.03', '-0.02', '-0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1839_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03', '0.03']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1843_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.1', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.09', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1863_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.06', '0.06', '0.09', '0.09', '0.09', '0.1', '0.09', '0.09', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1864_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.08', '0.09', '0.1', '0.1', '0.1', '0.11', '0.11', '0.12', '0.12', '0.13']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1869_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.14', '0.16', '0.21', '0.2', '0.2', '0.21', '0.21', '0.2', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1874_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.19', '0.19', '0.21', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1879_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.15', '0.14', '0.14', '0.15', '0.15', '0.15', '0.15', '0.15', '0.14', '0.15', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1882_10.txt
+sentiment= ['negative', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['-0.03', '0.01', '0.03', '0.1', '0.09', '0.1', '0.11', '0.1', '0.1', '0.11', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1883_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.3', '0.21', '0.2', '0.21', '0.2', '0.2', '0.2', '0.19', '0.19', '0.19', '0.19']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1884_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.01', '0.01', '0.01', '0.01', '0.01', '0.02', '0.02', '0.01', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1896_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.08', '0.09', '0.14', '0.13', '0.14', '0.14', '0.14', '0.14', '0.14', '0.15']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1903_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.25', '0.24', '0.24', '0.25', '0.25', '0.25', '0.25', '0.25', '0.25', '0.25', '0.25']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1905_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.06', '0.06', '0.07', '0.06', '0.07', '0.07', '0.07', '0.07', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1909_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.18', '0.17', '0.18', '0.19', '0.18', '0.19', '0.19', '0.19', '0.19', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1910_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.04', '0.06', '0.07', '0.11', '0.1', '0.1', '0.11', '0.11', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1919_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.09', '0.13', '0.15', '0.22', '0.21', '0.22', '0.23', '0.22', '0.22', '0.23', '0.24']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1921_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.07', '0.07', '0.07', '0.08', '0.08', '0.08', '0.09', '0.08', '0.08', '0.09', '0.09']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1923_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.09', '0.09', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1', '0.1']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1924_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.23', '0.2', '0.2', '0.21', '0.2', '0.2', '0.2', '0.2', '0.19', '0.2', '0.2']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1925_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.06', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05', '0.05']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1927_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.22', '0.22', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1931_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.12', '0.13', '0.13', '0.13', '0.14', '0.14', '0.14', '0.15', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1932_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.13', '0.14', '0.16', '0.16', '0.16', '0.17', '0.17', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1933_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.21', '0.22']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1934_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.11', '0.1', '0.1', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1937_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.12', '0.11', '0.11', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1940_10.txt
+sentiment= ['neutral', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.0', '0.02', '0.03', '0.06', '0.05', '0.06', '0.06', '0.06', '0.06', '0.07', '0.07']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1946_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.05', '0.02', '0.01', '0.03', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02', '0.02']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1956_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.3', '0.26', '0.26', '0.28', '0.27', '0.27', '0.27', '0.27', '0.26', '0.27', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1970_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.01', '0.04', '0.05', '0.1', '0.1', '0.1', '0.11', '0.1', '0.1', '0.11', '0.11']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1971_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.32', '0.33', '0.34', '0.36', '0.35', '0.36', '0.36', '0.36', '0.36', '0.36', '0.36']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1974_10.txt
+sentiment= ['negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']
+positive_score= ['-0.13', '-0.15', '-0.15', '-0.14', '-0.14', '-0.14', '-0.14', '-0.14', '-0.14', '-0.14', '-0.14']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1975_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.37', '0.27', '0.26', '0.28', '0.27', '0.27', '0.27', '0.27', '0.26', '0.27', '0.27']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1991_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.16', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1996_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.16', '0.15', '0.15', '0.16', '0.16', '0.16', '0.16', '0.16', '0.16', '0.17', '0.17']
+-----------------------****------------------------
+E:/MT_SA_FS/data/TestingResults/output/mr6_1/herokuapp/of1997_10.txt
+sentiment= ['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']
+positive_score= ['0.21', '0.2', '0.2', '0.21', '0.21', '0.21', '0.22', '0.22', '0.22', '0.22', '0.22']
+-----------------------****------------------------
