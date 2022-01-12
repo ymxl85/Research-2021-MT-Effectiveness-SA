@@ -1,0 +1,1700 @@
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s3.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv001_18431.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os3.txt
+document_sentiment=NEGATIVE   Positive=0.015479560941457748 Negative=0.8817301392555237 Neutral=0.08842789381742477 Mixed=0.014362304471433163 
+document_sentiment=NEUTRAL   Positive=0.019572202116250992 Negative=0.03142259269952774 Neutral=0.9486216306686401 Mixed=0.0003835437528323382 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s5.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv002_15918.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os5.txt
+document_sentiment=NEGATIVE   Positive=0.022127682343125343 Negative=0.9747856855392456 Neutral=0.002986616687849164 Mixed=9.994982247008011e-05 
+document_sentiment=POSITIVE   Positive=0.4672396779060364 Negative=0.30762919783592224 Neutral=0.16353702545166016 Mixed=0.06159409508109093 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s8.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv003_12683.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os8.txt
+document_sentiment=POSITIVE   Positive=0.7988418340682983 Negative=0.0056368643417954445 Neutral=0.19549833238124847 Mixed=2.2944983356865123e-05 
+document_sentiment=MIXED   Positive=0.0069479490630328655 Negative=0.059790171682834625 Neutral=0.0692061260342598 Mixed=0.8640556931495667 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s14.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv006_17022.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s15.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv007_4968.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s18.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv008_29435.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os18.txt
+document_sentiment=NEGATIVE   Positive=0.00221338146366179 Negative=0.6522629857063293 Neutral=0.3454401195049286 Mixed=8.356575563084334e-05 
+document_sentiment=NEUTRAL   Positive=0.0025024618953466415 Negative=0.35477203130722046 Neutral=0.6410033106803894 Mixed=0.0017221596790477633 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s19.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv009_29417.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s20.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv009_29592.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s21.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv010_29063.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os21.txt
+document_sentiment=POSITIVE   Positive=0.7672659158706665 Negative=0.0054405066184699535 Neutral=0.22635683417320251 Mixed=0.0009367164457216859 
+document_sentiment=NEUTRAL   Positive=0.09329927712678909 Negative=0.18371114134788513 Neutral=0.6142613291740417 Mixed=0.10872834175825119 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s22.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv010_29198.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s23.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv011_12166.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os23.txt
+document_sentiment=NEGATIVE   Positive=0.1538596898317337 Negative=0.8174071907997131 Neutral=0.0286390483379364 Mixed=9.398110705660656e-05 
+document_sentiment=POSITIVE   Positive=0.9014609456062317 Negative=0.04334449768066406 Neutral=0.052648987621068954 Mixed=0.002545551396906376 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s24.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv011_13044.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os24.txt
+document_sentiment=POSITIVE   Positive=0.9010449051856995 Negative=0.00411267252638936 Neutral=0.09478889405727386 Mixed=5.357261761673726e-05 
+document_sentiment=NEUTRAL   Positive=0.4220510721206665 Negative=0.11458240449428558 Neutral=0.46329155564308167 Mixed=7.495933823520318e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s25.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv012_29411.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s32.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv015_29439.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s34.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv016_4659.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s35.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv017_22464.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s37.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv018_20137.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s39.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv019_14482.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s40.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv019_16117.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os40.txt
+document_sentiment=POSITIVE   Positive=0.6695322394371033 Negative=0.03291887044906616 Neutral=0.29476892948150635 Mixed=0.0027799943927675486 
+document_sentiment=NEUTRAL   Positive=0.1246577724814415 Negative=0.24371802806854248 Neutral=0.6279172897338867 Mixed=0.003706970252096653 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s42.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv020_9234.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os42.txt
+document_sentiment=POSITIVE   Positive=0.49960511922836304 Negative=0.0049894084222614765 Neutral=0.4952271580696106 Mixed=0.00017823491361923516 
+document_sentiment=NEUTRAL   Positive=0.24259231984615326 Negative=0.10496348142623901 Neutral=0.6524301171302795 Mixed=1.4114229998085648e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s43.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv021_15838.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os43.txt
+document_sentiment=NEGATIVE   Positive=0.16346748173236847 Negative=0.7583951354026794 Neutral=0.06157257407903671 Mixed=0.016564762219786644 
+document_sentiment=MIXED   Positive=0.3620814383029938 Negative=0.06570940464735031 Neutral=0.006808665115386248 Mixed=0.5654004812240601 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s44.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv021_17313.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s46.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv022_14227.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s47.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv023_12672.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s51.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv025_29825.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os51.txt
+document_sentiment=POSITIVE   Positive=0.911827027797699 Negative=0.00032095296774059534 Neutral=0.08778731524944305 Mixed=6.467424827860668e-05 
+document_sentiment=NEUTRAL   Positive=0.225936621427536 Negative=0.00021084431500639766 Neutral=0.7738368511199951 Mixed=1.5697551134508103e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s53.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv026_29229.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os53.txt
+document_sentiment=POSITIVE   Positive=0.9179484844207764 Negative=0.010462011210620403 Neutral=0.07147417962551117 Mixed=0.00011533762881299481 
+document_sentiment=MIXED   Positive=0.04136354848742485 Negative=0.009667892009019852 Neutral=0.049397487193346024 Mixed=0.8995711207389832 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s60.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv029_19943.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s62.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv030_22893.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s64.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv031_19540.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s65.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv032_22550.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s68.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv033_25680.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s69.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv034_29446.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s70.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv034_29647.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s72.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv035_3954.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s73.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv036_16831.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s75.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv037_18510.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os75.txt
+document_sentiment=NEGATIVE   Positive=0.428545743227005 Negative=0.4625183343887329 Neutral=0.10742741078138351 Mixed=0.0015085384948179126 
+document_sentiment=POSITIVE   Positive=0.9479689002037048 Negative=0.0036701695062220097 Neutral=0.025707518681883812 Mixed=0.022653449326753616 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s78.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv038_9781.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s84.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv041_22364.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s86.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv042_11927.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s88.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv043_16808.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os88.txt
+document_sentiment=POSITIVE   Positive=0.7552058100700378 Negative=0.022201240062713623 Neutral=0.2220667004585266 Mixed=0.0005262116901576519 
+document_sentiment=NEGATIVE   Positive=0.005234917625784874 Negative=0.9859523773193359 Neutral=0.008448946289718151 Mixed=0.0003638101043179631 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s90.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv044_18429.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os90.txt
+document_sentiment=POSITIVE   Positive=0.5020190477371216 Negative=0.2893182039260864 Neutral=0.10731705278158188 Mixed=0.10134563595056534 
+document_sentiment=NEGATIVE   Positive=0.3777928054332733 Negative=0.3871336877346039 Neutral=0.1985020488500595 Mixed=0.03657139092683792 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s93.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv046_10188.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os93.txt
+document_sentiment=NEGATIVE   Positive=0.10823426395654678 Negative=0.8275139331817627 Neutral=0.04768819361925125 Mixed=0.01656361296772957 
+document_sentiment=NEUTRAL   Positive=0.18708255887031555 Negative=0.4030424952507019 Neutral=0.4098043441772461 Mixed=7.064203964546323e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s98.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv048_18380.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os98.txt
+document_sentiment=POSITIVE   Positive=0.6527922749519348 Negative=0.032992925494909286 Neutral=0.30126890540122986 Mixed=0.012945832684636116 
+document_sentiment=NEUTRAL   Positive=0.2194187045097351 Negative=0.008848601020872593 Neutral=0.7537398934364319 Mixed=0.01799284666776657 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s99.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv049_20471.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os99.txt
+document_sentiment=NEGATIVE   Positive=0.18379025161266327 Negative=0.7454537153244019 Neutral=0.031304195523262024 Mixed=0.03945181891322136 
+document_sentiment=POSITIVE   Positive=0.7278906106948853 Negative=0.009468644857406616 Neutral=0.03219583258032799 Mixed=0.23044489324092865 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s100.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv049_21917.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s102.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv050_12128.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s105.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv052_29318.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s111.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv055_8338.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s112.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv055_8926.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os112.txt
+document_sentiment=POSITIVE   Positive=0.9839456677436829 Negative=0.00164126418530941 Neutral=0.014189363457262516 Mixed=0.00022370705846697092 
+document_sentiment=NEUTRAL   Positive=0.10755802690982819 Negative=0.2139596790075302 Neutral=0.6746299266815186 Mixed=0.003852358553558588 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s114.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv056_14663.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s116.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv057_7962.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os116.txt
+document_sentiment=POSITIVE   Positive=0.9893884062767029 Negative=0.00012763477570842952 Neutral=0.010450048372149467 Mixed=3.3937096304725856e-05 
+document_sentiment=NEGATIVE   Positive=0.08721722662448883 Negative=0.5489463806152344 Neutral=0.3636760711669922 Mixed=0.00016033515566959977 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s117.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv058_8025.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s118.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv058_8469.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os118.txt
+document_sentiment=POSITIVE   Positive=0.8641361594200134 Negative=0.03978896513581276 Neutral=0.09182827174663544 Mixed=0.004246556665748358 
+document_sentiment=NEGATIVE   Positive=0.012719064950942993 Negative=0.9399366974830627 Neutral=0.045644331723451614 Mixed=0.0016998673090711236 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s119.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv059_28723.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os119.txt
+document_sentiment=POSITIVE   Positive=0.4218861162662506 Negative=0.2534683346748352 Neutral=0.30739593505859375 Mixed=0.01724957674741745 
+document_sentiment=NEGATIVE   Positive=0.077947236597538 Negative=0.464309424161911 Neutral=0.457092821598053 Mixed=0.000650518573820591 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s131.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv065_15248.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s135.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv067_19774.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s136.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv067_21192.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s137.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv068_13400.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os137.txt
+document_sentiment=NEGATIVE   Positive=0.026824194937944412 Negative=0.8029075860977173 Neutral=0.17023049294948578 Mixed=3.7729692849097773e-05 
+document_sentiment=POSITIVE   Positive=0.9213649034500122 Negative=0.05419200286269188 Neutral=0.009343777783215046 Mixed=0.015099341049790382 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s138.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv068_14810.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os138.txt
+document_sentiment=POSITIVE   Positive=0.6147319674491882 Negative=0.1255105584859848 Neutral=0.23891475796699524 Mixed=0.020842667669057846 
+document_sentiment=NEUTRAL   Positive=0.2730948328971863 Negative=0.21303097903728485 Neutral=0.4757457673549652 Mixed=0.03812842816114426 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s140.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv069_11613.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os140.txt
+document_sentiment=POSITIVE   Positive=0.6929762363433838 Negative=0.005558385979384184 Neutral=0.3007914423942566 Mixed=0.0006739583914168179 
+document_sentiment=NEGATIVE   Positive=0.11813854426145554 Negative=0.5682981610298157 Neutral=0.21724475920200348 Mixed=0.09631858766078949 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s141.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv070_12289.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s144.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv071_12969.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os144.txt
+document_sentiment=POSITIVE   Positive=0.5253764390945435 Negative=0.06169149652123451 Neutral=0.17477399110794067 Mixed=0.23815809190273285 
+document_sentiment=NEUTRAL   Positive=0.044488325715065 Negative=0.30044543743133545 Neutral=0.6542041301727295 Mixed=0.0008621460292488337 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s146.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv072_6169.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s151.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv075_6250.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os151.txt
+document_sentiment=POSITIVE   Positive=0.9613873958587646 Negative=0.023658715188503265 Neutral=0.014479102566838264 Mixed=0.0004747335915453732 
+document_sentiment=NEGATIVE   Positive=0.3298099935054779 Negative=0.4629070460796356 Neutral=0.04191557317972183 Mixed=0.16536742448806763 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s152.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv075_6500.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os152.txt
+document_sentiment=NEGATIVE   Positive=0.019896250218153 Negative=0.9714490175247192 Neutral=0.008541522547602654 Mixed=0.0001132429315475747 
+document_sentiment=POSITIVE   Positive=0.975445032119751 Negative=0.004244235344231129 Neutral=0.018558260053396225 Mixed=0.0017525270814076066 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s156.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv077_23172.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s158.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv078_16506.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s159.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv079_11933.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os159.txt
+document_sentiment=NEGATIVE   Positive=0.10614362359046936 Negative=0.8311390280723572 Neutral=0.06208135932683945 Mixed=0.0006359695689752698 
+document_sentiment=POSITIVE   Positive=0.9231864809989929 Negative=0.003934828564524651 Neutral=0.0728703960776329 Mixed=8.270399121101946e-06 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s163.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv081_16582.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s165.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv082_11080.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s166.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv082_11979.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os166.txt
+document_sentiment=POSITIVE   Positive=0.6590737700462341 Negative=0.19310854375362396 Neutral=0.14724352955818176 Mixed=0.0005741516361013055 
+document_sentiment=NEUTRAL   Positive=0.25200381875038147 Negative=0.3571195602416992 Neutral=0.389858603477478 Mixed=0.0010180020472034812 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s167.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv083_24234.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os167.txt
+document_sentiment=NEGATIVE   Positive=0.2188107967376709 Negative=0.6087279915809631 Neutral=0.13555163145065308 Mixed=0.036909617483615875 
+document_sentiment=POSITIVE   Positive=0.5343877673149109 Negative=0.321859210729599 Neutral=0.14250464737415314 Mixed=0.001248373300768435 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s169.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv084_13566.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s170.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv084_15183.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s171.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv085_1381.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s172.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv085_15286.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os172.txt
+document_sentiment=POSITIVE   Positive=0.7495152950286865 Negative=0.013738338835537434 Neutral=0.23671534657478333 Mixed=3.1068480893736705e-05 
+document_sentiment=NEUTRAL   Positive=0.06807578355073929 Negative=0.03792563080787659 Neutral=0.8939920663833618 Mixed=6.63926721244934e-06 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s176.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv087_2145.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s179.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv089_11418.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s180.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv089_12222.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s181.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv090_0042.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os181.txt
+document_sentiment=NEGATIVE   Positive=0.01974613405764103 Negative=0.9237932562828064 Neutral=0.04130687564611435 Mixed=0.015153697691857815 
+document_sentiment=NEUTRAL   Positive=0.3992427885532379 Negative=0.05317174270749092 Neutral=0.5454944372177124 Mixed=0.0020910408347845078 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s183.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv091_7400.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s184.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv091_7899.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s186.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv092_28017.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os186.txt
+document_sentiment=NEGATIVE   Positive=0.007444193121045828 Negative=0.5870321393013 Neutral=0.40548262000083923 Mixed=4.1062190575757995e-05 
+document_sentiment=NEUTRAL   Positive=0.005969385616481304 Negative=0.37245500087738037 Neutral=0.6215401291847229 Mixed=3.5408644180279225e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s189.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv094_27868.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s190.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv094_27889.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s192.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv095_28892.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os192.txt
+document_sentiment=NEGATIVE   Positive=0.0032561200205236673 Negative=0.9188141822814941 Neutral=0.07730947434902191 Mixed=0.0006202622316777706 
+document_sentiment=POSITIVE   Positive=0.5779223442077637 Negative=0.010362736880779266 Neutral=0.02642267383635044 Mixed=0.38529229164123535 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s200.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv099_11189.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os200.txt
+document_sentiment=POSITIVE   Positive=0.6415239572525024 Negative=0.0674029141664505 Neutral=0.27448877692222595 Mixed=0.01658426970243454 
+document_sentiment=NEUTRAL   Positive=0.47730502486228943 Negative=0.01931212842464447 Neutral=0.5032849311828613 Mixed=9.798045357456431e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s201.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv100_11528.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os201.txt
+document_sentiment=NEGATIVE   Positive=0.09761712700128555 Negative=0.8259381055831909 Neutral=0.07429954409599304 Mixed=0.0021451651118695736 
+document_sentiment=POSITIVE   Positive=0.825427234172821 Negative=0.10623639822006226 Neutral=0.023053675889968872 Mixed=0.04528263583779335 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s205.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv102_7846.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s206.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv102_8306.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s207.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv103_11021.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s208.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv103_11943.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s212.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv105_19135.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os212.txt
+document_sentiment=POSITIVE   Positive=0.9322767853736877 Negative=0.0028559935744851828 Neutral=0.06431154161691666 Mixed=0.0005556410760618746 
+document_sentiment=NEGATIVE   Positive=0.0009373598732054234 Negative=0.997505247592926 Neutral=0.0015393341891467571 Mixed=1.8112395991920494e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s215.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv107_24319.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os215.txt
+document_sentiment=NEGATIVE   Positive=0.0008995882235467434 Negative=0.9981465339660645 Neutral=0.0009478561696596444 Mixed=6.0551060414582025e-06 
+document_sentiment=POSITIVE   Positive=0.6429721117019653 Negative=0.11356062442064285 Neutral=0.2386082261800766 Mixed=0.0048590186052024364 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s217.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv108_15571.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s219.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv109_21172.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os219.txt
+document_sentiment=NEGATIVE   Positive=0.0380973182618618 Negative=0.8277876377105713 Neutral=0.13391076028347015 Mixed=0.00020430359290912747 
+document_sentiment=NEUTRAL   Positive=0.1285591870546341 Negative=0.0332120917737484 Neutral=0.8379877805709839 Mixed=0.0002409445442026481 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s220.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv109_22599.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s223.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv111_11473.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os223.txt
+document_sentiment=NEGATIVE   Positive=0.2563692033290863 Negative=0.5859772562980652 Neutral=0.009179960004985332 Mixed=0.1484735608100891 
+document_sentiment=POSITIVE   Positive=0.8349410891532898 Negative=0.09478795528411865 Neutral=0.06929884850978851 Mixed=0.0009720153175294399 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s227.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv113_23102.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os227.txt
+document_sentiment=NEGATIVE   Positive=0.021773964166641235 Negative=0.8745241761207581 Neutral=0.10259299725294113 Mixed=0.0011088656028732657 
+document_sentiment=NEUTRAL   Positive=0.1652502417564392 Negative=0.0002947151951957494 Neutral=0.8344377875328064 Mixed=1.7346888853353448e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s229.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv114_18398.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s232.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv115_26443.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s240.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv119_9909.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os240.txt
+document_sentiment=POSITIVE   Positive=0.7947312593460083 Negative=0.17642711102962494 Neutral=0.020855525508522987 Mixed=0.007986051961779594 
+document_sentiment=NEGATIVE   Positive=0.3857758939266205 Negative=0.4065937399864197 Neutral=0.19983239471912384 Mixed=0.007797995116561651 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s241.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv120_3793.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os241.txt
+document_sentiment=POSITIVE   Positive=0.7425130605697632 Negative=0.02908642217516899 Neutral=0.03388932719826698 Mixed=0.19451120495796204 
+document_sentiment=NEGATIVE   Positive=0.001108960947021842 Negative=0.9967599511146545 Neutral=0.002060957718640566 Mixed=7.016579911578447e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s243.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv121_17302.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os243.txt
+document_sentiment=NEGATIVE   Positive=0.11232305318117142 Negative=0.862654983997345 Neutral=0.021085506305098534 Mixed=0.003936483059078455 
+document_sentiment=POSITIVE   Positive=0.9718817472457886 Negative=0.020575642585754395 Neutral=0.007303916849195957 Mixed=0.000238613982219249 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s244.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv121_18621.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s249.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv124_3903.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os249.txt
+document_sentiment=POSITIVE   Positive=0.48274001479148865 Negative=0.28360217809677124 Neutral=0.23354209959506989 Mixed=0.00011571762297535315 
+document_sentiment=NEUTRAL   Positive=0.24308659136295319 Negative=0.10161234438419342 Neutral=0.6552426218986511 Mixed=5.844634506502189e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s250.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv124_4122.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s254.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv126_28971.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s255.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv127_14711.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os255.txt
+document_sentiment=NEGATIVE   Positive=0.11423741281032562 Negative=0.8705402612686157 Neutral=0.009970394894480705 Mixed=0.0052519747987389565 
+document_sentiment=POSITIVE   Positive=0.8493404984474182 Negative=0.011029224842786789 Neutral=0.13961243629455566 Mixed=1.7918764569913037e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s256.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv127_16451.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os256.txt
+document_sentiment=POSITIVE   Positive=0.5933697819709778 Negative=0.3581770360469818 Neutral=0.047654133290052414 Mixed=0.000799016619566828 
+document_sentiment=NEGATIVE   Positive=0.32755109667778015 Negative=0.6212159395217896 Neutral=0.051037631928920746 Mixed=0.0001953699829755351 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s258.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv128_29627.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s259.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv129_16741.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s265.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv132_5423.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s267.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv133_16336.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s268.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv133_18065.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s270.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv134_23300.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s283.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv141_15686.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s285.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv142_22516.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s286.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv142_23657.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os286.txt
+document_sentiment=POSITIVE   Positive=0.6436408758163452 Negative=0.07374531775712967 Neutral=0.28045254945755005 Mixed=0.002161289332434535 
+document_sentiment=NEGATIVE   Positive=0.0949806272983551 Negative=0.7321605682373047 Neutral=0.12742742896080017 Mixed=0.04543139040470123 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s288.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv143_21158.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s289.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv144_5007.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s291.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv145_11472.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s295.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv147_21193.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s296.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv147_22625.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s297.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv148_16345.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s298.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv148_18084.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s299.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv149_15670.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s301.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv150_12916.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os301.txt
+document_sentiment=NEGATIVE   Positive=0.14533084630966187 Negative=0.35591453313827515 Neutral=0.23672164976596832 Mixed=0.26203298568725586 
+document_sentiment=POSITIVE   Positive=0.5482431650161743 Negative=0.047094184905290604 Neutral=0.38652145862579346 Mixed=0.018141254782676697 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s302.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv150_14279.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os302.txt
+document_sentiment=POSITIVE   Positive=0.5303342342376709 Negative=0.08420181274414062 Neutral=0.26761743426322937 Mixed=0.11784651130437851 
+document_sentiment=MIXED   Positive=0.038430795073509216 Negative=0.004856238607317209 Neutral=0.02505422942340374 Mixed=0.9316587448120117 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s305.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv152_8736.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s306.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv152_9052.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s308.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv153_11607.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s311.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv155_7308.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s315.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv157_29302.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os315.txt
+document_sentiment=POSITIVE   Positive=0.8348069787025452 Negative=0.018307792022824287 Neutral=0.005322947166860104 Mixed=0.1415622979402542 
+document_sentiment=MIXED   Positive=0.1491330862045288 Negative=0.01407377514988184 Neutral=0.004085036925971508 Mixed=0.8327080607414246 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s318.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv158_10914.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s320.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv159_29505.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s324.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv161_12224.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s329.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv164_22447.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s330.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv164_23451.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s332.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv165_2389.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s335.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv167_16376.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s337.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv168_7050.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s340.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv169_24973.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os340.txt
+document_sentiment=POSITIVE   Positive=0.8905304670333862 Negative=0.020690886303782463 Neutral=0.08744469285011292 Mixed=0.0013339947909116745 
+document_sentiment=NEGATIVE   Positive=0.2684907019138336 Negative=0.6806095838546753 Neutral=0.045229680836200714 Mixed=0.005670015700161457 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s342.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv170_3006.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os342.txt
+document_sentiment=NEGATIVE   Positive=0.3089997172355652 Negative=0.680229663848877 Neutral=0.009998460300266743 Mixed=0.0007721526199020445 
+document_sentiment=POSITIVE   Positive=0.9326174855232239 Negative=0.004793762695044279 Neutral=0.06257002800703049 Mixed=1.8716495105763897e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s343.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv171_13537.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os343.txt
+document_sentiment=NEGATIVE   Positive=0.2845432758331299 Negative=0.6907055974006653 Neutral=0.005347183905541897 Mixed=0.01940382644534111 
+document_sentiment=POSITIVE   Positive=0.9753533005714417 Negative=0.021060900762677193 Neutral=0.003504801308736205 Mixed=8.101816638372838e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s347.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv173_4295.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s349.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv174_9659.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s350.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv174_9735.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s352.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv175_7375.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s357.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv178_12972.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s358.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv178_14380.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s359.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv179_9228.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os359.txt
+document_sentiment=NEGATIVE   Positive=0.09981909394264221 Negative=0.5615672469139099 Neutral=0.338553249835968 Mixed=6.0386395489331335e-05 
+document_sentiment=NEUTRAL   Positive=0.3562508821487427 Negative=0.039526451379060745 Neutral=0.6038684844970703 Mixed=0.00035417117760516703 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s364.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv181_16083.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s365.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv182_7281.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s368.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv183_19826.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os368.txt
+document_sentiment=POSITIVE   Positive=0.8136013150215149 Negative=0.013944101519882679 Neutral=0.08448772877454758 Mixed=0.08796687424182892 
+document_sentiment=NEGATIVE   Positive=0.00426593329757452 Negative=0.994049072265625 Neutral=0.0016336461994796991 Mixed=5.147663250681944e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s369.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv184_2673.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s370.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv184_26935.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s371.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv185_28372.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os371.txt
+document_sentiment=POSITIVE   Positive=0.7548516392707825 Negative=0.20240101218223572 Neutral=0.014814077876508236 Mixed=0.027933262288570404 
+document_sentiment=NEGATIVE   Positive=0.0016188421286642551 Negative=0.9907404184341431 Neutral=0.007617775816470385 Mixed=2.29694924200885e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s372.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv185_28654.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s373.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv186_2269.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s375.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv187_12829.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s378.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv188_20687.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s380.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv189_24248.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s381.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv190_27052.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s382.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv190_27176.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os382.txt
+document_sentiment=POSITIVE   Positive=0.5178062319755554 Negative=0.1358034908771515 Neutral=0.3370664119720459 Mixed=0.009323908016085625 
+document_sentiment=NEGATIVE   Positive=0.002977511612698436 Negative=0.9952877759933472 Neutral=0.0017035339260473847 Mixed=3.12197080347687e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s388.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv193_5416.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s389.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv194_12079.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s393.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv196_28898.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s395.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv197_29271.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s396.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv197_29328.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os396.txt
+document_sentiment=NEGATIVE   Positive=0.23646117746829987 Negative=0.5567343831062317 Neutral=0.16571663320064545 Mixed=0.04108772799372673 
+document_sentiment=POSITIVE   Positive=0.48309141397476196 Negative=0.036153823137283325 Neutral=0.47980034351348877 Mixed=0.0009543441701680422 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s397.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv198_18180.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os397.txt
+document_sentiment=NEGATIVE   Positive=0.01447332464158535 Negative=0.8427326679229736 Neutral=0.14212466776371002 Mixed=0.0006693469476886094 
+document_sentiment=MIXED   Positive=0.004939725622534752 Negative=0.013304249383509159 Neutral=0.05811447277665138 Mixed=0.9236415028572083 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s400.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv199_9721.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s403.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv201_6997.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s406.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv202_11382.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s408.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv203_19052.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s409.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv204_8451.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s410.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv204_8930.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s411.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv205_9457.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os411.txt
+document_sentiment=NEGATIVE   Positive=0.019358668476343155 Negative=0.9736365079879761 Neutral=0.006867486517876387 Mixed=0.0001373786071781069 
+document_sentiment=POSITIVE   Positive=0.4365462362766266 Negative=0.30541497468948364 Neutral=0.2440064549446106 Mixed=0.0140323331579566 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s412.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv205_9676.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s418.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv208_9475.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s422.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv210_9557.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os422.txt
+document_sentiment=POSITIVE   Positive=0.7123432755470276 Negative=0.0007675249362364411 Neutral=0.28675714135169983 Mixed=0.00013204240531194955 
+document_sentiment=NEUTRAL   Positive=0.12032152712345123 Negative=0.0005091445636935532 Neutral=0.8791095018386841 Mixed=5.984802919556387e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s427.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv213_18934.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s428.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv213_20300.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s429.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv214_12294.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s430.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv214_13285.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os430.txt
+document_sentiment=POSITIVE   Positive=0.6148149371147156 Negative=0.11186157912015915 Neutral=0.27252405881881714 Mixed=0.0007994523039087653 
+document_sentiment=NEUTRAL   Positive=0.20753902196884155 Negative=0.19757197797298431 Neutral=0.5163827538490295 Mixed=0.07850627601146698 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s433.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv216_18738.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s435.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv217_28707.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s437.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv218_24352.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os437.txt
+document_sentiment=NEGATIVE   Positive=0.140272319316864 Negative=0.6410835385322571 Neutral=0.0024627854581922293 Mixed=0.21618138253688812 
+document_sentiment=POSITIVE   Positive=0.9161054491996765 Negative=0.043377891182899475 Neutral=0.03486544266343117 Mixed=0.005651254206895828 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s443.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv221_2695.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s446.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv222_18720.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s448.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv223_29066.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os448.txt
+document_sentiment=NEGATIVE   Positive=0.03911202773451805 Negative=0.904920220375061 Neutral=0.05474302917718887 Mixed=0.0012246879050508142 
+document_sentiment=POSITIVE   Positive=0.49300459027290344 Negative=0.38617318868637085 Neutral=0.12011139839887619 Mixed=0.0007108417921699584 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s449.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv224_17661.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s451.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv225_29083.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s452.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv225_29224.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s453.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv226_2618.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os453.txt
+document_sentiment=NEGATIVE   Positive=0.05202527716755867 Negative=0.9284364581108093 Neutral=0.014690312556922436 Mixed=0.004847962874919176 
+document_sentiment=POSITIVE   Positive=0.8073275685310364 Negative=0.04680261388421059 Neutral=0.14579221606254578 Mixed=7.760927837807685e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s454.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv226_26692.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s455.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv227_24215.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s457.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv228_5644.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s458.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv228_5806.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s459.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv229_13611.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os459.txt
+document_sentiment=NEGATIVE   Positive=0.27741193771362305 Negative=0.526186466217041 Neutral=0.1958756148815155 Mixed=0.0005260471953079104 
+document_sentiment=POSITIVE   Positive=0.7881146669387817 Negative=0.002384694991633296 Neutral=0.20847706496715546 Mixed=0.0010236266534775496 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s465.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv232_14991.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os465.txt
+document_sentiment=NEGATIVE   Positive=0.03542429581284523 Negative=0.6214832663536072 Neutral=0.34300437569618225 Mixed=8.806485857348889e-05 
+document_sentiment=NEUTRAL   Positive=0.23168785870075226 Negative=0.090966135263443 Neutral=0.6767086982727051 Mixed=0.0006373539799824357 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s469.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv234_20643.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s470.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv234_22123.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s471.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv235_10217.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s476.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv237_20635.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os476.txt
+document_sentiment=POSITIVE   Positive=0.7538525462150574 Negative=0.0017782701179385185 Neutral=0.24072086811065674 Mixed=0.0036482999566942453 
+document_sentiment=NEUTRAL   Positive=0.0839456096291542 Negative=0.010018088854849339 Neutral=0.8976753354072571 Mixed=0.008361035957932472 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s477.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv238_12931.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s478.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv238_14285.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s479.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv239_29828.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s484.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv241_24602.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os484.txt
+document_sentiment=POSITIVE   Positive=0.7536234855651855 Negative=0.012472020462155342 Neutral=0.03342941775918007 Mixed=0.20047509670257568 
+document_sentiment=NEGATIVE   Positive=0.0011927150189876556 Negative=0.9926376342773438 Neutral=0.0060589550994336605 Mixed=0.00011078604438807815 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s485.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv242_10638.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os485.txt
+document_sentiment=NEGATIVE   Positive=0.05252464488148689 Negative=0.5916378498077393 Neutral=0.34254252910614014 Mixed=0.013294958509504795 
+document_sentiment=NEUTRAL   Positive=0.19678817689418793 Negative=0.14030005037784576 Neutral=0.6176653504371643 Mixed=0.045246392488479614 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s486.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv242_11354.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os486.txt
+document_sentiment=POSITIVE   Positive=0.5852915048599243 Negative=0.26550471782684326 Neutral=0.12740318477153778 Mixed=0.021800572052598 
+document_sentiment=NEGATIVE   Positive=0.052529845386743546 Negative=0.8491224646568298 Neutral=0.09832701832056046 Mixed=2.0709374439320527e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s487.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv243_20728.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s489.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv244_21649.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s491.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv245_8569.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s492.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv245_8938.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s494.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv246_28807.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s495.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv247_13142.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os495.txt
+document_sentiment=NEGATIVE   Positive=0.14301401376724243 Negative=0.7783532738685608 Neutral=0.006594858132302761 Mixed=0.07203792780637741 
+document_sentiment=MIXED   Positive=0.3832702040672302 Negative=0.07263021171092987 Neutral=0.010295071639120579 Mixed=0.5338045358657837 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s496.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv247_14668.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s498.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv248_15672.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s502.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv250_26462.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os502.txt
+document_sentiment=POSITIVE   Positive=0.7102944850921631 Negative=0.23797060549259186 Neutral=0.04603515937924385 Mixed=0.005699665751308203 
+document_sentiment=NEGATIVE   Positive=0.0380234532058239 Negative=0.9143840074539185 Neutral=0.04534327611327171 Mixed=0.0022493370342999697 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s504.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv251_23901.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s506.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv252_24974.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s509.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv254_5870.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os509.txt
+document_sentiment=POSITIVE   Positive=0.5398097038269043 Negative=0.25848984718322754 Neutral=0.20109039545059204 Mixed=0.0006100788596086204 
+document_sentiment=NEUTRAL   Positive=0.18120582401752472 Negative=0.01632903516292572 Neutral=0.7727213501930237 Mixed=0.029743822291493416 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s512.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv255_15267.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s516.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv257_11856.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os516.txt
+document_sentiment=POSITIVE   Positive=0.929972767829895 Negative=0.0006872511585243046 Neutral=0.03316645696759224 Mixed=0.03617360070347786 
+document_sentiment=MIXED   Positive=0.022594358772039413 Negative=0.0021787851583212614 Neutral=0.026402661576867104 Mixed=0.9488242268562317 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s517.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv258_5627.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s519.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv259_10934.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os519.txt
+document_sentiment=NEGATIVE   Positive=0.01147451251745224 Negative=0.8298830986022949 Neutral=0.14361625909805298 Mixed=0.015026158653199673 
+document_sentiment=NEUTRAL   Positive=0.47358590364456177 Negative=0.03445110470056534 Neutral=0.4843858778476715 Mixed=0.007577141281217337 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s522.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv260_15652.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s528.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv263_20693.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s533.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv266_25779.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s534.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv266_26644.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s535.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv267_14952.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os535.txt
+document_sentiment=NEGATIVE   Positive=0.008023611269891262 Negative=0.9035261869430542 Neutral=0.086333729326725 Mixed=0.00211643916554749 
+document_sentiment=NEUTRAL   Positive=0.18556533753871918 Negative=0.0111528430134058 Neutral=0.8031793236732483 Mixed=0.00010254984226776287 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s536.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv267_16618.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s538.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv268_20288.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s544.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv271_15364.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s546.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv272_20313.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os546.txt
+document_sentiment=POSITIVE   Positive=0.7637994885444641 Negative=0.22512607276439667 Neutral=0.009786716662347317 Mixed=0.0012877301778644323 
+document_sentiment=MIXED   Positive=0.29053881764411926 Negative=0.0074901580810546875 Neutral=0.10341537743806839 Mixed=0.5985555648803711 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s558.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv278_14533.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os558.txt
+document_sentiment=POSITIVE   Positive=0.470197468996048 Negative=0.14678800106048584 Neutral=0.2728157639503479 Mixed=0.11019875854253769 
+document_sentiment=NEGATIVE   Positive=0.044541314244270325 Negative=0.8267197608947754 Neutral=0.12415013462305069 Mixed=0.004588821902871132 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s560.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv279_19452.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s561.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv280_8267.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s562.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv280_8651.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s567.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv283_11055.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s571.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv285_16494.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s574.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv286_26156.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s575.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv287_15900.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os575.txt
+document_sentiment=NEGATIVE   Positive=0.025107290595769882 Negative=0.7645339369773865 Neutral=0.08356671035289764 Mixed=0.12679199874401093 
+document_sentiment=POSITIVE   Positive=0.7582929134368896 Negative=0.03594590350985527 Neutral=0.02793012373149395 Mixed=0.17783105373382568 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s577.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv288_18791.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os577.txt
+document_sentiment=NEGATIVE   Positive=0.07261716574430466 Negative=0.837189257144928 Neutral=0.08858978003263474 Mixed=0.0016037910245358944 
+document_sentiment=POSITIVE   Positive=0.8181809782981873 Negative=0.004509255290031433 Neutral=0.1763356328010559 Mixed=0.0009741649264469743 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s578.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv288_20212.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s581.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv290_11084.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os581.txt
+document_sentiment=NEGATIVE   Positive=0.004725854843854904 Negative=0.7205855250358582 Neutral=0.27445292472839355 Mixed=0.0002357109187869355 
+document_sentiment=NEUTRAL   Positive=0.02866436541080475 Negative=0.14485344290733337 Neutral=0.8262170553207397 Mixed=0.00026518639060668647 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s582.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv290_11981.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os582.txt
+document_sentiment=POSITIVE   Positive=0.4658278226852417 Negative=0.148284912109375 Neutral=0.3822104036808014 Mixed=0.0036768692079931498 
+document_sentiment=NEUTRAL   Positive=0.09999708086252213 Negative=0.4174255430698395 Neutral=0.48183751106262207 Mixed=0.000739903305657208 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s583.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv291_26635.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s584.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv291_26844.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os584.txt
+document_sentiment=POSITIVE   Positive=0.5903163552284241 Negative=0.056706126779317856 Neutral=0.010446272790431976 Mixed=0.3425312936306 
+document_sentiment=NEGATIVE   Positive=0.005981185007840395 Negative=0.9737667441368103 Neutral=0.02016630582511425 Mixed=8.586799958720803e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s585.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv292_7282.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s586.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv292_7804.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s587.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv293_29731.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s591.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv295_15570.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os591.txt
+document_sentiment=NEGATIVE   Positive=0.05857758969068527 Negative=0.9315119385719299 Neutral=0.006961541716009378 Mixed=0.002948908368125558 
+document_sentiment=POSITIVE   Positive=0.8295539617538452 Negative=0.005909396335482597 Neutral=0.028318604454398155 Mixed=0.13621802628040314 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s594.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv296_13146.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s598.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv298_24487.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os598.txt
+document_sentiment=POSITIVE   Positive=0.7855002880096436 Negative=0.014745290391147137 Neutral=0.12682168185710907 Mixed=0.07293272763490677 
+document_sentiment=NEGATIVE   Positive=0.23166650533676147 Negative=0.43967947363853455 Neutral=0.3283338248729706 Mixed=0.0003201958897989243 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s599.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv299_16214.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s601.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv300_22284.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s603.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv301_12146.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os603.txt
+document_sentiment=NEGATIVE   Positive=0.0010956850601360202 Negative=0.9578940868377686 Neutral=0.040969714522361755 Mixed=4.053275188198313e-05 
+document_sentiment=POSITIVE   Positive=0.9841572642326355 Negative=0.00039822421967983246 Neutral=0.015370858833193779 Mixed=7.364826888078824e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s607.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv303_27366.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s610.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv304_28706.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s615.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv307_25270.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os615.txt
+document_sentiment=NEGATIVE   Positive=0.03472323343157768 Negative=0.8019685745239258 Neutral=0.16262772679328918 Mixed=0.0006804417353123426 
+document_sentiment=POSITIVE   Positive=0.8736284971237183 Negative=0.0030571697279810905 Neutral=0.1231684610247612 Mixed=0.00014586554607376456 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s617.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv308_5016.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s618.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv308_5079.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os618.txt
+document_sentiment=POSITIVE   Positive=0.4581153094768524 Negative=0.17021586000919342 Neutral=0.3183981776237488 Mixed=0.05327070504426956 
+document_sentiment=MIXED   Positive=0.17921164631843567 Negative=0.08620967715978622 Neutral=0.23850584030151367 Mixed=0.4960728585720062 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s620.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv309_23737.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os620.txt
+document_sentiment=POSITIVE   Positive=0.6637234091758728 Negative=0.013539139181375504 Neutral=0.2229902744293213 Mixed=0.0997471809387207 
+document_sentiment=NEUTRAL   Positive=0.34094494581222534 Negative=0.24159419536590576 Neutral=0.40254655480384827 Mixed=0.01491432823240757 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s621.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv310_13091.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s624.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv311_17708.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os624.txt
+document_sentiment=POSITIVE   Positive=0.8200960755348206 Negative=0.008358212187886238 Neutral=0.11596240103244781 Mixed=0.05558323115110397 
+document_sentiment=MIXED   Positive=0.039739713072776794 Negative=0.005560928024351597 Neutral=0.03763837367296219 Mixed=0.9170610904693604 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s627.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv313_18198.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s633.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv316_5972.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s636.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv317_25111.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s639.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv319_14727.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s642.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv320_9693.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s648.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv323_29805.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s651.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv325_16629.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s652.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv325_18330.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s656.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv327_21743.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s658.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv328_10908.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s659.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv329_29293.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s661.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv330_29675.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os661.txt
+document_sentiment=POSITIVE   Positive=0.8092688322067261 Negative=0.06443998217582703 Neutral=0.11118538677692413 Mixed=0.015105798840522766 
+document_sentiment=NEGATIVE   Positive=0.08679810166358948 Negative=0.6489763259887695 Neutral=0.10717421770095825 Mixed=0.1570514440536499 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s662.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv330_29809.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s666.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv332_17997.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s670.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv334_10001.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s672.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv335_16299.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s674.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv336_10363.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s679.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv339_21119.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s681.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv340_13287.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os681.txt
+document_sentiment=NEGATIVE   Positive=0.1430073380470276 Negative=0.8427900671958923 Neutral=0.01324943546205759 Mixed=0.0009531676769256592 
+document_sentiment=MIXED   Positive=0.3414779305458069 Negative=0.002570162061601877 Neutral=0.01413401123136282 Mixed=0.6418178677558899 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s682.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv340_14776.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s685.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv342_19456.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s689.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv344_5312.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s690.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv344_5376.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s692.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv345_9966.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os692.txt
+document_sentiment=POSITIVE   Positive=0.992617666721344 Negative=0.0017682863399386406 Neutral=0.005577952601015568 Mixed=3.600532727432437e-05 
+document_sentiment=NEUTRAL   Positive=0.07496669143438339 Negative=0.036944467574357986 Neutral=0.8859375715255737 Mixed=0.0021513053216040134 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s693.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv346_18168.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s695.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv347_13194.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s696.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv347_14722.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os696.txt
+document_sentiment=POSITIVE   Positive=0.5393808484077454 Negative=0.014660332351922989 Neutral=0.4448864459991455 Mixed=0.0010724612511694431 
+document_sentiment=NEUTRAL   Positive=0.008354836143553257 Negative=0.0645495355129242 Neutral=0.9270451068878174 Mixed=5.050476102042012e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s697.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv348_18176.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os697.txt
+document_sentiment=NEGATIVE   Positive=0.13641168177127838 Negative=0.3801600933074951 Neutral=0.34116503596305847 Mixed=0.14226315915584564 
+document_sentiment=NEUTRAL   Positive=0.43125978112220764 Negative=0.0924639105796814 Neutral=0.4634339213371277 Mixed=0.012842435389757156 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s704.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv351_17029.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s706.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv352_5524.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s709.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv354_8132.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s710.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv354_8573.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s711.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv355_16413.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s716.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv357_14710.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s719.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv359_6647.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os719.txt
+document_sentiment=NEGATIVE   Positive=0.004789246246218681 Negative=0.9856888055801392 Neutral=0.00942794606089592 Mixed=9.403480362379923e-05 
+document_sentiment=POSITIVE   Positive=0.5174053311347961 Negative=0.02123437263071537 Neutral=0.458313912153244 Mixed=0.0030464224983006716 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s721.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv360_8398.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os721.txt
+document_sentiment=NEGATIVE   Positive=0.04664775729179382 Negative=0.7479625344276428 Neutral=0.20092682540416718 Mixed=0.004462787881493568 
+document_sentiment=NEUTRAL   Positive=0.4604472815990448 Negative=0.0033924547024071217 Neutral=0.5361021161079407 Mixed=5.815504482598044e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s722.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv360_8927.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s730.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv364_14254.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s731.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv365_11576.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os731.txt
+document_sentiment=NEGATIVE   Positive=0.0495094396173954 Negative=0.6639392971992493 Neutral=0.020048245787620544 Mixed=0.2665030062198639 
+document_sentiment=POSITIVE   Positive=0.5336418747901917 Negative=0.24594330787658691 Neutral=0.16492369771003723 Mixed=0.05549108609557152 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s734.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv366_10709.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s735.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv367_22792.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s737.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv368_10466.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s739.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv369_12886.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s741.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv370_5221.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s745.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv372_6552.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s746.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv372_6654.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s748.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv373_21872.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os748.txt
+document_sentiment=POSITIVE   Positive=0.726180911064148 Negative=0.032199107110500336 Neutral=0.23959577083587646 Mixed=0.002024137182161212 
+document_sentiment=NEGATIVE   Positive=0.11501854658126831 Negative=0.46541404724121094 Neutral=0.27160677313804626 Mixed=0.1479605734348297 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s750.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv374_26455.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s752.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv375_9932.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s753.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv376_19435.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s762.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv380_8164.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s763.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv381_20172.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s764.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv381_21673.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s765.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv382_7897.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s769.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv384_17140.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s770.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv384_18536.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s771.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv385_29621.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s772.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv385_29741.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s773.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv386_10080.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s775.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv387_11507.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s778.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv388_12810.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s780.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv389_9611.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s781.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv390_11345.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os781.txt
+document_sentiment=NEGATIVE   Positive=0.01828726939857006 Negative=0.9083939790725708 Neutral=0.0719752162694931 Mixed=0.0013434879947453737 
+document_sentiment=POSITIVE   Positive=0.4788696765899658 Negative=0.12425418943166733 Neutral=0.3949437439441681 Mixed=0.0019324247259646654 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s784.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv391_11615.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s785.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv392_11458.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s787.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv393_29234.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os787.txt
+document_sentiment=POSITIVE   Positive=0.5180150270462036 Negative=0.38038158416748047 Neutral=0.09412325173616409 Mixed=0.007480195723474026 
+document_sentiment=NEGATIVE   Positive=0.04015481099486351 Negative=0.8869598507881165 Neutral=0.0725833848118782 Mixed=0.000301992375170812 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s788.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv393_29327.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os788.txt
+document_sentiment=NEGATIVE   Positive=0.04701780155301094 Negative=0.8465656638145447 Neutral=0.10308027267456055 Mixed=0.00333624379709363 
+document_sentiment=POSITIVE   Positive=0.5794248580932617 Negative=0.009647971019148827 Neutral=0.4093438684940338 Mixed=0.0015833335928618908 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s791.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv395_10849.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s792.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv395_11761.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s793.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv396_17989.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s795.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv397_28890.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s798.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv398_17047.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os798.txt
+document_sentiment=POSITIVE   Positive=0.7105534672737122 Negative=0.25716692209243774 Neutral=0.031279753893613815 Mixed=0.000999915529973805 
+document_sentiment=NEGATIVE   Positive=0.010427197441458702 Negative=0.9844682812690735 Neutral=0.004839536268264055 Mixed=0.0002649742236826569 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s805.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv402_14425.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s807.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv403_6621.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s808.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv403_6721.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s810.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv404_21805.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s813.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv406_21020.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os813.txt
+document_sentiment=NEGATIVE   Positive=0.22407788038253784 Negative=0.7624577283859253 Neutral=0.008533227257430553 Mixed=0.00493115559220314 
+document_sentiment=POSITIVE   Positive=0.6708000898361206 Negative=0.3114921748638153 Neutral=0.016508452594280243 Mixed=0.0011993063380941749 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s814.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv406_22199.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os814.txt
+document_sentiment=POSITIVE   Positive=0.9554160237312317 Negative=0.0054638260044157505 Neutral=0.021647632122039795 Mixed=0.01747252233326435 
+document_sentiment=MIXED   Positive=0.07088571786880493 Negative=0.1728317141532898 Neutral=0.011645619757473469 Mixed=0.7446369528770447 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s816.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv407_23928.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s817.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv408_5297.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os817.txt
+document_sentiment=NEGATIVE   Positive=0.2791025638580322 Negative=0.659996747970581 Neutral=0.05587675794959068 Mixed=0.005023967009037733 
+document_sentiment=NEUTRAL   Positive=0.20665742456912994 Negative=0.3018491864204407 Neutral=0.49078860878944397 Mixed=0.0007048155530355871 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s818.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv408_5367.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s819.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv409_29625.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os819.txt
+document_sentiment=POSITIVE   Positive=0.7264305949211121 Negative=0.03925222158432007 Neutral=0.22341115772724152 Mixed=0.010905992239713669 
+document_sentiment=MIXED   Positive=0.29828551411628723 Negative=0.048430003225803375 Neutral=0.17851784825325012 Mixed=0.47476664185523987 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s820.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv409_29786.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s824.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv411_16799.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s827.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv413_7398.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os827.txt
+document_sentiment=NEGATIVE   Positive=0.030373739078640938 Negative=0.9617862105369568 Neutral=0.007690987549722195 Mixed=0.0001490137801738456 
+document_sentiment=POSITIVE   Positive=0.793088436126709 Negative=0.013320490717887878 Neutral=0.19297800958156586 Mixed=0.0006130309193395078 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s828.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv413_7893.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os828.txt
+document_sentiment=POSITIVE   Positive=0.7279759645462036 Negative=0.17162390053272247 Neutral=0.032791830599308014 Mixed=0.06760832667350769 
+document_sentiment=NEGATIVE   Positive=0.05878321826457977 Negative=0.928147554397583 Neutral=0.0036582781467586756 Mixed=0.009410987608134747 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s837.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv418_14774.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s838.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv418_16562.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s840.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv419_14799.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s841.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv420_28631.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s842.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv420_28795.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s844.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv421_9752.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os844.txt
+document_sentiment=POSITIVE   Positive=0.6603474020957947 Negative=0.026956550776958466 Neutral=0.23682835698127747 Mixed=0.07586775720119476 
+document_sentiment=NEUTRAL   Positive=0.33631014823913574 Negative=0.007331045810133219 Neutral=0.6468666195869446 Mixed=0.00949219148606062 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s845.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv422_9381.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s849.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv424_8831.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s853.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv426_10421.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s857.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv428_11347.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s859.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv429_7439.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s860.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv429_7937.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s864.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv431_7538.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os864.txt
+document_sentiment=POSITIVE   Positive=0.7122695446014404 Negative=0.04346078261733055 Neutral=0.24303145706653595 Mixed=0.0012382062850520015 
+document_sentiment=NEGATIVE   Positive=0.1825346052646637 Negative=0.6588226556777954 Neutral=0.1578771024942398 Mixed=0.0007657128153368831 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s866.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv432_15873.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os866.txt
+document_sentiment=POSITIVE   Positive=0.3996070921421051 Negative=0.3155880868434906 Neutral=0.28446871042251587 Mixed=0.00033610372338443995 
+document_sentiment=NEGATIVE   Positive=0.08499704301357269 Negative=0.4611448347568512 Neutral=0.4530583322048187 Mixed=0.0007998034707270563 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s868.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv433_10443.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s874.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv436_20564.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s888.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv443_22367.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s889.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv444_9974.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s894.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv446_12209.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s896.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv447_27334.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s897.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv448_14695.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s898.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv448_16409.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s899.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv449_8785.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s901.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv450_7890.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s902.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv450_8319.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s903.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv451_10690.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s905.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv452_5088.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s906.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv452_5179.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s908.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv453_10911.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s909.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv454_2053.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os909.txt
+document_sentiment=NEGATIVE   Positive=0.29376882314682007 Negative=0.5417970418930054 Neutral=0.1622716635465622 Mixed=0.0021623745560646057 
+document_sentiment=POSITIVE   Positive=0.35737496614456177 Negative=0.3160931468009949 Neutral=0.28759729862213135 Mixed=0.03893466293811798 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s911.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv455_28866.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s913.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv456_18985.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s914.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv456_20370.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s916.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv457_19546.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os916.txt
+document_sentiment=POSITIVE   Positive=0.4974540174007416 Negative=0.35640227794647217 Neutral=0.14582717418670654 Mixed=0.00031647220021113753 
+document_sentiment=NEGATIVE   Positive=0.012341579422354698 Negative=0.9754565954208374 Neutral=0.012155717238783836 Mixed=4.604079731507227e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s919.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv459_20319.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s921.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv460_10842.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os921.txt
+document_sentiment=NEGATIVE   Positive=0.13641811907291412 Negative=0.8266621828079224 Neutral=0.02488560602068901 Mixed=0.012034127488732338 
+document_sentiment=POSITIVE   Positive=0.8916699290275574 Negative=0.03162510693073273 Neutral=0.07282979786396027 Mixed=0.0038752045948058367 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s924.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv461_21124.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s926.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv462_20788.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s927.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv463_10343.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s929.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv464_15650.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s931.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv465_22431.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s932.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv465_23401.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os932.txt
+document_sentiment=POSITIVE   Positive=0.5836842060089111 Negative=0.07302147150039673 Neutral=0.340950608253479 Mixed=0.002343704691156745 
+document_sentiment=NEUTRAL   Positive=0.06229071319103241 Negative=0.27732208371162415 Neutral=0.6600526571273804 Mixed=0.00033457655808888376 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s940.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv469_21998.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os940.txt
+document_sentiment=POSITIVE   Positive=0.43682152032852173 Negative=0.42894524335861206 Neutral=0.1340489536523819 Mixed=0.00018422362336423248 
+document_sentiment=NEGATIVE   Positive=0.034600649029016495 Negative=0.9003896713256836 Neutral=0.06496504694223404 Mixed=4.459016054170206e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s942.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv470_17444.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s946.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv472_29280.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s947.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv473_7367.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os947.txt
+document_sentiment=NEGATIVE   Positive=0.4328422546386719 Negative=0.5104170441627502 Neutral=0.05658173933625221 Mixed=0.00015894159150775522 
+document_sentiment=POSITIVE   Positive=0.7132889628410339 Negative=0.11542403697967529 Neutral=0.17051705718040466 Mixed=0.0007699003326706588 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s949.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv474_10209.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os949.txt
+document_sentiment=NEGATIVE   Positive=0.0740589052438736 Negative=0.8378724455833435 Neutral=0.08387954533100128 Mixed=0.004189044237136841 
+document_sentiment=MIXED   Positive=0.08053095638751984 Negative=0.00714701134711504 Neutral=0.022904550656676292 Mixed=0.8894175291061401 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s954.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv476_18402.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os954.txt
+document_sentiment=POSITIVE   Positive=0.9617184996604919 Negative=0.006506332196295261 Neutral=0.03166257590055466 Mixed=0.00011249011004110798 
+document_sentiment=NEGATIVE   Positive=0.017653297632932663 Negative=0.8313673734664917 Neutral=0.0033567219506949186 Mixed=0.14762260019779205 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s973.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv486_9788.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s975.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv487_10446.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s977.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv488_19856.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s979.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv489_17906.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os979.txt
+document_sentiment=NEGATIVE   Positive=0.20080280303955078 Negative=0.3319613039493561 Neutral=0.3233589231967926 Mixed=0.14387689530849457 
+document_sentiment=NEUTRAL   Positive=0.3159737288951874 Negative=0.0743037685751915 Neutral=0.5108679533004761 Mixed=0.09885459393262863 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s982.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv490_18986.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s984.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv491_12992.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s986.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv492_19370.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os986.txt
+document_sentiment=POSITIVE   Positive=0.5835397243499756 Negative=0.1618235856294632 Neutral=0.2421930730342865 Mixed=0.012443563900887966 
+document_sentiment=NEUTRAL   Positive=0.0327431783080101 Negative=0.007564425002783537 Neutral=0.9596374034881592 Mixed=5.499351391335949e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s988.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv493_14135.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s991.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv495_14518.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s994.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv496_11185.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s996.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv497_27086.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os996.txt
+document_sentiment=POSITIVE   Positive=0.8573201894760132 Negative=0.05236201733350754 Neutral=0.036841634660959244 Mixed=0.05347609892487526 
+document_sentiment=NEUTRAL   Positive=0.12968342006206512 Negative=0.3501249849796295 Neutral=0.5164624452590942 Mixed=0.0037291371263563633 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s998.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv498_9288.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1000.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv499_11407.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1008.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv503_11196.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1010.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv504_29243.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1010.txt
+document_sentiment=NEGATIVE   Positive=0.0790819451212883 Negative=0.5680245757102966 Neutral=0.005754175130277872 Mixed=0.34713929891586304 
+document_sentiment=POSITIVE   Positive=0.775941014289856 Negative=0.058811288326978683 Neutral=0.16509391367435455 Mixed=0.0001538525684736669 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1012.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv505_12926.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1016.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv507_9509.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1020.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv509_17354.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1020.txt
+document_sentiment=POSITIVE   Positive=0.43917399644851685 Negative=0.015106507577002048 Neutral=0.4175034463405609 Mixed=0.1282159686088562 
+document_sentiment=NEUTRAL   Positive=0.2824136018753052 Negative=0.06361734867095947 Neutral=0.6030467748641968 Mixed=0.05092226713895798 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1021.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv510_23360.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1021.txt
+document_sentiment=NEGATIVE   Positive=0.1129961684346199 Negative=0.5702518820762634 Neutral=0.31524258852005005 Mixed=0.0015094038099050522 
+document_sentiment=NEUTRAL   Positive=0.0979972705245018 Negative=0.4055645167827606 Neutral=0.4963451325893402 Mixed=9.305601270170882e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1022.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv510_24758.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1022.txt
+document_sentiment=POSITIVE   Positive=0.8382797241210938 Negative=0.08070135861635208 Neutral=0.04132819548249245 Mixed=0.039690762758255005 
+document_sentiment=MIXED   Positive=0.005407991819083691 Negative=0.06942903250455856 Neutral=0.0019190876046195626 Mixed=0.9232438802719116 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1026.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv512_17618.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1027.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv513_6923.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1029.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv514_11187.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1029.txt
+document_sentiment=NEGATIVE   Positive=0.002883116714656353 Negative=0.9736349582672119 Neutral=0.023287011310458183 Mixed=0.0001949637953657657 
+document_sentiment=NEUTRAL   Positive=0.2374095916748047 Negative=0.13222916424274445 Neutral=0.6156017184257507 Mixed=0.014759441837668419 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1034.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv516_12117.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1037.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv518_13331.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1037.txt
+document_sentiment=NEGATIVE   Positive=0.0215352363884449 Negative=0.8660639524459839 Neutral=0.006510332226753235 Mixed=0.10589047521352768 
+document_sentiment=MIXED   Positive=0.002760502742603421 Negative=4.2904568545054644e-05 Neutral=0.0007193236378952861 Mixed=0.9964773058891296 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1038.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv518_14798.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1042.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv520_13297.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1042.txt
+document_sentiment=POSITIVE   Positive=0.6834973096847534 Negative=0.29688844084739685 Neutral=0.018729880452156067 Mixed=0.000884342473000288 
+document_sentiment=NEGATIVE   Positive=0.20466502010822296 Negative=0.7690717577934265 Neutral=0.023954205214977264 Mixed=0.0023090154863893986 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1044.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv521_1730.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1045.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv522_5418.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1045.txt
+document_sentiment=POSITIVE   Positive=0.5845157504081726 Negative=0.003385534742847085 Neutral=0.41208627820014954 Mixed=1.2468685781641398e-05 
+document_sentiment=NEUTRAL   Positive=0.02509392984211445 Negative=0.2885071933269501 Neutral=0.6863781809806824 Mixed=2.0741465050377883e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1046.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv522_5583.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1049.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv524_23627.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1049.txt
+document_sentiment=NEGATIVE   Positive=0.11351625621318817 Negative=0.8033625483512878 Neutral=0.07056117057800293 Mixed=0.012560083530843258 
+document_sentiment=POSITIVE   Positive=0.9374299645423889 Negative=0.008243229240179062 Neutral=0.03191215544939041 Mixed=0.022414619103074074 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1056.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv527_10338.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1056.txt
+document_sentiment=POSITIVE   Positive=0.9838793873786926 Negative=0.003816793905571103 Neutral=0.011081825010478497 Mixed=0.001221993239596486 
+document_sentiment=MIXED   Positive=0.26701754331588745 Negative=0.0039586578495800495 Neutral=0.007532212417572737 Mixed=0.7214915752410889 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1060.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv529_10972.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1060.txt
+document_sentiment=POSITIVE   Positive=0.8712455034255981 Negative=0.029127173125743866 Neutral=0.09730848670005798 Mixed=0.0023188332561403513 
+document_sentiment=NEGATIVE   Positive=0.31690892577171326 Negative=0.40308383107185364 Neutral=0.27433788776397705 Mixed=0.005669377278536558 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1071.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv535_19728.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1071.txt
+document_sentiment=NEGATIVE   Positive=0.3693547248840332 Negative=0.549310564994812 Neutral=0.07077912241220474 Mixed=0.010555666871368885 
+document_sentiment=POSITIVE   Positive=0.9528738856315613 Negative=0.016565224155783653 Neutral=0.03036615625023842 Mixed=0.00019472114217933267 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1072.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv535_21183.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1073.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv536_27134.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1076.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv537_13516.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1076.txt
+document_sentiment=POSITIVE   Positive=0.7436138391494751 Negative=0.005762607790529728 Neutral=0.2505492866039276 Mixed=7.42637857911177e-05 
+document_sentiment=NEUTRAL   Positive=0.10931655019521713 Negative=0.005406942218542099 Neutral=0.8843678832054138 Mixed=0.000908656744286418 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1077.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv538_28485.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1079.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv539_20347.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1080.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv539_21865.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1083.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv541_28683.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1087.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv543_5045.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1093.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv546_11767.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1096.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv547_18043.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1097.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv548_17731.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1097.txt
+document_sentiment=NEGATIVE   Positive=0.01399710588157177 Negative=0.8232501745223999 Neutral=0.1596018224954605 Mixed=0.003150960896164179 
+document_sentiment=NEUTRAL   Positive=0.09858433902263641 Negative=0.13152103126049042 Neutral=0.7635560035705566 Mixed=0.006338619161397219 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1103.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv551_10565.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1105.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv552_0150.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1105.txt
+document_sentiment=POSITIVE   Positive=0.5607596039772034 Negative=0.4187530279159546 Neutral=0.019912881776690483 Mixed=0.0005744582158513367 
+document_sentiment=NEGATIVE   Positive=0.08354838192462921 Negative=0.9003772735595703 Neutral=0.015657920390367508 Mixed=0.0004164775018580258 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1108.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv553_26965.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1109.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv554_13151.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1111.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv555_23922.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1114.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv556_16563.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1122.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv560_18608.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1122.txt
+document_sentiment=POSITIVE   Positive=0.8086970448493958 Negative=0.1650000959634781 Neutral=0.010917045176029205 Mixed=0.01538576278835535 
+document_sentiment=NEGATIVE   Positive=0.006564060691744089 Negative=0.9834028482437134 Neutral=0.009448286145925522 Mixed=0.0005848092841915786 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1124.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv561_9484.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1125.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv562_10359.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1126.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv562_10847.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1126.txt
+document_sentiment=POSITIVE   Positive=0.6124142408370972 Negative=0.30620211362838745 Neutral=0.026183253154158592 Mixed=0.05520034208893776 
+document_sentiment=NEGATIVE   Positive=0.045423805713653564 Negative=0.9093021750450134 Neutral=0.0437447726726532 Mixed=0.00152930140029639 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1128.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv563_18610.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1128.txt
+document_sentiment=POSITIVE   Positive=0.8854758143424988 Negative=0.01639566756784916 Neutral=0.09708540141582489 Mixed=0.001043203636072576 
+document_sentiment=NEGATIVE   Positive=0.25292637944221497 Negative=0.7309072613716125 Neutral=0.013969537802040577 Mixed=0.002196858637034893 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1129.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv564_11110.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1130.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv564_12011.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1130.txt
+document_sentiment=POSITIVE   Positive=0.9837808609008789 Negative=0.0003939814923796803 Neutral=0.014446602202951908 Mixed=0.0013785529881715775 
+document_sentiment=NEGATIVE   Positive=0.0017988878535106778 Negative=0.9852661490440369 Neutral=0.002351949457079172 Mixed=0.010583057068288326 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1133.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv566_8581.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1134.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv566_8967.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1134.txt
+document_sentiment=POSITIVE   Positive=0.6415941715240479 Negative=0.16972778737545013 Neutral=0.10146024823188782 Mixed=0.08721784502267838 
+document_sentiment=NEGATIVE   Positive=0.16198953986167908 Negative=0.5752127766609192 Neutral=0.2603660225868225 Mixed=0.0024316757917404175 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1139.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv569_26381.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1146.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv572_20053.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1148.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv573_29525.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1151.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv575_21150.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1152.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv575_22598.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1152.txt
+document_sentiment=POSITIVE   Positive=0.5686373710632324 Negative=0.017207548022270203 Neutral=0.4140738844871521 Mixed=8.113937656162307e-05 
+document_sentiment=NEGATIVE   Positive=0.07932125777006149 Negative=0.7509235739707947 Neutral=0.13381963968276978 Mixed=0.03593545779585838 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1154.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv576_15688.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1154.txt
+document_sentiment=POSITIVE   Positive=0.4992169439792633 Negative=0.05859160050749779 Neutral=0.4391598403453827 Mixed=0.003031657077372074 
+document_sentiment=NEUTRAL   Positive=0.45416393876075745 Negative=0.029803115874528885 Neutral=0.5133017897605896 Mixed=0.0027311004232615232 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1155.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv577_28220.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1155.txt
+document_sentiment=POSITIVE   Positive=0.5723918080329895 Negative=0.005504448898136616 Neutral=0.4196540415287018 Mixed=0.0024497087579220533 
+document_sentiment=NEUTRAL   Positive=0.3251692056655884 Negative=0.05204692855477333 Neutral=0.6126559376716614 Mixed=0.010127856396138668 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1157.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv578_15094.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1158.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv578_16825.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1162.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv580_15681.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1162.txt
+document_sentiment=POSITIVE   Positive=0.9711973071098328 Negative=0.00657679745927453 Neutral=0.021853091195225716 Mixed=0.0003728152369149029 
+document_sentiment=MIXED   Positive=0.046426594257354736 Negative=0.01918882317841053 Neutral=0.09214318543672562 Mixed=0.8422414660453796 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1164.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv581_20790.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1164.txt
+document_sentiment=POSITIVE   Positive=0.5712925791740417 Negative=0.009388905949890614 Neutral=0.018640093505382538 Mixed=0.400678426027298 
+document_sentiment=NEGATIVE   Positive=0.11370915919542313 Negative=0.7725861072540283 Neutral=0.11092544347047806 Mixed=0.0027791992761194706 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1166.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv582_6678.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1170.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv584_29722.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1172.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv585_23576.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1173.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv586_7543.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1175.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv587_19162.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1177.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv588_13008.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1178.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv588_14467.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1184.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv591_24887.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1185.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv592_22315.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1189.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv594_11039.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1189.txt
+document_sentiment=NEGATIVE   Positive=0.018249746412038803 Negative=0.9083462953567505 Neutral=0.007521163672208786 Mixed=0.06588274985551834 
+document_sentiment=POSITIVE   Positive=0.8725720047950745 Negative=0.10389150679111481 Neutral=0.017486698925495148 Mixed=0.0060498155653476715 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1192.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv595_26420.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1198.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv598_18184.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1200.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv599_22197.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1202.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv600_25043.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1204.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv601_24759.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1206.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv602_8830.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1206.txt
+document_sentiment=POSITIVE   Positive=0.9679378271102905 Negative=0.0011112191714346409 Neutral=0.027284694835543633 Mixed=0.0036663503851741552 
+document_sentiment=NEUTRAL   Positive=0.2172241061925888 Negative=0.06130560487508774 Neutral=0.7187204957008362 Mixed=0.00274980952963233 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1211.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv605_11800.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1214.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv606_17672.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1215.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv607_7717.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1216.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv607_8235.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1217.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv608_23231.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1217.txt
+document_sentiment=NEGATIVE   Positive=0.4002848267555237 Negative=0.5630320906639099 Neutral=0.036492373794317245 Mixed=0.00019073202565778047 
+document_sentiment=POSITIVE   Positive=0.9853311777114868 Negative=0.0036974363029003143 Neutral=0.010965515859425068 Mixed=5.872421297681285e-06 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1219.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv609_23877.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1225.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv612_5396.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1229.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv614_10626.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1231.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv615_14182.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1235.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv617_9322.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1245.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv622_8147.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1245.txt
+document_sentiment=NEGATIVE   Positive=0.3329678177833557 Negative=0.39114660024642944 Neutral=0.27011844515800476 Mixed=0.0057671708054840565 
+document_sentiment=NEUTRAL   Positive=0.1559482216835022 Negative=0.33796918392181396 Neutral=0.5006738901138306 Mixed=0.005408703815191984 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1247.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv623_15356.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1250.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv624_11601.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1251.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv625_12440.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1253.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv626_7410.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1253.txt
+document_sentiment=NEGATIVE   Positive=0.01861776039004326 Negative=0.9640390276908875 Neutral=0.016366802155971527 Mixed=0.0009763226262293756 
+document_sentiment=POSITIVE   Positive=0.8395892977714539 Negative=0.1210971400141716 Neutral=0.03714980557560921 Mixed=0.0021637219469994307 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1254.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv626_7907.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1255.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv627_11620.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1256.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv627_12603.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1258.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv628_20758.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1258.txt
+document_sentiment=POSITIVE   Positive=0.44735682010650635 Negative=0.4413398206233978 Neutral=0.0866643413901329 Mixed=0.024638976901769638 
+document_sentiment=NEGATIVE   Positive=0.08078557997941971 Negative=0.539088249206543 Neutral=0.12781721353530884 Mixed=0.2523088753223419 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1259.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv629_14909.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1259.txt
+document_sentiment=NEGATIVE   Positive=0.04744229093194008 Negative=0.8514752984046936 Neutral=0.10102275758981705 Mixed=5.964771844446659e-05 
+document_sentiment=POSITIVE   Positive=0.7811450958251953 Negative=0.09832917153835297 Neutral=0.04871766269207001 Mixed=0.07180803269147873 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1262.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv630_10152.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1263.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv631_4782.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1263.txt
+document_sentiment=POSITIVE   Positive=0.7590648531913757 Negative=0.1640435755252838 Neutral=0.06917113810777664 Mixed=0.007720429450273514 
+document_sentiment=NEGATIVE   Positive=0.028338247910141945 Negative=0.9338802099227905 Neutral=0.016764655709266663 Mixed=0.021016942337155342 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1264.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv631_4967.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1264.txt
+document_sentiment=NEGATIVE   Positive=0.03305710479617119 Negative=0.8405837416648865 Neutral=0.12628257274627686 Mixed=7.666253804927692e-05 
+document_sentiment=POSITIVE   Positive=0.4214698374271393 Negative=0.31452804803848267 Neutral=0.26306965947151184 Mixed=0.0009324291022494435 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1266.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv632_9704.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1270.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv634_11989.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1272.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv635_10022.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1273.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv636_15279.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1273.txt
+document_sentiment=NEGATIVE   Positive=0.2618491053581238 Negative=0.41554319858551025 Neutral=0.10124298930168152 Mixed=0.22136466205120087 
+document_sentiment=POSITIVE   Positive=0.6519129872322083 Negative=0.09366101771593094 Neutral=0.1161307692527771 Mixed=0.13829517364501953 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1274.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv636_16954.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1276.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv637_13682.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1276.txt
+document_sentiment=POSITIVE   Positive=0.5634740591049194 Negative=0.011030561290681362 Neutral=0.20227237045764923 Mixed=0.2232230007648468 
+document_sentiment=MIXED   Positive=0.04483158886432648 Negative=0.031633470207452774 Neutral=0.263636976480484 Mixed=0.6598979830741882 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1282.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv640_5380.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1282.txt
+document_sentiment=POSITIVE   Positive=0.7310549020767212 Negative=0.12897120416164398 Neutral=0.10622051358222961 Mixed=0.033753395080566406 
+document_sentiment=NEGATIVE   Positive=0.05852309614419937 Negative=0.8052830100059509 Neutral=0.1361883282661438 Mixed=5.604947091342183e-06 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1303.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv651_10492.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1305.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv652_13972.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1308.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv653_2107.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1312.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv655_12055.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1313.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv656_24201.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1313.txt
+document_sentiment=NEGATIVE   Positive=0.3282995820045471 Negative=0.6470296382904053 Neutral=0.019306274130940437 Mixed=0.005364452488720417 
+document_sentiment=POSITIVE   Positive=0.9676091074943542 Negative=0.004044040106236935 Neutral=0.02772373892366886 Mixed=0.0006231635343283415 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1315.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv657_24513.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1316.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv657_25835.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1324.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv661_25780.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1324.txt
+document_sentiment=POSITIVE   Positive=0.44455990195274353 Negative=0.20440439879894257 Neutral=0.2877664268016815 Mixed=0.06326928734779358 
+document_sentiment=MIXED   Positive=0.030463648959994316 Negative=0.017696848139166832 Neutral=0.001693240599706769 Mixed=0.9501463174819946 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1325.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv662_13320.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1330.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv664_4389.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1330.txt
+document_sentiment=NEGATIVE   Positive=0.028389979153871536 Negative=0.883625328540802 Neutral=0.08721034973859787 Mixed=0.0007743906462565064 
+document_sentiment=MIXED   Positive=0.0737265944480896 Negative=0.1358722299337387 Neutral=0.06472128629684448 Mixed=0.725679874420166 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1338.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv668_18848.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1342.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv670_2666.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1343.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv671_5054.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1344.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv671_5164.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1344.txt
+document_sentiment=POSITIVE   Positive=0.7810806632041931 Negative=0.0025737315881997347 Neutral=0.07873249799013138 Mixed=0.13761316239833832 
+document_sentiment=MIXED   Positive=0.33172282576560974 Negative=0.006840821355581284 Neutral=0.13107924163341522 Mixed=0.5303570628166199 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1345.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv672_27988.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1348.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv673_25874.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1348.txt
+document_sentiment=POSITIVE   Positive=0.7210619449615479 Negative=0.003679360495880246 Neutral=0.25916701555252075 Mixed=0.01609172485768795 
+document_sentiment=MIXED   Positive=0.011926256120204926 Negative=0.028089269995689392 Neutral=0.009973391890525818 Mixed=0.9500110745429993 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1350.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv674_11593.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1350.txt
+document_sentiment=POSITIVE   Positive=0.9834746718406677 Negative=0.00021060134167782962 Neutral=0.01627366989850998 Mixed=4.107597851543687e-05 
+document_sentiment=NEGATIVE   Positive=0.2712700068950653 Negative=0.4975907504558563 Neutral=0.23087939620018005 Mixed=0.00025977552286349237 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1352.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv675_22871.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1353.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv676_21090.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1358.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv678_14887.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1358.txt
+document_sentiment=POSITIVE   Positive=0.7492423057556152 Negative=0.09978000074625015 Neutral=0.14626464247703552 Mixed=0.004713066387921572 
+document_sentiment=NEUTRAL   Positive=0.19989268481731415 Negative=0.2769932150840759 Neutral=0.5221129059791565 Mixed=0.0010012962156906724 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1359.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv679_28221.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1360.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv679_28559.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1360.txt
+document_sentiment=NEGATIVE   Positive=0.011984502896666527 Negative=0.971469521522522 Neutral=0.016461437568068504 Mixed=8.45993563416414e-05 
+document_sentiment=POSITIVE   Positive=0.9864609241485596 Negative=0.003744692075997591 Neutral=0.009745880030095577 Mixed=4.856050873058848e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1361.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv680_10160.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1368.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv683_13047.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1368.txt
+document_sentiment=POSITIVE   Positive=0.7483242750167847 Negative=0.15406569838523865 Neutral=0.04122614860534668 Mixed=0.056383922696113586 
+document_sentiment=NEGATIVE   Positive=0.048651933670043945 Negative=0.9419041872024536 Neutral=0.007957001216709614 Mixed=0.0014868093421682715 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1369.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv684_11798.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1370.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv684_12727.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1373.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv686_13900.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1373.txt
+document_sentiment=NEGATIVE   Positive=0.2448999434709549 Negative=0.7075383067131042 Neutral=0.005544836167246103 Mixed=0.04201691597700119 
+document_sentiment=POSITIVE   Positive=0.9292599558830261 Negative=0.012637716718018055 Neutral=0.03632096201181412 Mixed=0.021781332790851593 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1376.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv687_22207.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1376.txt
+document_sentiment=POSITIVE   Positive=0.8090116381645203 Negative=0.029901396483182907 Neutral=0.14346317946910858 Mixed=0.017623789608478546 
+document_sentiment=NEUTRAL   Positive=0.3467787802219391 Negative=0.05063512921333313 Neutral=0.6022970676422119 Mixed=0.0002890205360017717 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1378.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv688_7884.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1384.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv691_5090.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1386.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv692_17026.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1388.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv693_19147.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1388.txt
+document_sentiment=POSITIVE   Positive=0.6185107827186584 Negative=0.1754656732082367 Neutral=0.03071165457367897 Mixed=0.17531192302703857 
+document_sentiment=NEGATIVE   Positive=0.3679960370063782 Negative=0.5328481197357178 Neutral=0.07379328459501266 Mixed=0.025362594053149223 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1393.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv696_29619.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1395.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv697_11162.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1398.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv698_16930.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1399.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv699_7223.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1400.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv699_7773.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1407.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv703_16143.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1407.txt
+document_sentiment=NEGATIVE   Positive=0.4048519432544708 Negative=0.5768448710441589 Neutral=0.015242929570376873 Mixed=0.003060264978557825 
+document_sentiment=POSITIVE   Positive=0.8750247955322266 Negative=0.09013598412275314 Neutral=0.034472450613975525 Mixed=0.0003668353601824492 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1410.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv704_17622.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1411.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv705_11059.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1416.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv707_11421.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1417.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv708_28539.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1419.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv709_10529.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1421.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv710_22577.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1429.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv714_18502.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1430.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv714_19704.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1431.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv715_18179.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1436.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv717_17472.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1437.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv718_11434.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1438.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv718_12227.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1441.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv720_5383.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1441.txt
+document_sentiment=POSITIVE   Positive=0.8289190530776978 Negative=0.0010820821626111865 Neutral=0.1666482388973236 Mixed=0.0033506148029118776 
+document_sentiment=NEUTRAL   Positive=0.3512275815010071 Negative=0.04223999008536339 Neutral=0.5994236469268799 Mixed=0.007108786609023809 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1446.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv722_7571.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1447.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv723_8648.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1449.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv724_13681.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1450.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv724_15265.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1450.txt
+document_sentiment=POSITIVE   Positive=0.5309531688690186 Negative=0.2073197066783905 Neutral=0.2604557275772095 Mixed=0.0012713863980025053 
+document_sentiment=MIXED   Positive=0.012251332402229309 Negative=0.16833613812923431 Neutral=0.011436624452471733 Mixed=0.8079759478569031 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1456.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv727_5006.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1460.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv729_10475.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1460.txt
+document_sentiment=POSITIVE   Positive=0.8953490853309631 Negative=0.008361982181668282 Neutral=0.09599758684635162 Mixed=0.00029130789334885776 
+document_sentiment=NEGATIVE   Positive=0.14640465378761292 Negative=0.5376634001731873 Neutral=0.31512579321861267 Mixed=0.0008061194093897939 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1462.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv730_10729.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1463.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv731_3968.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1463.txt
+document_sentiment=POSITIVE   Positive=0.8122501969337463 Negative=0.008756650611758232 Neutral=0.1753256916999817 Mixed=0.0036675124429166317 
+document_sentiment=NEUTRAL   Positive=0.053785357624292374 Negative=0.4601559638977051 Neutral=0.48500165343284607 Mixed=0.0010569578735157847 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1465.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv732_12245.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1468.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv733_9891.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1470.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv734_22821.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1480.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv739_12179.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1483.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv741_11890.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1484.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv741_12765.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1485.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv742_7751.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1485.txt
+document_sentiment=NEGATIVE   Positive=0.21920962631702423 Negative=0.431227445602417 Neutral=0.3414945602416992 Mixed=0.00806842278689146 
+document_sentiment=NEUTRAL   Positive=0.288350373506546 Negative=0.1709553301334381 Neutral=0.4190952181816101 Mixed=0.12159914523363113 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1486.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv742_8279.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1486.txt
+document_sentiment=POSITIVE   Positive=0.9686138033866882 Negative=0.0009242951637133956 Neutral=0.030407162383198738 Mixed=5.474630233948119e-05 
+document_sentiment=NEGATIVE   Positive=0.038805242627859116 Negative=0.5722185373306274 Neutral=0.03948681429028511 Mixed=0.3494894504547119 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1487.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv743_15449.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1490.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv744_10091.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1497.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv748_12786.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1503.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv751_15719.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1504.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv751_17208.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1505.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv752_24155.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1506.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv752_25330.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1511.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv755_23616.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1517.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv758_9671.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1518.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv758_9740.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1520.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv759_15091.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1520.txt
+document_sentiment=POSITIVE   Positive=0.7346780896186829 Negative=0.009690696373581886 Neutral=0.21646320819854736 Mixed=0.039167989045381546 
+document_sentiment=NEUTRAL   Positive=0.34194186329841614 Negative=0.019614188000559807 Neutral=0.6240451335906982 Mixed=0.014398827217519283 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1521.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv760_8597.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1527.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv763_14729.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1527.txt
+document_sentiment=NEGATIVE   Positive=0.042653460055589676 Negative=0.8723434209823608 Neutral=0.08131545782089233 Mixed=0.0036877081729471684 
+document_sentiment=MIXED   Positive=0.0031857071444392204 Negative=0.042749226093292236 Neutral=0.03599192574620247 Mixed=0.9180731773376465 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1529.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv764_11739.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1530.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv764_12701.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1530.txt
+document_sentiment=POSITIVE   Positive=0.854613184928894 Negative=0.01623951457440853 Neutral=0.12905535101890564 Mixed=9.189616685034707e-05 
+document_sentiment=NEGATIVE   Positive=0.07515574246644974 Negative=0.7551581859588623 Neutral=0.16907435655593872 Mixed=0.0006117746233940125 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1532.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv765_20429.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1535.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv767_14062.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1536.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv767_15673.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1538.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv768_12709.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1539.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv769_8123.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1540.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv769_8565.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1541.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv770_10451.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1547.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv773_18817.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1548.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv773_20264.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1549.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv774_13845.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1549.txt
+document_sentiment=NEGATIVE   Positive=0.3150157928466797 Negative=0.335334837436676 Neutral=0.07914413511753082 Mixed=0.27050530910491943 
+document_sentiment=NEUTRAL   Positive=0.23653283715248108 Negative=0.10702875256538391 Neutral=0.646579384803772 Mixed=0.009859016165137291 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1553.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv776_20529.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1554.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv776_21934.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1556.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv777_10247.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1558.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv778_18629.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1558.txt
+document_sentiment=POSITIVE   Positive=0.7823407053947449 Negative=0.08783219754695892 Neutral=0.1267254799604416 Mixed=0.003101674374192953 
+document_sentiment=NEUTRAL   Positive=0.09857180714607239 Negative=0.10134077072143555 Neutral=0.7994469404220581 Mixed=0.000640450103674084 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1560.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv779_18989.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1562.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv780_8467.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1563.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv781_5262.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1563.txt
+document_sentiment=NEGATIVE   Positive=0.0733976885676384 Negative=0.6815601587295532 Neutral=0.24316592514514923 Mixed=0.00187628623098135 
+document_sentiment=POSITIVE   Positive=0.4767683744430542 Negative=0.23347868025302887 Neutral=0.2833397090435028 Mixed=0.006413270253688097 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1564.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv781_5358.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1568.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv783_14724.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1569.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv784_14394.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1569.txt
+document_sentiment=NEGATIVE   Positive=0.09040901809930801 Negative=0.562366247177124 Neutral=0.3415948152542114 Mixed=0.0056298947893083096 
+document_sentiment=POSITIVE   Positive=0.46304115653038025 Negative=0.09753002226352692 Neutral=0.4091184437274933 Mixed=0.030310459434986115 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1572.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv785_23748.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1572.txt
+document_sentiment=POSITIVE   Positive=0.9241513609886169 Negative=0.002769655082374811 Neutral=0.07171466946601868 Mixed=0.0013643510174006224 
+document_sentiment=MIXED   Positive=0.04971199855208397 Negative=0.002894790144637227 Neutral=0.010511482134461403 Mixed=0.9368817806243896 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1573.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv786_22497.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1575.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv787_13743.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1581.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv790_14600.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1583.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv791_16302.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1583.txt
+document_sentiment=NEGATIVE   Positive=0.32958269119262695 Negative=0.4873563349246979 Neutral=0.18292208015918732 Mixed=0.00013891169510316104 
+document_sentiment=POSITIVE   Positive=0.8085353374481201 Negative=0.0029174801893532276 Neutral=0.1883237659931183 Mixed=0.00022345545585267246 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1585.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv792_3257.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1585.txt
+document_sentiment=POSITIVE   Positive=0.9882456064224243 Negative=0.0016065578674897552 Neutral=0.009180753491818905 Mixed=0.0009671713341958821 
+document_sentiment=NEGATIVE   Positive=0.03594593703746796 Negative=0.547545850276947 Neutral=0.4155816435813904 Mixed=0.0009266374981962144 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1588.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv793_15235.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1591.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv795_10122.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1593.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv796_15782.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1594.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv796_17243.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1596.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv797_7245.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1598.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv798_24779.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1598.txt
+document_sentiment=POSITIVE   Positive=0.7617472410202026 Negative=0.1623455137014389 Neutral=0.0702812597155571 Mixed=0.005625986959785223 
+document_sentiment=NEUTRAL   Positive=0.1024184599518776 Negative=0.4397602379322052 Neutral=0.45340052247047424 Mixed=0.0044208113104105 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1601.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv800_12368.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1604.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv801_26335.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1614.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv806_9405.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1614.txt
+document_sentiment=POSITIVE   Positive=0.7496283650398254 Negative=0.08161044120788574 Neutral=0.12238425016403198 Mixed=0.04637691751122475 
+document_sentiment=NEGATIVE   Positive=0.09668765962123871 Negative=0.4670340120792389 Neutral=0.43606090545654297 Mixed=0.0002174457913497463 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1617.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv808_12635.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1620.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv809_5012.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1624.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv811_22646.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1626.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv812_19051.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1628.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv813_6649.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1628.txt
+document_sentiment=POSITIVE   Positive=0.8739948868751526 Negative=0.08081965148448944 Neutral=0.044940974563360214 Mixed=0.00024439874687232077 
+document_sentiment=NEGATIVE   Positive=0.12051272392272949 Negative=0.6561048030853271 Neutral=0.12746122479438782 Mixed=0.09592129290103912 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1629.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv814_18975.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1631.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv815_22456.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1631.txt
+document_sentiment=NEGATIVE   Positive=0.03009887970983982 Negative=0.9519652128219604 Neutral=0.017623521387577057 Mixed=0.0003123439964838326 
+document_sentiment=NEUTRAL   Positive=0.2696826159954071 Negative=0.04836353659629822 Neutral=0.6816183924674988 Mixed=0.000335513090249151 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1633.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv816_13655.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1634.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv816_15257.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1635.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv817_3675.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1638.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv818_10698.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1640.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv819_9567.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1644.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv821_29364.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1646.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv822_21545.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1647.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv823_15569.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1648.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv823_17055.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1648.txt
+document_sentiment=POSITIVE   Positive=0.6072662472724915 Negative=0.0016980787040665746 Neutral=0.3909451365470886 Mixed=9.057840361492708e-05 
+document_sentiment=NEUTRAL   Positive=0.10600593686103821 Negative=0.007010705769062042 Neutral=0.8867959380149841 Mixed=0.00018738927610684186 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1651.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv825_5063.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1652.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv825_5168.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1653.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv826_11834.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1656.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv827_19479.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1660.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv829_21725.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1661.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv830_5778.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1661.txt
+document_sentiment=POSITIVE   Positive=0.4861619174480438 Negative=0.0937894880771637 Neutral=0.4070981740951538 Mixed=0.012950494885444641 
+document_sentiment=NEUTRAL   Positive=0.33473044633865356 Negative=0.06951331347227097 Neutral=0.3842350244522095 Mixed=0.21152128279209137 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1662.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv830_6014.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1665.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv832_23275.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1665.txt
+document_sentiment=NEGATIVE   Positive=0.004918008577078581 Negative=0.9829537868499756 Neutral=0.012090416625142097 Mixed=3.774907236220315e-05 
+document_sentiment=NEUTRAL   Positive=0.022045671939849854 Negative=0.30235806107521057 Neutral=0.6752424836158752 Mixed=0.0003537902666721493 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1668.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv833_11961.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1672.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv835_20531.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1675.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv837_27232.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1680.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv839_22807.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1681.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv840_16321.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1682.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv840_18033.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1683.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv841_3367.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1683.txt
+document_sentiment=POSITIVE   Positive=0.585813581943512 Negative=0.19008931517601013 Neutral=0.1802280992269516 Mixed=0.04386904835700989 
+document_sentiment=NEGATIVE   Positive=0.019610168412327766 Negative=0.9743242263793945 Neutral=0.004847861360758543 Mixed=0.0012177141616120934 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1686.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv842_5866.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1687.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv843_15544.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1688.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv843_17054.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1692.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv845_15886.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1692.txt
+document_sentiment=POSITIVE   Positive=0.9899609088897705 Negative=0.002933810232207179 Neutral=0.006681184284389019 Mixed=0.00042407988803461194 
+document_sentiment=NEUTRAL   Positive=0.2468966841697693 Negative=0.17839296162128448 Neutral=0.5665314793586731 Mixed=0.008178910240530968 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1693.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv846_29359.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1704.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv851_21895.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1704.txt
+document_sentiment=POSITIVE   Positive=0.9655022621154785 Negative=0.005280107259750366 Neutral=0.028838925063610077 Mixed=0.0003787908353842795 
+document_sentiment=MIXED   Positive=0.1459731012582779 Negative=0.35274696350097656 Neutral=0.14106670022010803 Mixed=0.3602132499217987 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1706.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv852_27523.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1707.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv853_29119.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1708.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv853_29233.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1710.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv854_18955.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1713.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv856_28882.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1718.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv858_20266.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1719.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv859_14107.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1722.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv860_15520.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1723.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv861_1198.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1723.txt
+document_sentiment=NEGATIVE   Positive=0.357923299074173 Negative=0.5713420510292053 Neutral=0.06934261322021484 Mixed=0.0013920740457251668 
+document_sentiment=POSITIVE   Positive=0.8858804106712341 Negative=0.02175278402864933 Neutral=0.09230691194534302 Mixed=5.9911140851909295e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1724.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv861_12809.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1728.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv863_7912.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1729.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv864_3087.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1729.txt
+document_sentiment=POSITIVE   Positive=0.6241946220397949 Negative=0.2903023362159729 Neutral=0.08188676089048386 Mixed=0.00361629412509501 
+document_sentiment=NEGATIVE   Positive=0.023160193115472794 Negative=0.9387080669403076 Neutral=0.038066644221544266 Mixed=6.505105557153001e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1731.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv865_28796.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1735.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv867_16661.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1736.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv867_18362.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1740.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv869_24782.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1751.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv875_5622.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1752.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv875_5754.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1753.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv876_9390.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1754.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv876_9633.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1755.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv877_29132.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1755.txt
+document_sentiment=POSITIVE   Positive=0.5408319234848022 Negative=0.24900402128696442 Neutral=0.2097187489271164 Mixed=0.0004452825814951211 
+document_sentiment=NEUTRAL   Positive=0.32320430874824524 Negative=0.1362178921699524 Neutral=0.5396425724029541 Mixed=0.0009352850611321628 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1758.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv878_17204.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1759.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv879_14903.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1759.txt
+document_sentiment=NEGATIVE   Positive=0.002795083448290825 Negative=0.9904659986495972 Neutral=0.006503844168037176 Mixed=0.0002350453578401357 
+document_sentiment=NEUTRAL   Positive=0.40667152404785156 Negative=0.026497557759284973 Neutral=0.5665009021759033 Mixed=0.0003299849631730467 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1760.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv879_16585.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1760.txt
+document_sentiment=POSITIVE   Positive=0.8406469821929932 Negative=0.04749248921871185 Neutral=0.11174540966749191 Mixed=0.00011506180453579873 
+document_sentiment=NEGATIVE   Positive=0.2694517970085144 Negative=0.46086108684539795 Neutral=0.26933175325393677 Mixed=0.0003554187132976949 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1761.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv880_29629.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1761.txt
+document_sentiment=POSITIVE   Positive=0.5937968492507935 Negative=0.043881189078092575 Neutral=0.29005059599876404 Mixed=0.07227139174938202 
+document_sentiment=NEGATIVE   Positive=0.14366966485977173 Negative=0.6827718019485474 Neutral=0.12058936059474945 Mixed=0.05296923592686653 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1762.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv880_29800.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1763.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv881_13254.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1763.txt
+document_sentiment=NEGATIVE   Positive=0.0011688803788274527 Negative=0.9978546500205994 Neutral=0.000921301543712616 Mixed=5.521681305253878e-05 
+document_sentiment=NEUTRAL   Positive=0.2296646684408188 Negative=0.32897841930389404 Neutral=0.412635862827301 Mixed=0.028721140697598457 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1765.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv882_10026.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1767.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv883_27621.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1769.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv884_13632.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1769.txt
+document_sentiment=NEGATIVE   Positive=0.12617820501327515 Negative=0.7691707611083984 Neutral=0.1005018875002861 Mixed=0.004149070009589195 
+document_sentiment=NEUTRAL   Positive=0.3378751575946808 Negative=0.32052016258239746 Neutral=0.3402916193008423 Mixed=0.001313063781708479 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1772.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv885_13390.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1774.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv886_19210.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1779.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv889_21430.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1781.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv890_3515.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1781.txt
+document_sentiment=POSITIVE   Positive=0.34996771812438965 Negative=0.3228031396865845 Neutral=0.3168047070503235 Mixed=0.010424397885799408 
+document_sentiment=NEGATIVE   Positive=0.1775345653295517 Negative=0.4127873182296753 Neutral=0.36752262711524963 Mixed=0.04215544834733009 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1782.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv890_3977.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1790.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv894_22140.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1792.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv895_22200.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1794.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv896_17819.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1795.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv897_10837.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1795.txt
+document_sentiment=NEGATIVE   Positive=0.2823129892349243 Negative=0.648997962474823 Neutral=0.06151237711310387 Mixed=0.007176726590842009 
+document_sentiment=NEUTRAL   Positive=0.4254719018936157 Negative=0.020045844838023186 Neutral=0.554333508014679 Mixed=0.0001486876717535779 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1798.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv898_1576.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1800.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv899_17812.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1802.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv900_10800.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1806.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv902_13217.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1807.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv903_17822.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1808.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv903_18981.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1809.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv904_24353.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1810.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv904_25663.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1810.txt
+document_sentiment=POSITIVE   Positive=0.9388240575790405 Negative=0.009864463470876217 Neutral=0.051001984626054764 Mixed=0.00030951970256865025 
+document_sentiment=NEGATIVE   Positive=0.25708791613578796 Negative=0.3783872723579407 Neutral=0.11982470750808716 Mixed=0.24470014870166779 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1814.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv906_12332.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1814.txt
+document_sentiment=POSITIVE   Positive=0.7407580018043518 Negative=0.2065383344888687 Neutral=0.052137475460767746 Mixed=0.0005661528557538986 
+document_sentiment=NEUTRAL   Positive=0.38910815119743347 Negative=0.21197405457496643 Neutral=0.39322006702423096 Mixed=0.005697667598724365 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1815.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv907_3193.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1815.txt
+document_sentiment=POSITIVE   Positive=0.711128294467926 Negative=0.0932285264134407 Neutral=0.1606777161359787 Mixed=0.03496547415852547 
+document_sentiment=NEGATIVE   Positive=0.1485057920217514 Negative=0.5347118377685547 Neutral=0.31133076548576355 Mixed=0.005451618693768978 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1820.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv909_9973.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1822.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv910_21930.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1823.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv911_20260.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1824.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv911_21695.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1829.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv914_2856.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1833.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv916_15467.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1835.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv917_29484.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1835.txt
+document_sentiment=POSITIVE   Positive=0.9540577530860901 Negative=0.0005380975198931992 Neutral=0.045392826199531555 Mixed=1.1364119927748106e-05 
+document_sentiment=NEUTRAL   Positive=0.2726346254348755 Negative=0.19076290726661682 Neutral=0.5296744108200073 Mixed=0.006928049027919769 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1836.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv917_29715.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1836.txt
+document_sentiment=NEGATIVE   Positive=0.07040635496377945 Negative=0.7800387144088745 Neutral=0.1492621898651123 Mixed=0.00029277894645929337 
+document_sentiment=POSITIVE   Positive=0.5699173212051392 Negative=0.1364704817533493 Neutral=0.28085386753082275 Mixed=0.012758300639688969 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1838.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv918_27080.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1839.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv919_16380.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1842.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv920_29622.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1846.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv922_10185.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1849.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv924_29397.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1849.txt
+document_sentiment=POSITIVE   Positive=0.5908892750740051 Negative=0.17143391072750092 Neutral=0.22779621183872223 Mixed=0.009880619123578072 
+document_sentiment=NEGATIVE   Positive=0.12515778839588165 Negative=0.6938296556472778 Neutral=0.18080903589725494 Mixed=0.00020352235878817737 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1850.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv924_29540.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1851.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv925_8969.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1852.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv925_9459.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1856.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv927_11471.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1862.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv930_14949.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1862.txt
+document_sentiment=POSITIVE   Positive=0.5857543349266052 Negative=0.2705782353878021 Neutral=0.10309330374002457 Mixed=0.040574103593826294 
+document_sentiment=NEGATIVE   Positive=0.23271755874156952 Negative=0.5954360961914062 Neutral=0.1411149650812149 Mixed=0.03073135018348694 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1865.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv932_13401.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1865.txt
+document_sentiment=NEGATIVE   Positive=0.11012816429138184 Negative=0.8093259334564209 Neutral=0.0017690802924335003 Mixed=0.07877687364816666 
+document_sentiment=MIXED   Positive=0.03445816785097122 Negative=0.12623974680900574 Neutral=0.017280234023928642 Mixed=0.8220218420028687 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1867.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv933_23776.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1872.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv935_24977.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1875.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv937_9811.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1875.txt
+document_sentiment=NEGATIVE   Positive=0.1667633056640625 Negative=0.7404521703720093 Neutral=0.053831227123737335 Mixed=0.0389532595872879 
+document_sentiment=POSITIVE   Positive=0.9441750049591064 Negative=0.0057408781722188 Neutral=0.044803183525800705 Mixed=0.005280958488583565 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1877.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv938_10220.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1879.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv939_10583.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1881.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv940_17705.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1888.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv943_23547.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1889.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv944_13521.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1892.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv945_13012.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1898.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv948_25870.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1904.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv951_11816.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1905.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv952_25240.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1906.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv952_26375.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1906.txt
+document_sentiment=POSITIVE   Positive=0.65316241979599 Negative=0.06522276252508163 Neutral=0.28151389956474304 Mixed=0.000100903314887546 
+document_sentiment=NEGATIVE   Positive=0.0013827579095959663 Negative=0.9089097380638123 Neutral=0.08965235203504562 Mixed=5.508233152795583e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1909.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv954_18628.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1912.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv955_26154.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1919.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv959_14611.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1924.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv961_5682.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1925.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv962_9803.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1928.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv963_7208.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1929.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv964_5794.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1940.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv969_14760.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1940.txt
+document_sentiment=POSITIVE   Positive=0.5261840224266052 Negative=0.005685131531208754 Neutral=0.31356504559516907 Mixed=0.15456587076187134 
+document_sentiment=MIXED   Positive=0.30444544553756714 Negative=0.011023095808923244 Neutral=0.285029798746109 Mixed=0.39950165152549744 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1942.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv970_19532.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1944.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv971_11790.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1945.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv972_26417.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1950.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv974_24303.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1950.txt
+document_sentiment=POSITIVE   Positive=0.9680270552635193 Negative=0.00325840525329113 Neutral=0.02815546654164791 Mixed=0.0005590504151768982 
+document_sentiment=NEUTRAL   Positive=0.21101486682891846 Negative=0.049016814678907394 Neutral=0.739871084690094 Mixed=9.722239337861538e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1954.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv976_10724.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1954.txt
+document_sentiment=POSITIVE   Positive=0.8084139227867126 Negative=0.05499366298317909 Neutral=0.1361696720123291 Mixed=0.00042272667633369565 
+document_sentiment=NEUTRAL   Positive=0.36035799980163574 Negative=0.0618305467069149 Neutral=0.5776960849761963 Mixed=0.00011545312008820474 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1957.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv978_20929.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1957.txt
+document_sentiment=NEGATIVE   Positive=0.2255389243364334 Negative=0.7255550026893616 Neutral=0.03668724372982979 Mixed=0.012218854390084743 
+document_sentiment=POSITIVE   Positive=0.6196021437644958 Negative=0.0043469201773405075 Neutral=0.3749326765537262 Mixed=0.0011182386660948396 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1958.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv978_22192.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1959.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv979_18921.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1964.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv981_16679.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1965.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv982_21103.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1966.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv982_22209.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1967.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv983_22928.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1968.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv983_24219.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1969.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv984_12767.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1971.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv985_5964.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1971.txt
+document_sentiment=POSITIVE   Positive=0.7800641059875488 Negative=0.03329376131296158 Neutral=0.011303541250526905 Mixed=0.17533855140209198 
+document_sentiment=NEGATIVE   Positive=0.06442190706729889 Negative=0.5245839357376099 Neutral=0.41097524762153625 Mixed=1.892910586320795e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1975.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv987_6965.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1975.txt
+document_sentiment=NEGATIVE   Positive=0.06682039797306061 Negative=0.7738587260246277 Neutral=0.013182510621845722 Mixed=0.14613832533359528 
+document_sentiment=POSITIVE   Positive=0.7015440464019775 Negative=0.2506747543811798 Neutral=0.008133525028824806 Mixed=0.0396476611495018 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1978.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv988_20168.txt
+E:/MT_SA_FS/data/TestingResults/output/mr7_1/amazon/os1978.txt
+document_sentiment=POSITIVE   Positive=0.39106225967407227 Negative=0.3458179235458374 Neutral=0.2591390907764435 Mixed=0.00398072088137269 
+document_sentiment=NEGATIVE   Positive=0.0009672002051956952 Negative=0.9850860834121704 Neutral=0.013872266747057438 Mixed=7.445157098118216e-05 
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1980.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv989_17297.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1982.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv990_12443.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1983.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv991_18645.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1991.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv995_21821.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1996.txt------->E:/MT_SA_FS/data/txt_sentoken/neg/cv997_5152.txt
+E:/MT_SA_FS/data/TestingResults/input/mr7_1/amazon/s1997.txt------->E:/MT_SA_FS/data/txt_sentoken/pos/cv998_14111.txt

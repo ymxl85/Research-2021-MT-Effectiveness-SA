@@ -1,0 +1,992 @@
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os3.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os6.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os8.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os9.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os10.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os14.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os31.txt
+document_sentiment= positive polarity= 0.07
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os42.txt
+document_sentiment= negative polarity= -0.07
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os46.txt
+document_sentiment= negative polarity= -0.04
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os53.txt
+document_sentiment= negative polarity= -0.18
+document_sentiment= positive polarity= 0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os71.txt
+document_sentiment= positive polarity= 0.07
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os91.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os92.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os96.txt
+document_sentiment= positive polarity= 0.12
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os98.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.4
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os117.txt
+document_sentiment= positive polarity= 0.12
+document_sentiment= negative polarity= -0.09
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os122.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os130.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os136.txt
+document_sentiment= positive polarity= 0.07
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os154.txt
+document_sentiment= positive polarity= 0.07
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os157.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os158.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os159.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os162.txt
+document_sentiment= positive polarity= 0.09
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os165.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os170.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os187.txt
+document_sentiment= positive polarity= 0.14
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os189.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os214.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os227.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os230.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.24
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os236.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os256.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os260.txt
+document_sentiment= negative polarity= -0.07
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os265.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os270.txt
+document_sentiment= positive polarity= 0.09
+document_sentiment= negative polarity= -0.13
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os283.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= negative polarity= -0.1
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os294.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os298.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os310.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= negative polarity= -0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os319.txt
+document_sentiment= negative polarity= -0.04
+document_sentiment= positive polarity= 0.11
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os338.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os340.txt
+document_sentiment= positive polarity= 0.09
+document_sentiment= negative polarity= -0.12
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os343.txt
+document_sentiment= negative polarity= -0.09
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os353.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os355.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os362.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os366.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os371.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os378.txt
+document_sentiment= negative polarity= -0.08
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os379.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os387.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os388.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os398.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.12
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os400.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os403.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.22
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os410.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.11
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os417.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os420.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os445.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.1
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os446.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os448.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os454.txt
+document_sentiment= negative polarity= -0.05
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os461.txt
+document_sentiment= positive polarity= 0.11
+document_sentiment= negative polarity= -0.14
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os469.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os470.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os472.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os474.txt
+document_sentiment= positive polarity= 0.14
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os479.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os485.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os492.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os500.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os506.txt
+document_sentiment= negative polarity= -0.09
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os508.txt
+document_sentiment= positive polarity= 0.08
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os511.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os528.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os541.txt
+document_sentiment= positive polarity= 0.15
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os542.txt
+document_sentiment= negative polarity= -0.04
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os546.txt
+document_sentiment= positive polarity= 0.1
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os554.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os555.txt
+document_sentiment= negative polarity= -0.04
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os583.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os586.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os594.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os598.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os605.txt
+document_sentiment= negative polarity= -0.09
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os618.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os620.txt
+document_sentiment= positive polarity= 0.12
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os622.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os638.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os647.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os648.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os656.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os666.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os676.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os684.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os689.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os692.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os707.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os709.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os730.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os740.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os744.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os756.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.11
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os771.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os775.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os776.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os787.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os789.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os795.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os800.txt
+document_sentiment= positive polarity= 0.16
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os808.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os816.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os818.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os822.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os825.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os828.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os841.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os854.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os866.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.16
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os876.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os890.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os902.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os904.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os909.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os914.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os918.txt
+document_sentiment= negative polarity= -0.05
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os962.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os964.txt
+document_sentiment= positive polarity= 0.08
+document_sentiment= negative polarity= -0.13
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os973.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os978.txt
+document_sentiment= positive polarity= 0.13
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os984.txt
+document_sentiment= negative polarity= -0.1
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os986.txt
+document_sentiment= negative polarity= -0.09
+document_sentiment= positive polarity= 0.17
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os992.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os996.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os997.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os999.txt
+document_sentiment= negative polarity= -0.08
+document_sentiment= positive polarity= 0.14
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1001.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1020.txt
+document_sentiment= positive polarity= 0.17
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1028.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1037.txt
+document_sentiment= positive polarity= 0.09
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1045.txt
+document_sentiment= negative polarity= -0.1
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1064.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1082.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1083.txt
+document_sentiment= positive polarity= 0.16
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1088.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1095.txt
+document_sentiment= positive polarity= 0.19
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1112.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1124.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1131.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1134.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1135.txt
+document_sentiment= positive polarity= 0.1
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1141.txt
+document_sentiment= negative polarity= -0.12
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1146.txt
+document_sentiment= negative polarity= -0.04
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1161.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1164.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1166.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1169.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.09
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1175.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1177.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= negative polarity= -0.09
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1184.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= positive polarity= 0.09
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1191.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1198.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1204.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1205.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1214.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1216.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1218.txt
+document_sentiment= negative polarity= -0.14
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1222.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1232.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1247.txt
+document_sentiment= positive polarity= 0.15
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1255.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1262.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1266.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1271.txt
+document_sentiment= negative polarity= -0.09
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1273.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1277.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1282.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1297.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1305.txt
+document_sentiment= positive polarity= 0.13
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1336.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1356.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1358.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1363.txt
+document_sentiment= negative polarity= -0.41
+document_sentiment= positive polarity= 0.15
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1364.txt
+document_sentiment= negative polarity= -0.09
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1371.txt
+document_sentiment= positive polarity= 0.11
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1380.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1383.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1416.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1422.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= positive polarity= 0.1
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1424.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1429.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1441.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1448.txt
+document_sentiment= positive polarity= 0.17
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1452.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1453.txt
+document_sentiment= positive polarity= 0.07
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1463.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.12
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1470.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1478.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1490.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1502.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1504.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1506.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1510.txt
+document_sentiment= positive polarity= 0.1
+document_sentiment= negative polarity= -0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1536.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1538.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1552.txt
+document_sentiment= positive polarity= 0.08
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1556.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1562.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1563.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1575.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.08
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1579.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1638.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.07
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1640.txt
+document_sentiment= negative polarity= -0.05
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1644.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.14
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1650.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1661.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.11
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1667.txt
+document_sentiment= negative polarity= -0.01
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1674.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1675.txt
+document_sentiment= neutral polarity= -0.0
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1701.txt
+document_sentiment= positive polarity= 0.04
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1702.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1722.txt
+document_sentiment= negative polarity= -0.05
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1733.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1734.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= neutral polarity= 0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1735.txt
+document_sentiment= positive polarity= 0.16
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1743.txt
+document_sentiment= negative polarity= -0.2
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1746.txt
+document_sentiment= positive polarity= 0.02
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1761.txt
+document_sentiment= negative polarity= -0.02
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1774.txt
+document_sentiment= negative polarity= -0.06
+document_sentiment= positive polarity= 0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1779.txt
+document_sentiment= negative polarity= -0.03
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1806.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1822.txt
+document_sentiment= positive polarity= 0.06
+document_sentiment= negative polarity= -0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1832.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= positive polarity= 0.03
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1838.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1840.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.06
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1841.txt
+document_sentiment= negative polarity= -0.08
+document_sentiment= positive polarity= 0.04
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1849.txt
+document_sentiment= negative polarity= -0.05
+document_sentiment= positive polarity= 0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1865.txt
+document_sentiment= positive polarity= 0.03
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1884.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1889.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1940.txt
+document_sentiment= neutral polarity= 0.0
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1943.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1946.txt
+document_sentiment= positive polarity= 0.05
+document_sentiment= negative polarity= -0.05
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1970.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1976.txt
+document_sentiment= negative polarity= -0.14
+document_sentiment= positive polarity= 0.01
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1978.txt
+document_sentiment= positive polarity= 0.01
+document_sentiment= negative polarity= -0.02
+------------------------*******************-----------------
+E:/MT_SA_FS/data/TestingResults/output/mr5_3/herokuapp/os1980.txt
+document_sentiment= negative polarity= -0.04
+document_sentiment= neutral polarity= -0.0
+------------------------*******************-----------------
