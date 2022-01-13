@@ -2,7 +2,7 @@
 Replication package for paper: On the Effectiveness of Testing Sentiment Analysis Systems with Metamorphic
 Testing
 
-We are building a series of python programs to automate MT, and to provide data and analysis results. 
+We are building a series of python programs to automate MT, and to analysis experimental data. 
 
 ## Evaluation:
 1. The [four subject SA APIs](../main/SAtool) can be accessed automatically.
